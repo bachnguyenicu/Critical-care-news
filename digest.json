@@ -1,0 +1,104 @@
+{
+  "date": "June 29, 2026",
+  "subtitle": "Three new studies from major journals and PubMed, narrated in English with deeper analysis. Read along while you listen.",
+  "script": [
+    { "heading": "Intro", "sentences": [
+      "Welcome to your Critical Care Daily audio digest for June twenty-ninth, twenty twenty-six.",
+      "Today we have three items worth your attention.",
+      "First, a large meta-analysis asking whether tight blood glucose control actually helps critically ill patients.",
+      "Second, fresh evidence on inhaled antibiotics for ventilator-associated pneumonia.",
+      "And third, the headline recommendations from the twenty twenty-six Surviving Sepsis Campaign guidelines.",
+      "Take your time, follow the highlighted sentence, and let's begin."
+    ]},
+    { "heading": "Story 1 — Glucose control", "sentences": [
+      "Let's start with blood glucose targets in critically ill adults.",
+      "This is an old debate that keeps coming back, and a new systematic review and meta-analysis gives us the largest answer so far.",
+      "The authors pooled forty-five randomized controlled trials, together enrolling more than thirty-two thousand patients who received insulin infusions in the intensive care unit.",
+      "They compared an intensive strategy, aiming for near-normal blood sugar, against a conventional strategy with a higher, more relaxed target.",
+      "Here is the central result.",
+      "Intensive glucose control did not reduce death, either in the intensive care unit or in the hospital overall.",
+      "So on the outcome that matters most, mortality, tight control showed no benefit.",
+      "There were, however, some signals on secondary outcomes.",
+      "Intensive control was associated with a shorter stay in the intensive care unit, fewer infections, and a lower rate of critical illness polyneuropathy.",
+      "But these potential benefits came with a clear and important cost.",
+      "Patients in the intensive arms had roughly a three-point-six fold higher risk of severe hypoglycemia, meaning dangerously low blood sugar.",
+      "Severe hypoglycemia is not a trivial event; it can cause seizures, arrhythmias, and brain injury, and in fragile patients it can be fatal.",
+      "So how should we read this?",
+      "The weight of evidence says that chasing very tight glucose numbers does not save lives, and it meaningfully increases the risk of harm.",
+      "The secondary benefits are real but uncertain, and they do not outweigh a more than threefold rise in severe hypoglycemia.",
+      "The take-home is that a moderate glucose target remains the safer default for most patients in the intensive care unit.",
+      "In practice, that usually means keeping glucose somewhere in the range of about one hundred forty to one hundred eighty milligrams per deciliter, while avoiding both extremes."
+    ]},
+    { "heading": "Story 2 — Inhaled antibiotics", "sentences": [
+      "Our second story is about inhaled antibiotics for ventilator-associated pneumonia, published in the journal Critical Care Medicine.",
+      "Ventilator-associated pneumonia is one of the most common and most stubborn infections in the intensive care unit, and resistant organisms make it harder to treat.",
+      "The idea behind inhaled antibiotics is appealing.",
+      "By delivering the drug directly into the lungs, you can achieve very high local concentrations while limiting how much reaches the rest of the body.",
+      "This systematic review combined thirty-two randomized controlled trials, along with additional non-randomized studies, to test whether that idea holds up.",
+      "The main finding was encouraging.",
+      "Adding inhaled antibiotics on top of standard intravenous therapy improved the clinical cure rate, and it improved microbiological eradication, meaning the bacteria were cleared more often, compared with placebo or no inhaled drug.",
+      "There was also a mortality signal.",
+      "In the subgroup of patients whose only infection was the pneumonia itself, inhaled antibiotics were associated with lower all-cause mortality.",
+      "That is a striking result, but it deserves caution.",
+      "The trials varied a great deal in the antibiotics used, the delivery devices, the doses, and the types of patients enrolled.",
+      "That heterogeneity makes the pooled mortality benefit less certain than it first appears, and it may not apply equally to every patient.",
+      "So the take-home is balanced.",
+      "Inhaled antibiotics look like a useful add-on for difficult ventilator-associated pneumonia, especially when resistant organisms are involved or the patient is not improving on intravenous drugs alone.",
+      "But they should be applied selectively, not routinely, and we should watch for higher-quality trials before treating the survival benefit as settled."
+    ]},
+    { "heading": "Story 3 — Sepsis guidelines", "sentences": [
+      "Our third item is the twenty twenty-six update of the Surviving Sepsis Campaign international guidelines.",
+      "These guidelines are among the most widely used documents in critical care, so it is worth knowing what they reaffirm.",
+      "The biggest messages this year concern patients who have sepsis together with the acute respiratory distress syndrome, or ARDS.",
+      "First, on ventilation strategy.",
+      "The guidelines continue to recommend low tidal volume ventilation, at around six milliliters per kilogram of predicted body weight, rather than high tidal volumes.",
+      "This lung-protective approach has been a cornerstone of ARDS care for years, and the evidence still strongly supports it.",
+      "Second, on positioning.",
+      "For patients with moderate to severe ARDS, the guidelines suggest prone positioning, that is, turning the patient face down, for more than twelve hours per day.",
+      "Proning improves oxygenation and has been shown to reduce mortality in the sickest patients.",
+      "Third, on rescue therapy.",
+      "For severe ARDS, when conventional mechanical ventilation is failing, the guidelines suggest veno-venous ECMO, extracorporeal membrane oxygenation, but specifically in experienced centers.",
+      "That last phrase matters, because ECMO is resource-intensive and carries real risks when delivered without the right expertise.",
+      "The overall take-home is reassuring continuity rather than dramatic change.",
+      "The core lung-protective strategy is unchanged: low tidal volumes, prone positioning for the moderate to severe cases, and ECMO held in reserve as a rescue option in expert hands.",
+      "If your unit is already doing these things consistently, this update is a confirmation that you are on the right track."
+    ]},
+    { "heading": "Outro", "sentences": [
+      "That wraps up your critical care update for today.",
+      "You will find the three source links listed just below this transcript, so you can read the original studies in full.",
+      "Thanks for listening, and I'll see you again tomorrow morning."
+    ]}
+  ],
+  "articles": [
+    {
+      "title": "Intensive vs. conventional blood glucose targets in critically ill adults",
+      "source": "Systematic review & meta-analysis",
+      "date": "Jun 9, 2026",
+      "type": "45 RCTs · 32,215 patients",
+      "summary": "This systematic review and meta-analysis pooled 45 randomized controlled trials, enrolling more than 32,215 critically ill adults treated with insulin infusions, to compare an intensive blood-glucose target (near-normal glycemia) against a conventional, more relaxed target. The primary outcome, mortality, showed no benefit: intensive control did not reduce death in the ICU or in the hospital. On secondary outcomes, intensive control was associated with a shorter ICU length of stay, fewer infections, and less critical illness polyneuropathy. However, it carried a roughly 3.6-fold higher risk of severe hypoglycemia — a potentially dangerous event linked to seizures, arrhythmias, and neurological injury.",
+      "analysis": "The balance of evidence indicates that very tight glycemic control offers no survival advantage while substantially increasing the risk of severe hypoglycemia. The secondary benefits (shorter stay, fewer infections, less polyneuropathy) are real but uncertain and do not outweigh a more than threefold rise in dangerous lows. A moderate target — commonly ~140–180 mg/dL — remains the safer default for most ICU patients, with vigilance to avoid both hyperglycemia and hypoglycemia. Individualization still matters in selected populations, but routine pursuit of normoglycemia is not supported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=intensive+glucose+control+critically+ill+meta-analysis&sort=date",
+      "urlLabel": "View on PubMed"
+    },
+    {
+      "title": "Adjunctive inhaled antibiotics for ventilator-associated pneumonia (VAP)",
+      "source": "Critical Care Medicine (CCM)",
+      "date": "Jun 2026 · Vol 54(6)",
+      "type": "Systematic review & meta-analysis · 32 RCTs",
+      "summary": "Published in Critical Care Medicine, this systematic review combined 32 randomized controlled trials plus additional non-randomized studies to evaluate inhaled antibiotics as an adjunct to standard intravenous therapy for ventilator-associated pneumonia (VAP). The rationale is pharmacologic: aerosolized delivery achieves high local lung concentrations while limiting systemic exposure. Adding inhaled antibiotics improved clinical cure and microbiological eradication versus placebo/no inhaled drug. In the subgroup of patients whose only infection was the pneumonia, inhaled antibiotics were also associated with lower all-cause mortality.",
+      "analysis": "The findings support inhaled antibiotics as a useful adjunct for difficult-to-treat VAP, particularly with resistant organisms or inadequate response to IV therapy. However, substantial heterogeneity across trials — differing agents, nebulizer devices, doses, and patient populations — weakens confidence in the pooled mortality signal, which should not yet be treated as definitive. Reasonable practice is selective use rather than routine adoption, ideally guided by local microbiology and antimicrobial stewardship, while awaiting higher-quality, standardized trials to confirm the survival benefit.",
+      "url": "https://journals.lww.com/ccmjournal/pages/default.aspx",
+      "urlLabel": "Critical Care Medicine"
+    },
+    {
+      "title": "Surviving Sepsis Campaign: International Guidelines 2026 (Executive Summary)",
+      "source": "SCCM / Critical Care Medicine",
+      "date": "Jun 2026",
+      "type": "Clinical practice guideline",
+      "summary": "The 2026 Surviving Sepsis Campaign update reaffirms core management principles for sepsis and septic shock, with notable emphasis on patients who also have ARDS. For sepsis with ARDS, the guidelines continue to recommend low tidal volume ventilation (~6 mL/kg predicted body weight) over high tidal volumes. For moderate-to-severe ARDS, they suggest prone positioning for more than 12 hours per day. For severe ARDS in whom conventional ventilation is failing, veno-venous ECMO is suggested — but specifically within experienced centers.",
+      "analysis": "This update is best read as reassuring continuity rather than a change of direction: the lung-protective bundle (low tidal volumes, proning for moderate-to-severe disease, and ECMO held in reserve as rescue in expert hands) remains the standard of care. The explicit 'experienced centers' qualifier on ECMO is a reminder that outcomes depend heavily on institutional expertise and resources. For most units, the practical message is to ensure consistent, reliable delivery of these established interventions rather than to adopt anything new.",
+      "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026",
+      "urlLabel": "SCCM guideline"
+    }
+  ]
+}
