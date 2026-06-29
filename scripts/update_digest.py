@@ -166,6 +166,7 @@ def keyword_tokens(text: str) -> set[str]:
         "the", "and", "for", "with", "from", "that", "this", "trial", "study", "patients",
         "patient", "critical", "care", "intensive", "medicine", "journal", "review",
         "reviews", "clinical", "randomized", "systematic", "meta", "analysis",
+        "versus", "compared", "comparison", "critically", "adult", "adults",
     }
     words = re.findall(r"[a-zA-Z][a-zA-Z-]{3,}", text.lower())
     return {w.strip("-") for w in words if w not in stop}
@@ -312,8 +313,10 @@ def apply_critical_care_reviews_signals(articles: list[dict], signals: list[dict
             if not isinstance(signal_tokens, set) or not signal_tokens:
                 continue
             overlap_title = title_tokens & signal_tokens
-            overlap_abstract = abstract_tokens & signal_tokens
-            if len(overlap_title) >= 3 or len(overlap_abstract) >= 5:
+            strong_title_match = len(overlap_title) >= 4 or (
+                len(overlap_title) >= 3 and any(len(token) >= 8 for token in overlap_title)
+            )
+            if strong_title_match:
                 matched.append({"title": signal["title"], "url": signal["url"]})
         if matched:
             item.setdefault("sourceSignals", ["PubMed"])

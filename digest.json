@@ -13,23 +13,9 @@
       ]
     },
     {
-      "heading": "Story 1 - Comparison of Intensive Versus Conventional Glycemic Control T",
+      "heading": "Story 1 - Balanced crystalloids versus saline and mortality in hospitali",
       "sentences": [
-        "Story 1 is about Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in critically ill adults on insulin infusions, how should we interpret Comparison of Intensive compared with Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults?",
-        "Forty-five RCTs were included involving 32,215 patients.",
-        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
-        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 2 - Balanced crystalloids versus saline and mortality in hospitali",
-      "sentences": [
-        "Story 2 is about Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials..",
+        "Story 1 is about Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials..",
         "This is a systematic review / meta-analysis from Journal of critical care.",
         "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Balanced crystalloids compared with saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials?",
         "Six trials involving 42,223 patients met the inclusion criteria.",
@@ -41,15 +27,30 @@
       ]
     },
     {
-      "heading": "Story 3 - Association of White Blood Cell Count with Treatment Response ",
+      "heading": "Story 2 - Comparison of Intensive Versus Conventional Glycemic Control T",
       "sentences": [
-        "Story 3 is about Association of White Blood Cell Count with Treatment Response to Cefepime vs Piperacillin-Tazobactam..",
-        "This is a recent research article from American journal of respiratory and critical care medicine.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Association of White Blood Cell Count with Treatment Response to Cefepime compared with Piperacillin-Tazobactam?",
-        "There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds ratio [OR] 0.95, 95% confidence interval [CI] 0.92-0.98, p = <0.01 and OR 0,95, CI 0.94-0.96, P < .01, respectively), with likelihood ratio testing revealing better model fit with inclusion of the interaction term (F = 8.17, p = <0.01 and F = 42.9, P < .01, respectively).",
-        "In the ACORN cohort, patients with a baseline WBC count of 16 or higher had significantly lower odds of mortality when treated with piperacillin-tazobactam compared to cefepime (OR 0.51, CI 0.29-0.90).",
+        "Story 2 is about Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in critically ill adults on insulin infusions, how should we interpret Comparison of Intensive compared with Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults?",
+        "Forty-five RCTs were included involving 32,215 patients.",
+        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
+        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Efficacy and Safety of Systemic Prophylactic Antibacterials in",
+      "sentences": [
+        "Story 3 is about Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Eleven RCTs with 5562 patients were included.",
+        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
+        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -63,68 +64,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults.",
-      "source": "Critical care medicine",
-      "date": "Jun 09 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "Forty-five RCTs were included involving 32,215 patients. No differences were seen between INT and CONV targets for hospital mortality or ICU mortality. Most of the studies with significant differences contained serious inconsistencies or risk of bias. No differences were seen in ICU or hospital mortality. To perform an updated systematic review and meta-analysis of the efficacy and safety of intensive (INT) vs. conventional (CONV) blood glucose (BG) targets for critically ill adults on insulin infusions.",
-      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-      "pico": {
-        "population": "critically ill adults on insulin infusions",
-        "intervention": "Comparison of Intensive",
-        "comparator": "Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
-      },
-      "keyResults": [
-        "Forty-five RCTs were included involving 32,215 patients.",
-        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
-        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
-        "No differences were seen in ICU or hospital mortality."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Intensive Versus Conventional Glycemic Control Targets.",
-          "The most clinically relevant signal was Forty-five RCTs were included involving 32,215 patients..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Comparison of Intensive should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
-      ],
-      "curationLinks": [
-        {
-          "title": "Foundational Trial Summary & Critique Semler. Balanced Crystalloids versus Saline in Critically Ill Adults (SMART). N Engl J Med 2018 ; 378 : 829 - 839 added March 24th",
-          "url": "https://criticalcarereviews.com/foundational-trials/smart"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42262517/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42262517"
-    },
     {
       "title": "Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials.",
       "source": "Journal of critical care",
@@ -192,43 +131,38 @@
       "pmid": "42361768"
     },
     {
-      "title": "Association of White Blood Cell Count with Treatment Response to Cefepime vs Piperacillin-Tazobactam.",
-      "source": "American journal of respiratory and critical care medicine",
-      "date": "Jun 11 2026",
-      "type": "Recent research article",
-      "summary": "Secondary outcomes in the secondary analysis of the ACORN trial included highest stage of acute kidney injury on an ordinal scale, a composite outcome of major adverse kidney events, and incidence of coma or delirium within 14 days. There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds ratio [OR] 0.95, 95% confidence interval [CI] 0.92-0.98, p = <0.01 and OR 0,95, CI 0.94-0.96, P < .01, respectively), with likelihood ratio testing revealing better model fit with inclusion of the interaction term (F = 8.17, p = <0.01 and F = 42.9, P < .01, respectively). In the ACORN cohort, patients with a baseline WBC count of 16 or higher had significantly lower odds of mortality when treated with piperacillin-tazobactam compared to cefepime (OR 0.51, CI 0.29-0.90). Empiric anti-pseudomonal coverage is an important part of treatment of sepsis, but there is limited data to guide antibiotic selection. The antibiotic choice on renal outcomes (ACORN) randomized trial found no difference in mortality when comparing cefepime and piperacillin-tazobactam, while an Instrumental Variable (IV) study found improved mortality with cefepime.",
-      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "title": "Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults.",
+      "source": "Critical care medicine",
+      "date": "Jun 09 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Forty-five RCTs were included involving 32,215 patients. No differences were seen between INT and CONV targets for hospital mortality or ICU mortality. Most of the studies with significant differences contained serious inconsistencies or risk of bias. No differences were seen in ICU or hospital mortality. To perform an updated systematic review and meta-analysis of the efficacy and safety of intensive (INT) vs. conventional (CONV) blood glucose (BG) targets for critically ill adults on insulin infusions.",
+      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Association of White Blood Cell Count with Treatment Response to Cefepime",
-        "comparator": "Piperacillin-Tazobactam",
-        "outcomes": "There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds ratio [OR] 0.95, 95% confidence interval [CI] 0.92-0.98, p = <0.01 and OR 0,95, CI 0.94-0.96, P < .01, respectively), with likelihood ratio testing revealing better model fit with inclusion of the interaction..."
+        "population": "critically ill adults on insulin infusions",
+        "intervention": "Comparison of Intensive",
+        "comparator": "Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds ratio [OR] 0.95, 95% confidence interval [CI] 0.92-0.98, p = <0.01 and OR 0,95, CI 0.94-0.96, P < .01, respectively), with likelihood ratio testing revealing better model fit with inclusion of the interaction term (F = 8.17, p = <0.01 and F = 42.9, P < .01, respectively).",
-        "In the ACORN cohort, patients with a baseline WBC count of 16 or higher had significantly lower odds of mortality when treated with piperacillin-tazobactam compared to cefepime (OR 0.51, CI 0.29-0.90)."
+        "Forty-five RCTs were included involving 32,215 patients.",
+        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
+        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
+        "No differences were seen in ICU or hospital mortality."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether White Blood Cell Count with Treatment Response to Cefepime versus Piperacillin-Tazobactam.",
-          "The most clinically relevant signal was There was a significant interaction between WBC and treatment group in predicting 28-day mortality in both the ACORN trial and the IV study (odds....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "This study examined whether Intensive Versus Conventional Glycemic Control Targets.",
+          "The most clinically relevant signal was Forty-five RCTs were included involving 32,215 patients..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
-          {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
-          },
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -236,23 +170,77 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Association of White Blood Cell Count with Treatment Response to Cefepime should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Comparison of Intensive should change ICU practice today."
       },
       "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
+        "PubMed"
       ],
-      "curationLinks": [
-        {
-          "title": "Todd. Procalcitonin testing combined with NEWS2 evaluation compared with usual care based on NEWS2 for identification of sepsis and antibiotic initiation in the emergency department in England and Wales (PRONTO): a multi",
-          "url": "https://doi.org/10.1016/S2213-2600(25)00433-3"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42275170/",
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42262517/",
       "urlLabel": "View on PubMed",
-      "pmid": "42275170"
+      "pmid": "42262517"
+    },
+    {
+      "title": "Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis.",
+      "source": "Critical care medicine",
+      "date": "Jun 01 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Eleven RCTs with 5562 patients were included. Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty). Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients. However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear. Therefore, this study aims to evaluate the efficacy and safety of systemic prophylactic use of antibacterials in mechanically ventilated patients.",
+      "analysis": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+      "pico": {
+        "population": "patients",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Eleven RCTs with 5562 patients were included.",
+        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
+        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
+        "However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients.",
+          "The most clinically relevant signal was Eleven RCTs with 5562 patients were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review,....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223318/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42223318"
     }
   ]
 }
