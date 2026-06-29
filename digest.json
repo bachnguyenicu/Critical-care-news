@@ -13,44 +13,44 @@
       ]
     },
     {
-      "heading": "Story 1 - Balanced crystalloids versus saline and mortality in hospitali",
+      "heading": "Story 1 - Diagnostic and Prognostic Value of the Venous Excess Ultrasoun",
       "sentences": [
-        "Story 1 is about Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials..",
-        "This is a systematic review / meta-analysis from Journal of critical care.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Balanced crystalloids compared with saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials?",
-        "Six trials involving 42,223 patients met the inclusion criteria.",
-        "For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit.",
-        "For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit.",
+        "Story 1 is about Diagnostic and Prognostic Value of the Venous Excess Ultrasound Grading System: A Systematic Review and Meta-Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients, with six diagnostic, 22 prognostic studies, and four studies that reported on both diagnostic and prognostic outcomes, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 32 studies were included, consisting of 3142 patients, with six diagnostic, 22 prognostic studies, and four studies that reported on both diagnostic and prognostic outcomes.",
+        "Studies suggest moderate to good diagnostic accuracy for detecting increased central venous and right atrial pressures (sensitivity 78-95%, specificity 80-90%).",
+        "Prognostic studies in cardiac patients found an association between VExUS greater than or equal to 2 and acute kidney injury (AKI; odds ratio [OR], 4.44; 95% CI, 2.34-8.43; moderate certainty) and mortality (OR, 3.17; 95% CI, 1.30-7.75, low certainty).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "The bedside implication is this: This is mainly diagnostic/prognostic support; use it to frame fluid-tolerance assessment, not as a standalone trigger for diuresis or ultrafiltration.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Comparison of Intensive Versus Conventional Glycemic Control T",
+      "heading": "Story 2 - Impact of higher versus lower PEEP on mortality in mechanicall",
       "sentences": [
-        "Story 2 is about Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in critically ill adults on insulin infusions, how should we interpret Comparison of Intensive compared with Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults?",
-        "Forty-five RCTs were included involving 32,215 patients.",
-        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
-        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
+        "Story 2 is about Impact of higher versus lower PEEP on mortality in mechanically ventilated patients with Sepsis - A multicenter, multi-cohort observational analysis..",
+        "This is a cohort study from Journal of critical care.",
+        "The clinical question is best framed as follows: in patients requiring mechanical ventilation across three cohorts (one multicentric prospective = Hyspec ICU, one monocentric prospective = SepDataNet, one monocentric retrospective = RetroS, how should we interpret Impact of higher compared with lower PEEP on mortality in mechanically ventilated patients with Sepsis - A multicenter, multi-cohort observational analysis?",
+        "In two cohorts, higher PEEP was associated with significantly lower mortality (RetroSep: 39.4% vs.",
+        "50.4% for ICU-mortality, p = 0.008; Hyspec-ICU: 22% vs.",
+        "41.7% for 30-day mortality, p = 0.029).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Efficacy and Safety of Systemic Prophylactic Antibacterials in",
+      "heading": "Story 3 - Incidence and Outcomes of Refractory Septic Shock per Consensu",
       "sentences": [
-        "Story 3 is about Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in patients, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Eleven RCTs with 5562 patients were included.",
-        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
-        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
+        "Story 3 is about Incidence and Outcomes of Refractory Septic Shock per Consensus Clinical Criteria: A Multicohort Retrospective Study..",
+        "This is a cohort study from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients with septic shock, how should we interpret refractory septic shock and 2) to assess outcomes of patients with septic shock meeting refractory septic shock criteria compared with those who did not. Multicohort, retrospective study. For aim 1, a descriptive epidemiologic study was designed to ascert?",
+        "Of 35,914 patients assessed, 15,732 patients with septic shock were included.",
+        "Refractory septic shock occurred in 3423 patients (21.8%), with a cumulative incidence of 218 cases (95% CI, 211-224) per 1000 patients with septic shock.",
+        "Hospital mortality with refractory septic shock was 64.4%, and risk-adjusted hospital mortality odds were 4.87-fold higher (95% CI, 4.46-5.31) compared with patients without refractory septic shock.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,157 +65,35 @@
   ],
   "articles": [
     {
-      "title": "Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials.",
-      "source": "Journal of critical care",
-      "date": "Jun 26 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "Balanced crystalloids are widely used as alternatives to 0.9% saline, yet their effects on patient-important outcomes remain uncertain. Six trials involving 42,223 patients met the inclusion criteria. For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit. For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit. Balanced crystalloid policies were not associated with a clear reduction in mortality or AKI in cluster-randomized evaluations of routine care.",
-      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Balanced crystalloids",
-        "comparator": "saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials",
-        "outcomes": "Six trials involving 42,223 patients met the inclusion criteria. For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit. For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit. Sensitivity analyses..."
-      },
-      "keyResults": [
-        "Six trials involving 42,223 patients met the inclusion criteria.",
-        "For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit.",
-        "For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit.",
-        "Sensitivity analyses yielded similar findings."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Balanced crystalloids versus saline and mortality in hospitalized patients.",
-          "The most clinically relevant signal was Six trials involving 42,223 patients met the inclusion criteria..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Balanced crystalloids should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
-      ],
-      "curationLinks": [
-        {
-          "title": "Foundational Trial Summary & Critique Semler. Balanced Crystalloids versus Saline in Critically Ill Adults (SMART). N Engl J Med 2018 ; 378 : 829 - 839 added March 24th",
-          "url": "https://criticalcarereviews.com/foundational-trials/smart"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42361768/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42361768"
-    },
-    {
-      "title": "Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults.",
+      "title": "Diagnostic and Prognostic Value of the Venous Excess Ultrasound Grading System: A Systematic Review and Meta-Analysis.",
       "source": "Critical care medicine",
       "date": "Jun 09 2026",
       "type": "Systematic review / meta-analysis",
-      "summary": "Forty-five RCTs were included involving 32,215 patients. No differences were seen between INT and CONV targets for hospital mortality or ICU mortality. Most of the studies with significant differences contained serious inconsistencies or risk of bias. No differences were seen in ICU or hospital mortality. To perform an updated systematic review and meta-analysis of the efficacy and safety of intensive (INT) vs. conventional (CONV) blood glucose (BG) targets for critically ill adults on insulin infusions.",
-      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+      "summary": "A total of 32 studies were included, consisting of 3142 patients, with six diagnostic, 22 prognostic studies, and four studies that reported on both diagnostic and prognostic outcomes. Studies suggest moderate to good diagnostic accuracy for detecting increased central venous and right atrial pressures (sensitivity 78-95%, specificity 80-90%). Prognostic studies in cardiac patients found an association between VExUS greater than or equal to 2 and acute kidney injury (AKI; odds ratio [OR], 4.44; 95% CI, 2.34-8.43; moderate certainty) and mortality (OR, 3.17; 95% CI, 1.30-7.75, low certainty). For critically ill patients, no associations between VExUS greater than or equal to 2 and AKI (OR, 1.45; 95% CI, 0.70-2.99; very low certainty) and mortality (OR, 1.25; 95% CI, 0.77-2.03; low certainty) were found. The venous excess ultrasound (VExUS) grading system has gained recognition in acute and critical care medicine as a promising approach to evaluate venous congestion and optimize fluid management.",
+      "analysis": "This is mainly diagnostic/prognostic support; use it to frame fluid-tolerance assessment, not as a standalone trigger for diuresis or ultrafiltration.",
       "pico": {
-        "population": "critically ill adults on insulin infusions",
-        "intervention": "Comparison of Intensive",
-        "comparator": "Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
-      },
-      "keyResults": [
-        "Forty-five RCTs were included involving 32,215 patients.",
-        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
-        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
-        "No differences were seen in ICU or hospital mortality."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Intensive Versus Conventional Glycemic Control Targets.",
-          "The most clinically relevant signal was Forty-five RCTs were included involving 32,215 patients..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Comparison of Intensive should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42262517/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42262517"
-    },
-    {
-      "title": "Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis.",
-      "source": "Critical care medicine",
-      "date": "Jun 01 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "Eleven RCTs with 5562 patients were included. Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty). Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients. However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear. Therefore, this study aims to evaluate the efficacy and safety of systemic prophylactic use of antibacterials in mechanically ventilated patients.",
-      "analysis": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
-      "pico": {
-        "population": "patients",
+        "population": "patients, with six diagnostic, 22 prognostic studies, and four studies that reported on both diagnostic and prognostic outcomes",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
         "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Eleven RCTs with 5562 patients were included.",
-        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
-        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
-        "However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear."
+        "A total of 32 studies were included, consisting of 3142 patients, with six diagnostic, 22 prognostic studies, and four studies that reported on both diagnostic and prognostic outcomes.",
+        "Studies suggest moderate to good diagnostic accuracy for detecting increased central venous and right atrial pressures (sensitivity 78-95%, specificity 80-90%).",
+        "Prognostic studies in cardiac patients found an association between VExUS greater than or equal to 2 and acute kidney injury (AKI; odds ratio [OR], 4.44; 95% CI, 2.34-8.43; moderate certainty) and mortality (OR, 3.17; 95% CI, 1.30-7.75, low certainty).",
+        "For critically ill patients, no associations between VExUS greater than or equal to 2 and AKI (OR, 1.45; 95% CI, 0.70-2.99; very low certainty) and mortality (OR, 1.25; 95% CI, 0.77-2.03; low certainty) were found."
       ],
       "criticalAppraisal": [
         "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
         "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+      "practiceImpact": "This is mainly diagnostic/prognostic support; use it to frame fluid-tolerance assessment, not as a standalone trigger for diuresis or ultrafiltration.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients.",
-          "The most clinically relevant signal was Eleven RCTs with 5562 patients were included..",
+          "This study examined whether the Venous Excess Ultrasound Grading System.",
+          "The most clinically relevant signal was A total of 32 studies were included, consisting of 3142 patients, with six diagnostic, 22 prognostic studies, and four studies that reported on....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review,....",
+          "For bedside practice, this matters because This is mainly diagnostic/prognostic support; use it to frame fluid-tolerance assessment, not as a standalone trigger for diuresis or ultrafiltration..",
           "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
@@ -238,9 +116,127 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42223318/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42262338/",
       "urlLabel": "View on PubMed",
-      "pmid": "42223318"
+      "pmid": "42262338"
+    },
+    {
+      "title": "Impact of higher versus lower PEEP on mortality in mechanically ventilated patients with Sepsis - A multicenter, multi-cohort observational analysis.",
+      "source": "Journal of critical care",
+      "date": "Jun 04 2026",
+      "type": "Cohort study",
+      "summary": "Primary endpoint was ICU or 30-day mortality depending on reported outcome data. In two cohorts, higher PEEP was associated with significantly lower mortality (RetroSep: 39.4% vs. 50.4% for ICU-mortality, p = 0.008; Hyspec-ICU: 22% vs. 41.7% for 30-day mortality, p = 0.029). The difference persisted after propensity score matching in the RetroSep cohort (38.4% vs.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "patients requiring mechanical ventilation across three cohorts (one multicentric prospective = Hyspec ICU, one monocentric prospective = SepDataNet, one monocentric retrospective = RetroS",
+        "intervention": "Impact of higher",
+        "comparator": "lower PEEP on mortality in mechanically ventilated patients with Sepsis - A multicenter, multi-cohort observational analysis",
+        "outcomes": "In two cohorts, higher PEEP was associated with significantly lower mortality (RetroSep: 39.4% vs. 50.4% for ICU-mortality, p = 0.008; Hyspec-ICU: 22% vs. 41.7% for 30-day mortality, p = 0.029). The difference persisted after propensity score matching in the RetroSep cohort (38.4% vs. 49.4%; p = 0.046). Hemodynamic parameters such as lactate and..."
+      },
+      "keyResults": [
+        "In two cohorts, higher PEEP was associated with significantly lower mortality (RetroSep: 39.4% vs.",
+        "50.4% for ICU-mortality, p = 0.008; Hyspec-ICU: 22% vs.",
+        "41.7% for 30-day mortality, p = 0.029).",
+        "The difference persisted after propensity score matching in the RetroSep cohort (38.4% vs."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether higher versus lower PEEP on mortality in mechanically ventilated patients with Sepsis - A....",
+          "The most clinically relevant signal was In two cohorts, higher PEEP was associated with significantly lower mortality (RetroSep: 39.4% vs..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Impact of higher should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42242063/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42242063"
+    },
+    {
+      "title": "Incidence and Outcomes of Refractory Septic Shock per Consensus Clinical Criteria: A Multicohort Retrospective Study.",
+      "source": "Critical care medicine",
+      "date": "Jun 04 2026",
+      "type": "Cohort study",
+      "summary": "Of 35,914 patients assessed, 15,732 patients with septic shock were included. Refractory septic shock occurred in 3423 patients (21.8%), with a cumulative incidence of 218 cases (95% CI, 211-224) per 1000 patients with septic shock. Hospital mortality with refractory septic shock was 64.4%, and risk-adjusted hospital mortality odds were 4.87-fold higher (95% CI, 4.46-5.31) compared with patients without refractory septic shock. Consensus clinical criteria for refractory septic shock were recently developed, but the incidence and outcomes with these criteria are unknown. There were two aims: 1) to describe the incidence of refractory septic shock and 2) to assess outcomes of patients with septic shock meeting refractory septic shock criteria compared with those who did not.",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "pico": {
+        "population": "patients with septic shock",
+        "intervention": "refractory septic shock and 2) to assess outcomes of patients with septic shock meeting refractory septic shock criteria",
+        "comparator": "those who did not. Multicohort, retrospective study. For aim 1, a descriptive epidemiologic study was designed to ascert",
+        "outcomes": "Clinical criteria for refractory septic shock were operationalized as concomitant occurrence of norepinephrine (base) equivalent greater than 0.5 µg/kg/min and lactate greater than 2 mmol/L. Risk-adjusted hospital mortality was assessed with a generalized linear mixed-effects model with a random effect for hospital and fixed effects for age, sex,..."
+      },
+      "keyResults": [
+        "Of 35,914 patients assessed, 15,732 patients with septic shock were included.",
+        "Refractory septic shock occurred in 3423 patients (21.8%), with a cumulative incidence of 218 cases (95% CI, 211-224) per 1000 patients with septic shock.",
+        "Hospital mortality with refractory septic shock was 64.4%, and risk-adjusted hospital mortality odds were 4.87-fold higher (95% CI, 4.46-5.31) compared with patients without refractory septic shock.",
+        "Clinical criteria for refractory septic shock were operationalized as concomitant occurrence of norepinephrine (base) equivalent greater than 0.5 µg/kg/min and lactate greater than 2 mmol/L."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Incidence and Outcomes of Refractory Septic Shock per Consensus Clinical Criteria.",
+          "The most clinically relevant signal was Of 35,914 patients assessed, 15,732 patients with septic shock were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether refractory septic shock and 2) to assess outcomes of patients with septic shock meeting refractory septic shock criteria should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Clinical criteria for the definition of refractory septic shock: a joint Delphi consensus from the Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM). Intensive Care Med 2026",
+          "url": "https://doi.org/10.1007/s00134-026-08344-2"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42240423/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42240423"
     }
   ]
 }
