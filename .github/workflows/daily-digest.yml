@@ -33,7 +33,9 @@ jobs:
         run: |
           git config user.name "critical-care-daily-bot"
           git config user.email "actions@github.com"
-          git add digest.json data/covered_pmids.json archive/
+          git add digest.json
+          if [ -d data ]; then git add data; fi
+          if [ -d archive ]; then git add archive; fi
           if git diff --cached --quiet; then
             echo "No digest changes to commit."
           else
