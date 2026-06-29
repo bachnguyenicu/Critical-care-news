@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 2,
+  "date": "June 29, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for June 29, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - MicroRNAs in sepsis diagnosis: A systematic review and meta-an",
+      "sentences": [
+        "Story 1 is about MicroRNAs in sepsis diagnosis: A systematic review and meta-analysis toward evidence-based biomarker development..",
+        "This is a systematic review / meta-analysis from Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90).",
+        "Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%).",
+        "In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Risk factors and prognosis of postoperative hepatic dysfunctio",
+      "sentences": [
+        "Story 2 is about Risk factors and prognosis of postoperative hepatic dysfunction after Stanford type A aortic dissection repair: a systematic review and meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of cardiothoracic surgery.",
+        "The clinical question is best framed as follows: in patients undergoing surgical repair for Stanford type A aortic dissection, how should we interpret ysfunction was 37%. Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%) compared with patients without postoperative hepatic dysfunction, those who developed postoperative hepatic dysfunction had higher pre?",
+        "A total of 960 records were identified, and nine single-center retrospective cohort studies involving 3,234 patients were included.",
+        "The pooled incidence of postoperative hepatic dysfunction was 37%.",
+        "Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Multidisciplinary telemedicine intervention for ICU recovery: ",
+      "sentences": [
+        "Story 3 is about Multidisciplinary telemedicine intervention for ICU recovery: the TelePORT feasibility randomized trial..",
+        "This is a randomized / clinical trial from Critical care (London, England).",
+        "The clinical question is best framed as follows: in Adults admitted to medical or surgical ICUs with sepsis and/or acute respiratory distress syndrome were randomized 1:1 to telemedicine ICU recovery clinic visits or standard care, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 83 participants completing the 1-week assessment, median age was 56 years, 51% were male, and 91% were White.",
+        "In the telemedicine arm, 23 participants (57.5%) attended at least one visit; attendance was 55% at 3 weeks and 42.5% at 3 months among eligible participants.",
+        "Primary 6-month outcome assessment was completed by 31 participants in each group (67%).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "MicroRNAs in sepsis diagnosis: A systematic review and meta-analysis toward evidence-based biomarker development.",
+      "source": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
+      "date": "Jun 23 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90). Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%). In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity. Sepsis diagnosis remains challenging, and conventional biomarkers such as CRP and PCT show limited specificity. Circulating microRNAs (miRNAs) have been investigated as diagnostic biomarkers, but substantial methodological variability across studies has limited the interpretation of current evidence.",
+      "analysis": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Thirty-nine studies involving 59 distinct miRNAs were included. Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90). Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%). In exploratory functional subgroup analyses, IL-1β-associated..."
+      },
+      "keyResults": [
+        "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90).",
+        "Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%).",
+        "In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity.",
+        "Thirty-nine studies involving 59 distinct miRNAs were included."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether ...",
+          "The primary outcome was ...",
+          "The effect estimate favored ..., but the confidence interval ...",
+          "These findings should be interpreted cautiously because ..."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "generalizability",
+            "meaning": "how well the findings apply to your patients"
+          }
+        ]
+      },
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366141/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42366141"
+    },
+    {
+      "title": "Risk factors and prognosis of postoperative hepatic dysfunction after Stanford type A aortic dissection repair: a systematic review and meta-analysis.",
+      "source": "Journal of cardiothoracic surgery",
+      "date": "Jun 26 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "A total of 960 records were identified, and nine single-center retrospective cohort studies involving 3,234 patients were included. The pooled incidence of postoperative hepatic dysfunction was 37%. Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%). Compared with patients without postoperative hepatic dysfunction, those who developed postoperative hepatic dysfunction had higher preoperative white blood cell counts (MD 0.94 × 10⁹/L, 95% CI 0.21-1.67, I2 = 67%), longer cardiopulmonary bypass time (MD 21.29 min, 95% CI 11.25-31.34, I2 = 85%), longer aortic cross-clamp time (MD 11.57 min, 95% CI 7.88-15.26, I2 = 52%), and greater perioperative red blood cell transfusion volume (MD 1.90 units, 95% CI 0.92-2.88, I2 = 90%). Postoperative hepatic dysfunction was also associated with higher odds of short-term mortality (OR 5.59, 95% CI 3.96-7.88, I2 = 0%) and acute kidney injury (OR 5.62, 95% CI 4.16-7.59, I2 = 30%), as well as longer intensive care unit stay (MD 60.18 h, 95% CI 54.83-65.53, I2 = 23%).",
+      "analysis": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "pico": {
+        "population": "patients undergoing surgical repair for Stanford type A aortic dissection",
+        "intervention": "ysfunction was 37%. Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%)",
+        "comparator": "patients without postoperative hepatic dysfunction, those who developed postoperative hepatic dysfunction had higher pre",
+        "outcomes": "A total of 960 records were identified, and nine single-center retrospective cohort studies involving 3,234 patients were included. The pooled incidence of postoperative hepatic dysfunction was 37%. Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%). Compared with patients without postoperative hepatic..."
+      },
+      "keyResults": [
+        "A total of 960 records were identified, and nine single-center retrospective cohort studies involving 3,234 patients were included.",
+        "The pooled incidence of postoperative hepatic dysfunction was 37%.",
+        "Male sex was associated with postoperative hepatic dysfunction (OR 1.35, 95% CI 1.10-1.64, I2 = 0%).",
+        "Compared with patients without postoperative hepatic dysfunction, those who developed postoperative hepatic dysfunction had higher preoperative white blood cell counts (MD 0.94 × 10⁹/L, 95% CI 0.21-1.67, I2 = 67%), longer cardiopulmonary bypass time (MD 21.29 min, 95% CI 11.25-31.34, I2 = 85%), longer aortic cross-clamp time (MD 11.57 min, 95% CI 7.88-15.26, I2 = 52%), and greater perioperative red blood cell transfusion volume (MD 1.90 units, 95% CI 0.92-2.88, I2 = 90%)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether ...",
+          "The primary outcome was ...",
+          "The effect estimate favored ..., but the confidence interval ...",
+          "These findings should be interpreted cautiously because ..."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          }
+        ]
+      },
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42363187/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42363187"
+    },
+    {
+      "title": "Multidisciplinary telemedicine intervention for ICU recovery: the TelePORT feasibility randomized trial.",
+      "source": "Critical care (London, England)",
+      "date": "Jun 27 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adults admitted to medical or surgical ICUs with sepsis and/or acute respiratory distress syndrome were randomized 1:1 to telemedicine ICU recovery clinic visits or standard care. Among 83 participants completing the 1-week assessment, median age was 56 years, 51% were male, and 91% were White. In the telemedicine arm, 23 participants (57.5%) attended at least one visit; attendance was 55% at 3 weeks and 42.5% at 3 months among eligible participants. Primary 6-month outcome assessment was completed by 31 participants in each group (67%). Survivors of critical illness commonly experience post-intensive care syndrome (PICS), including cognitive, mental health, physical, quality-of-life, and social impairments after discharge.",
+      "analysis": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "pico": {
+        "population": "Adults admitted to medical or surgical ICUs with sepsis and/or acute respiratory distress syndrome were randomized 1:1 to telemedicine ICU recovery clinic visits or standard care",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Of 1,108 screened patients, 91 were randomized (telemedicine, n = 46; standard care, n = 45). Among 83 participants completing the 1-week assessment, median age was 56 years, 51% were male, and 91% were White. In the telemedicine arm, 23 participants (57.5%) attended at least one visit; attendance was 55% at 3 weeks and 42.5% at 3 months among eligible..."
+      },
+      "keyResults": [
+        "Among 83 participants completing the 1-week assessment, median age was 56 years, 51% were male, and 91% were White.",
+        "In the telemedicine arm, 23 participants (57.5%) attended at least one visit; attendance was 55% at 3 weeks and 42.5% at 3 months among eligible participants.",
+        "Primary 6-month outcome assessment was completed by 31 participants in each group (67%).",
+        "Of 1,108 screened patients, 91 were randomized (telemedicine, n = 46; standard care, n = 45)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether ...",
+          "The primary outcome was ...",
+          "The effect estimate favored ..., but the confidence interval ...",
+          "These findings should be interpreted cautiously because ..."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          }
+        ]
+      },
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42365340/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42365340"
+    }
+  ]
+}
