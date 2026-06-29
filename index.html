@@ -43,6 +43,8 @@ h3.section { margin:30px 0 12px; font-size:15px; text-transform:uppercase; lette
 .title { font-size:19px; font-weight:800; margin:0 0 7px; line-height:1.35; }
 .meta { font-size:13px; color:var(--muted); margin-bottom:12px; }
 .tag { display:inline-block; background:#eef1f4; border-radius:6px; padding:2px 8px; margin-right:6px; color:#334155; }
+.signals { display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px; }
+.signal { display:inline-block; border:1px solid #c9e5e3; background:var(--teal2); color:#075b5b; border-radius:6px; padding:2px 7px; font-size:12px; font-weight:700; }
 .grid { display:grid; gap:10px; }
 @media (min-width:760px){ .pico { grid-template-columns:1fr 1fr; } }
 .box { border:1px solid var(--line); border-radius:8px; padding:12px; background:#fbfcfd; }
@@ -143,6 +145,11 @@ function renderEnglish(notes){
     vocab.appendChild(row);
   });
   box.appendChild(vocab);
+  if(notes && notes.speakingPrompt){
+    const prompt = el('div', 'take');
+    prompt.innerHTML = '<strong>Speaking prompt:</strong> ' + notes.speakingPrompt;
+    box.appendChild(prompt);
+  }
   return box;
 }
 
@@ -172,6 +179,10 @@ function render(DIGEST){
     meta.appendChild(el('span', 'tag', a.type || 'Article'));
     meta.appendChild(el('span', '', (a.source || 'Source') + ' - ' + (a.date || DIGEST.date)));
     c.appendChild(meta);
+
+    const signals = el('div', 'signals');
+    (a.sourceSignals || ['PubMed']).forEach(s => signals.appendChild(el('span', 'signal', s)));
+    c.appendChild(signals);
 
     c.appendChild(el('div', 'minihead', 'Academic Summary'));
     c.appendChild(el('p', 'summary', a.summary || 'No summary available.'));

@@ -12,6 +12,13 @@ Phien ban nay nang cap noi dung theo huong journal club:
 - Bedside Impact: co nen thay doi thuc hanh hay chi nen doc them.
 - Medical English: cum academic va tu vung de luyen noi/doc journal.
 
+Nguon uu tien:
+
+- Core critical care: `Intensive Care Medicine`, `Critical Care Medicine`, `Critical Care`, `AJRCCM`, `Lancet Respiratory Medicine`, `CHEST`, `Annals ATS`, `Journal of Critical Care`, `Resuscitation`.
+- Major general journals: `NEJM`, `Lancet`, `JAMA`, `BMJ`, `Annals of Internal Medicine`.
+- Mot so journal lien quan ICU theo chu de: anesthesia, nephrology, infectious diseases.
+- `Critical Care Reviews` duoc dung nhu nguon curate/radar de boost bai dang duoc cong dong critical care chu y. Nguon bang chung chinh van la PubMed/journal goc.
+
 ## Cach cai vao repo hien tai
 
 1. Mo repo `bachnguyenicu/Critical-care-news`.

@@ -26,7 +26,7 @@ jobs:
           # Optional but recommended by NCBI. Change this to your email.
           NCBI_EMAIL: bachnguyenicu@example.com
         run: |
-          python scripts/update_digest.py --output digest.json --history data/covered_pmids.json --archive-dir archive --days 60 --retmax 60
+          python scripts/update_digest.py --output digest.json --history data/covered_pmids.json --archive-dir archive --days 120 --retmax 80
           python -m json.tool digest.json > /tmp/digest.validated.json
 
       - name: Commit updated digest

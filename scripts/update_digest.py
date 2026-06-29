@@ -32,7 +32,49 @@ from pathlib import Path
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 DEFAULT_EMAIL = os.environ.get("NCBI_EMAIL", "critical-care-daily@example.com")
 
+TARGET_JOURNALS = [
+    "The New England journal of medicine",
+    "Lancet",
+    "JAMA",
+    "BMJ",
+    "Annals of internal medicine",
+    "Intensive care medicine",
+    "Critical care medicine",
+    "Critical care",
+    "American journal of respiratory and critical care medicine",
+    "The Lancet. Respiratory medicine",
+    "JAMA internal medicine",
+    "JAMA network open",
+    "Chest",
+    "Annals of the American Thoracic Society",
+    "Resuscitation",
+    "Shock",
+    "Journal of critical care",
+    "Anaesthesia",
+    "British journal of anaesthesia",
+    "Anesthesiology",
+    "American journal of kidney diseases",
+    "Kidney international",
+    "Clinical infectious diseases",
+    "The Lancet. Infectious diseases",
+]
+
+CORE_CRITICAL_CARE_JOURNALS = {
+    "intensive care medicine",
+    "critical care medicine",
+    "critical care",
+    "american journal of respiratory and critical care medicine",
+    "the lancet. respiratory medicine",
+    "chest",
+    "annals of the american thoracic society",
+    "resuscitation",
+    "journal of critical care",
+}
+
+JOURNAL_QUERY = " OR ".join(f'"{journal}"[Journal]' for journal in TARGET_JOURNALS)
+
 SEARCH_TERMS = (
+    f'(({JOURNAL_QUERY}) AND '
     '("critical care"[MeSH Terms] OR "intensive care units"[MeSH Terms] '
     'OR "critical care"[Title/Abstract] OR "intensive care"[Title/Abstract] '
     'OR ICU[Title/Abstract] OR sepsis[Title/Abstract] OR "septic shock"[Title/Abstract] '
@@ -44,7 +86,7 @@ SEARCH_TERMS = (
     'AND (randomized[Title/Abstract] OR trial[Title/Abstract] OR guideline[Title/Abstract] '
     'OR meta-analysis[Publication Type] OR systematic review[Title/Abstract] '
     'OR cohort[Title/Abstract] OR "clinical trial"[Publication Type]) '
-    'NOT (letter[Publication Type] OR comment[Publication Type] OR editorial[Publication Type])'
+    'NOT (letter[Publication Type] OR comment[Publication Type] OR editorial[Publication Type]))'
 )
 
 STAT_PATTERN = re.compile(
@@ -72,11 +114,11 @@ ICU_RELEVANCE_PATTERN = re.compile(
 )
 
 PHRASES = [
-    "This study examined whether ...",
-    "The primary outcome was ...",
-    "The effect estimate favored ..., but the confidence interval ...",
-    "These findings should be interpreted cautiously because ...",
-    "For bedside practice, the key question is whether ...",
+    "This study examined whether {topic}.",
+    "The most clinically relevant signal was {signal}.",
+    "The confidence interval suggests {uncertainty}.",
+    "For bedside practice, this matters because {bedside}.",
+    "I would interpret this cautiously because {limitation}.",
 ]
 
 
@@ -92,6 +134,12 @@ def request_xml(endpoint: str, params: dict[str, str | int]) -> ET.Element:
     url = f"{EUTILS}/{endpoint}?{urllib.parse.urlencode(params)}"
     with urllib.request.urlopen(url, timeout=45) as response:
         return ET.fromstring(response.read())
+
+
+def fetch_text_url(url: str, timeout: int = 20) -> str:
+    request = urllib.request.Request(url, headers={"User-Agent": "CriticalCareDaily/1.0"})
+    with urllib.request.urlopen(request, timeout=timeout) as response:
+        return response.read().decode("utf-8", errors="ignore")
 
 
 def clean_text(text: str) -> str:
@@ -111,6 +159,61 @@ def sentence_split(text: str) -> list[str]:
         return []
     parts = re.split(r"(?<=[.!?])\s+(?=[A-Z0-9])", text)
     return [p.strip() for p in parts if len(p.strip()) > 20]
+
+
+def keyword_tokens(text: str) -> set[str]:
+    stop = {
+        "the", "and", "for", "with", "from", "that", "this", "trial", "study", "patients",
+        "patient", "critical", "care", "intensive", "medicine", "journal", "review",
+        "reviews", "clinical", "randomized", "systematic", "meta", "analysis",
+    }
+    words = re.findall(r"[a-zA-Z][a-zA-Z-]{3,}", text.lower())
+    return {w.strip("-") for w in words if w not in stop}
+
+
+def readable_topic(title: str) -> str:
+    topic = re.sub(r":.*$", "", title.rstrip("."))
+    topic = re.sub(
+        r"^(comparison|association|effect|effects|impact|evaluation|efficacy and safety|"
+        r"diagnostic and prognostic value) of\s+",
+        "",
+        topic,
+        flags=re.I,
+    )
+    topic = re.sub(r"\s+vs\.?\s+", " versus ", topic, flags=re.I)
+    return textwrap.shorten(topic, width=95, placeholder="...")
+
+
+def fetch_critical_care_reviews_signals() -> list[dict[str, str | set[str]]]:
+    """Fetch public Critical Care Reviews page text as a curation signal.
+
+    Critical Care Reviews is used as a discovery/ranking source, not as the
+    primary evidence source. The primary source remains PubMed/journal metadata.
+    If the site is unavailable, the updater continues without this signal.
+    """
+    try:
+        html_text = fetch_text_url("https://criticalcarereviews.com/")
+    except Exception:
+        return []
+    links = re.findall(r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', html_text, flags=re.I | re.S)
+    signals = []
+    for href, label in links:
+        label = clean_text(re.sub(r"<[^>]+>", " ", label))
+        if len(label) < 18:
+            continue
+        haystack = f"{label} {href}"
+        if not ICU_RELEVANCE_PATTERN.search(haystack):
+            continue
+        signals.append({"title": label[:220], "url": urllib.parse.urljoin("https://criticalcarereviews.com/", href), "tokens": keyword_tokens(label)})
+    # De-duplicate while preserving order.
+    seen = set()
+    unique = []
+    for signal in signals:
+        key = str(signal["title"]).lower()
+        if key not in seen:
+            seen.add(key)
+            unique.append(signal)
+    return unique[:50]
 
 
 def pub_date(article: ET.Element) -> str:
@@ -140,12 +243,12 @@ def publication_types(article: ET.Element) -> list[str]:
 
 def article_type(title: str, types: list[str]) -> str:
     haystack = " ".join([title, *types]).lower()
-    if "guideline" in haystack:
-        return "Clinical practice guideline"
     if "meta-analysis" in haystack or "systematic review" in haystack:
         return "Systematic review / meta-analysis"
     if "randomized" in haystack or "clinical trial" in haystack:
         return "Randomized / clinical trial"
+    if any("guideline" in t.lower() for t in types):
+        return "Clinical practice guideline"
     if "cohort" in haystack:
         return "Cohort study"
     return "Recent research article"
@@ -189,7 +292,34 @@ def score_article(item: dict) -> int:
         score += 4
     if STAT_PATTERN.search(item["abstract"]):
         score += 4
+    journal = item["journal"].lower()
+    if journal in CORE_CRITICAL_CARE_JOURNALS:
+        score += 12
+    elif any(journal == j.lower() for j in TARGET_JOURNALS[:14]):
+        score += 7
+    if "Critical Care Reviews" in item.get("sourceSignals", []):
+        score += 15
     return score
+
+
+def apply_critical_care_reviews_signals(articles: list[dict], signals: list[dict[str, str | set[str]]]) -> None:
+    for item in articles:
+        title_tokens = keyword_tokens(item["title"])
+        abstract_tokens = keyword_tokens(item["abstract"])
+        matched = []
+        for signal in signals:
+            signal_tokens = signal.get("tokens", set())
+            if not isinstance(signal_tokens, set) or not signal_tokens:
+                continue
+            overlap_title = title_tokens & signal_tokens
+            overlap_abstract = abstract_tokens & signal_tokens
+            if len(overlap_title) >= 3 or len(overlap_abstract) >= 5:
+                matched.append({"title": signal["title"], "url": signal["url"]})
+        if matched:
+            item.setdefault("sourceSignals", ["PubMed"])
+            item["sourceSignals"].append("Critical Care Reviews")
+            item["curationLinks"] = matched[:2]
+            item["score"] = score_article(item)
 
 
 def is_icu_relevant(item: dict) -> bool:
@@ -243,6 +373,8 @@ def fetch_articles(pmids: list[str]) -> list[dict]:
             "type": article_type(title, types),
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "urlLabel": "View on PubMed",
+            "sourceSignals": ["PubMed"],
+            "curationLinks": [],
         }
         if not is_icu_relevant(item):
             continue
@@ -343,24 +475,75 @@ def critical_appraisal(item: dict) -> list[str]:
 
 def practice_impact(item: dict) -> str:
     k = item["type"].lower()
+    results = " ".join(key_results(item)[:2])
+    lower_results = results.lower()
+    title_lower = item["title"].lower()
+    abstract_lower = item["abstract"].lower()
+    combined = f"{title_lower} {abstract_lower}"
+    if "glycemic" in combined or "glucose" in combined or "hypoglyc" in combined:
+        return "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia."
+    if "prophylactic antibacterial" in combined or "selective decontamination" in combined:
+        return "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size."
+    if "balanced crystalloids" in combined or "saline" in combined or "crystalloid" in combined:
+        return "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients."
+    if "venous excess ultrasound" in combined or "vexus" in combined:
+        return "This is mainly diagnostic/prognostic support; use it to frame fluid-tolerance assessment, not as a standalone trigger for diuresis or ultrafiltration."
+    if "cefepime" in combined or "piperacillin" in combined or "antibiotic" in combined:
+        return "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control."
+    if "sepsis" in combined and ("diagnos" in combined or "biomarker" in combined):
+        return "This is not yet bedside-changing; treat it as biomarker evidence that needs validation against current sepsis workflows and turnaround time."
     if "guideline" in k:
-        return "Potentially practice-shaping: compare recommendations with your unit protocol and resource availability."
+        return "Compare the recommendations with your ICU protocol, especially where staffing, monitoring, or rescue therapies limit implementation."
     if "meta-analysis" in k or "randomized" in k or "trial" in k:
-        return "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability."
+        if re.search(r"no significant|not significant|did not|no difference", lower_results):
+            return "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm."
+        if re.search(r"mortality|death|survival", lower_results):
+            return "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study."
+        if re.search(r"length of stay|duration|ventilat", lower_results):
+            return "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational."
+        return "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions."
     if "cohort" in k:
-        return "Useful for awareness and hypothesis generation; avoid changing practice from this alone."
-    return "Awareness item: read the full source before applying it at the bedside."
+        if re.search(r"mortality|death|risk", lower_results):
+            return "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence."
+        return "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside."
+    return "Use as an awareness item; read the full article before applying it clinically."
 
 
 def english_notes(item: dict) -> dict[str, list[dict[str, str]] | list[str]]:
     text = item["abstract"].lower()
+    card_results = key_results(item)
+    signal = card_results[0] if card_results else "the main result"
+    uncertainty = "whether the confidence interval is narrow enough to support a bedside decision"
+    if "95% ci" in text or "confidence interval" in text:
+        uncertainty = "how much uncertainty remains around the effect estimate"
+    p = infer_pico(item)
+    topic = readable_topic(item["title"])
+    bedside = practice_impact(item)
+    limitation = critical_appraisal(item)[-1]
+    phrases = [
+        PHRASES[0].format(topic=topic),
+        PHRASES[1].format(signal=textwrap.shorten(signal, width=150, placeholder="...")),
+        PHRASES[2].format(uncertainty=uncertainty),
+        PHRASES[3].format(bedside=textwrap.shorten(bedside, width=150, placeholder="...")),
+        PHRASES[4].format(limitation=textwrap.shorten(limitation, width=150, placeholder="...")),
+    ]
     vocab = []
     for term, meaning in VOCAB:
-        if term.lower() in text or len(vocab) < 4:
+        if term.lower() in text:
             vocab.append({"term": term, "meaning": meaning})
         if len(vocab) == 5:
             break
-    return {"phrases": PHRASES[:4], "vocabulary": vocab}
+    if len(vocab) < 3:
+        for fallback in [
+            ("applicability", "whether the result fits your ICU patients and resources"),
+            ("effect estimate", "the numerical size and direction of the treatment or exposure effect"),
+            ("patient-centered outcome", "an outcome patients would directly value, such as survival or functional recovery"),
+        ]:
+            if fallback[0] not in {v["term"] for v in vocab}:
+                vocab.append({"term": fallback[0], "meaning": fallback[1]})
+            if len(vocab) == 4:
+                break
+    return {"phrases": phrases, "vocabulary": vocab, "speakingPrompt": f"In one sentence, explain whether {p['intervention']} should change ICU practice today."}
 
 
 def build_article_card(item: dict) -> dict:
@@ -381,6 +564,8 @@ def build_article_card(item: dict) -> dict:
         "criticalAppraisal": critical_appraisal(item),
         "practiceImpact": practice_impact(item),
         "englishNotes": english_notes(item),
+        "sourceSignals": item.get("sourceSignals", ["PubMed"]),
+        "curationLinks": item.get("curationLinks", []),
         "url": item["url"],
         "urlLabel": item["urlLabel"],
         "pmid": item["pmid"],
@@ -456,9 +641,11 @@ def main() -> int:
     archive_dir = Path(args.archive_dir)
 
     known = load_history(history_path)
+    ccr_signals = fetch_critical_care_reviews_signals()
     pmids = search_pmids(args.days, args.retmax)
     time.sleep(0.35)
     articles = fetch_articles(pmids)
+    apply_critical_care_reviews_signals(articles, ccr_signals)
     articles.sort(key=lambda x: x["score"], reverse=True)
 
     fresh = [a for a in articles if a["pmid"] not in known]
@@ -477,7 +664,8 @@ def main() -> int:
     save_history(history_path, known)
     print("Updated academic digest with:")
     for item in selected:
-        print(f"- PMID {item['pmid']}: {textwrap.shorten(item['title'], width=100)}")
+        signals = ", ".join(item.get("sourceSignals", ["PubMed"]))
+        print(f"- PMID {item['pmid']} [{signals}]: {textwrap.shorten(item['title'], width=100)}")
     return 0
 
 
