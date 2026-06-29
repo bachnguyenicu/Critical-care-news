@@ -13,44 +13,44 @@
       ]
     },
     {
-      "heading": "Story 1 - Quetiapine Versus Haloperidol for the Treatment of Delirium in",
+      "heading": "Story 1 - Balanced crystalloids versus saline and mortality in hospitali",
       "sentences": [
-        "Story 1 is about Quetiapine Versus Haloperidol for the Treatment of Delirium in Hospitalized Adults: A Meta-Analysis of Randomized Controlled Trials with Trial Sequential Analysis..",
-        "This is a systematic review / meta-analysis from General hospital psychiatry.",
-        "The clinical question is best framed as follows: in adults, how should we interpret Quetiapine compared with Haloperidol for the Treatment of Delirium in Hospitalized Adults: A Meta-Analysis of Randomized Controlled Trials with Trial Sequential Analysis?",
-        "Four RCTs comprising 292 patients were included.",
-        "No significant difference was found in delirium severity reduction (MD, -1.99; 95% CI, -4.70 to 0.72; p = 0.15; I2 = 73.6%), ICU LOS (MD, -0.84 days; 95% CI, -2.30 to 0.62), hospital LOS (MD, -0.06 days; 95% CI, -2.32 to 2.19), or mortality (RR, 0.68; 95% CI, 0.35 to 1.34).",
-        "Quetiapine showed non-significant trends toward fewer EPS (RR, 0.14; 95% CI, 0.02 to 1.06) and increased sleep duration (MD, 1.59 h; 95% CI, -0.45 to 3.63).",
+        "Story 1 is about Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Balanced crystalloids compared with saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials?",
+        "Six trials involving 42,223 patients met the inclusion criteria.",
+        "For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit.",
+        "For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Crossover effect: causal machine learning reveals opposing mor",
+      "heading": "Story 2 - Comparison of Intensive Versus Conventional Glycemic Control T",
       "sentences": [
-        "Story 2 is about Crossover effect: causal machine learning reveals opposing mortality responses to mean arterial pressure targets among phenotypically distinct hypertensive patients with septic shock..",
-        "This is a recent research article from Internal medicine journal.",
-        "The clinical question is best framed as follows: in patients with septic shock from the Medical Information Mart for Intensive Care IV database (version 3, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "In the Strong Benefit group (Decompensated Phenotype) - characterised by tachycardia, hyperlactatemia and renal dysfunction - the high MAP target dramatically reduced 28-day mortality from 62.6% to 22.9% (absolute risk reduction = 39.7%, P < 0.001).",
-        "Conversely, in the Harm group (Frail Phenotype) - characterised by older age and lower heart rate - the high target increased mortality from 14.7% to 33.9% (ARR = -19.2%, P < 0.001).",
-        "We observed marked HTE (ITE range: -0.54 to +0.86).",
+        "Story 2 is about Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in critically ill adults on insulin infusions, how should we interpret Comparison of Intensive compared with Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults?",
+        "Forty-five RCTs were included involving 32,215 patients.",
+        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
+        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Awareness item: read the full source before applying it at the bedside.",
+        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - MicroRNAs in sepsis diagnosis: A systematic review and meta-an",
+      "heading": "Story 3 - Efficacy and Safety of Systemic Prophylactic Antibacterials in",
       "sentences": [
-        "Story 3 is about MicroRNAs in sepsis diagnosis: A systematic review and meta-analysis toward evidence-based biomarker development..",
-        "This is a systematic review / meta-analysis from Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90).",
-        "Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%).",
-        "In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity.",
+        "Story 3 is about Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Eleven RCTs with 5562 patients were included.",
+        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
+        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+        "The bedside implication is this: This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,35 +65,36 @@
   ],
   "articles": [
     {
-      "title": "Quetiapine Versus Haloperidol for the Treatment of Delirium in Hospitalized Adults: A Meta-Analysis of Randomized Controlled Trials with Trial Sequential Analysis.",
-      "source": "General hospital psychiatry",
-      "date": "Jun 22 2026",
+      "title": "Balanced crystalloids versus saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials.",
+      "source": "Journal of critical care",
+      "date": "Jun 26 2026",
       "type": "Systematic review / meta-analysis",
-      "summary": "Four RCTs comprising 292 patients were included. No significant difference was found in delirium severity reduction (MD, -1.99; 95% CI, -4.70 to 0.72; p = 0.15; I2 = 73.6%), ICU LOS (MD, -0.84 days; 95% CI, -2.30 to 0.62), hospital LOS (MD, -0.06 days; 95% CI, -2.32 to 2.19), or mortality (RR, 0.68; 95% CI, 0.35 to 1.34). Quetiapine showed non-significant trends toward fewer EPS (RR, 0.14; 95% CI, 0.02 to 1.06) and increased sleep duration (MD, 1.59 h; 95% CI, -0.45 to 3.63). Quetiapine and haloperidol show no statistically significant differences in efficacy or safety for delirium management. To evaluate the comparative efficacy and safety of quetiapine versus haloperidol for delirium treatment in hospitalized adults.",
-      "analysis": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "summary": "Balanced crystalloids are widely used as alternatives to 0.9% saline, yet their effects on patient-important outcomes remain uncertain. Six trials involving 42,223 patients met the inclusion criteria. For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit. For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit. Balanced crystalloid policies were not associated with a clear reduction in mortality or AKI in cluster-randomized evaluations of routine care.",
+      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "pico": {
-        "population": "adults",
-        "intervention": "Quetiapine",
-        "comparator": "Haloperidol for the Treatment of Delirium in Hospitalized Adults: A Meta-Analysis of Randomized Controlled Trials with Trial Sequential Analysis",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Balanced crystalloids",
+        "comparator": "saline and mortality in hospitalized patients: a hierarchical Bayesian meta-analysis of cluster-randomized trials",
+        "outcomes": "Six trials involving 42,223 patients met the inclusion criteria. For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit. For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit. Sensitivity analyses..."
       },
       "keyResults": [
-        "Four RCTs comprising 292 patients were included.",
-        "No significant difference was found in delirium severity reduction (MD, -1.99; 95% CI, -4.70 to 0.72; p = 0.15; I2 = 73.6%), ICU LOS (MD, -0.84 days; 95% CI, -2.30 to 0.62), hospital LOS (MD, -0.06 days; 95% CI, -2.32 to 2.19), or mortality (RR, 0.68; 95% CI, 0.35 to 1.34).",
-        "Quetiapine showed non-significant trends toward fewer EPS (RR, 0.14; 95% CI, 0.02 to 1.06) and increased sleep duration (MD, 1.59 h; 95% CI, -0.45 to 3.63).",
-        "Quetiapine and haloperidol show no statistically significant differences in efficacy or safety for delirium management."
+        "Six trials involving 42,223 patients met the inclusion criteria.",
+        "For mortality, the pooled Bayesian relative effect was 0.92 (95% CrI 0.77-1.18), corresponding to an 83% posterior probability of benefit.",
+        "For AKI, the pooled Bayesian relative effect was 1.02 (95% CrI 0.86-1.23), corresponding to a 40% posterior probability of benefit.",
+        "Sensitivity analyses yielded similar findings."
       ],
       "criticalAppraisal": [
         "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
         "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether ...",
-          "The primary outcome was ...",
-          "The effect estimate favored ..., but the confidence interval ...",
-          "These findings should be interpreted cautiously because ..."
+          "This study examined whether Balanced crystalloids versus saline and mortality in hospitalized patients.",
+          "The most clinically relevant signal was Six trials involving 42,223 patients met the inclusion criteria..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
@@ -101,138 +102,145 @@
             "meaning": "the main outcome the investigators planned to test"
           },
           {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
           },
           {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
           },
           {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
-        ]
-      },
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365709/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42365709"
-    },
-    {
-      "title": "Crossover effect: causal machine learning reveals opposing mortality responses to mean arterial pressure targets among phenotypically distinct hypertensive patients with septic shock.",
-      "source": "Internal medicine journal",
-      "date": "Jun 29 2026",
-      "type": "Recent research article",
-      "summary": "In the Strong Benefit group (Decompensated Phenotype) - characterised by tachycardia, hyperlactatemia and renal dysfunction - the high MAP target dramatically reduced 28-day mortality from 62.6% to 22.9% (absolute risk reduction = 39.7%, P < 0.001). Conversely, in the Harm group (Frail Phenotype) - characterised by older age and lower heart rate - the high target increased mortality from 14.7% to 33.9% (ARR = -19.2%, P < 0.001). To quantify the heterogeneity of treatment effects of higher versus standard MAP targets on 28-day mortality, to identify distinct clinical phenotypes that respond differentially to MAP targets, and to derive simple bedside decision rules to guide individualised haemodynamic management. Current guidelines recommend a uniform mean arterial pressure (MAP) target of ≥65 mmHg for septic shock. However, trials like SEPSISPAM found no mortality benefit from higher targets in hypertensive patients.",
-      "analysis": "Awareness item: read the full source before applying it at the bedside.",
-      "pico": {
-        "population": "patients with septic shock from the Medical Information Mart for Intensive Care IV database (version 3",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "We observed marked HTE (ITE range: -0.54 to +0.86). In the Strong Benefit group (Decompensated Phenotype) - characterised by tachycardia, hyperlactatemia and renal dysfunction - the high MAP target dramatically reduced 28-day mortality from 62.6% to 22.9% (absolute risk reduction = 39.7%, P < 0.001). Conversely, in the Harm group (Frail Phenotype) -..."
-      },
-      "keyResults": [
-        "In the Strong Benefit group (Decompensated Phenotype) - characterised by tachycardia, hyperlactatemia and renal dysfunction - the high MAP target dramatically reduced 28-day mortality from 62.6% to 22.9% (absolute risk reduction = 39.7%, P < 0.001).",
-        "Conversely, in the Harm group (Frail Phenotype) - characterised by older age and lower heart rate - the high target increased mortality from 14.7% to 33.9% (ARR = -19.2%, P < 0.001).",
-        "We observed marked HTE (ITE range: -0.54 to +0.86).",
-        "The CART model identified heart rate >105 bpm and creatinine >1.65 mg/dL as simple bedside criteria to identify patients likely to benefit from higher targets."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Awareness item: read the full source before applying it at the bedside.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether ...",
-          "The primary outcome was ...",
-          "The effect estimate favored ..., but the confidence interval ...",
-          "These findings should be interpreted cautiously because ..."
         ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
-          },
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
-          },
-          {
-            "term": "absolute risk",
-            "meaning": "the actual event rate difference patients may experience"
-          }
-        ]
+        "speakingPrompt": "In one sentence, explain whether Balanced crystalloids should change ICU practice today."
       },
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42367052/",
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Foundational Trial Summary & Critique Semler. Balanced Crystalloids versus Saline in Critically Ill Adults (SMART). N Engl J Med 2018 ; 378 : 829 - 839 added March 24th",
+          "url": "https://criticalcarereviews.com/foundational-trials/smart"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361768/",
       "urlLabel": "View on PubMed",
-      "pmid": "42367052"
+      "pmid": "42361768"
     },
     {
-      "title": "MicroRNAs in sepsis diagnosis: A systematic review and meta-analysis toward evidence-based biomarker development.",
-      "source": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
-      "date": "Jun 23 2026",
+      "title": "Comparison of Intensive Versus Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults.",
+      "source": "Critical care medicine",
+      "date": "Jun 09 2026",
       "type": "Systematic review / meta-analysis",
-      "summary": "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90). Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%). In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity. Sepsis diagnosis remains challenging, and conventional biomarkers such as CRP and PCT show limited specificity. Circulating microRNAs (miRNAs) have been investigated as diagnostic biomarkers, but substantial methodological variability across studies has limited the interpretation of current evidence.",
-      "analysis": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "summary": "Forty-five RCTs were included involving 32,215 patients. No differences were seen between INT and CONV targets for hospital mortality or ICU mortality. Most of the studies with significant differences contained serious inconsistencies or risk of bias. No differences were seen in ICU or hospital mortality. To perform an updated systematic review and meta-analysis of the efficacy and safety of intensive (INT) vs. conventional (CONV) blood glucose (BG) targets for critically ill adults on insulin infusions.",
+      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Thirty-nine studies involving 59 distinct miRNAs were included. Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90). Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%). In exploratory functional subgroup analyses, IL-1β-associated..."
+        "population": "critically ill adults on insulin infusions",
+        "intervention": "Comparison of Intensive",
+        "comparator": "Conventional Glycemic Control Targets: An Updated Systematic Review and Meta-Analysis of the 2024 Society of Critical Care Medicine Guidelines on Glycemic Control for Critically Ill Adults",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Pooled sensitivity was 0.79 (95% CI: 0.76-0.82) and specificity was 0.82 (95% CI: 0.78-0.85), with an AUROC of 0.87 (95% CI: 0.84-0.90).",
-        "Substantial heterogeneity was observed (sensitivity I2 = 92.4%; specificity I2 = 89.0%).",
-        "In exploratory functional subgroup analyses, IL-1β-associated miRNAs demonstrated higher overall diagnostic accuracy (AUROC 0.90, 95% CI: 0.87-0.92), while endothelial dysfunction-related miRNAs showed comparatively higher specificity.",
-        "Thirty-nine studies involving 59 distinct miRNAs were included."
+        "Forty-five RCTs were included involving 32,215 patients.",
+        "No differences were seen between INT and CONV targets for hospital mortality or ICU mortality.",
+        "Most of the studies with significant differences contained serious inconsistencies or risk of bias.",
+        "No differences were seen in ICU or hospital mortality."
       ],
       "criticalAppraisal": [
         "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Worth discussing in journal club; consider practice change only after checking absolute effects, harms, and applicability.",
+      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether ...",
-          "The primary outcome was ...",
-          "The effect estimate favored ..., but the confidence interval ...",
-          "These findings should be interpreted cautiously because ..."
+          "This study examined whether Intensive Versus Conventional Glycemic Control Targets.",
+          "The most clinically relevant signal was Forty-five RCTs were included involving 32,215 patients..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
           },
           {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
           },
           {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
-          },
-          {
-            "term": "generalizability",
-            "meaning": "how well the findings apply to your patients"
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
-        ]
+        ],
+        "speakingPrompt": "In one sentence, explain whether Comparison of Intensive should change ICU practice today."
       },
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42366141/",
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42262517/",
       "urlLabel": "View on PubMed",
-      "pmid": "42366141"
+      "pmid": "42262517"
+    },
+    {
+      "title": "Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis.",
+      "source": "Critical care medicine",
+      "date": "Jun 01 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Eleven RCTs with 5562 patients were included. Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty). Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients. However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear. Therefore, this study aims to evaluate the efficacy and safety of systemic prophylactic use of antibacterials in mechanically ventilated patients.",
+      "analysis": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+      "pico": {
+        "population": "patients",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Eleven RCTs with 5562 patients were included.",
+        "Meta-analysis results showed that the systemic prophylactic use of antibacterials probably reduces the incidence of VAP (relative risk [RR], 0.65; 95% CI, 0.55-0.77; moderate certainty) and the incidence of early VAP (RR, 0.52; 95% CI, 0.41-0.66; moderate certainty), but probably does not reduce in-hospital mortality (RR, 0.85; 95% CI, 0.68-1.06; moderate certainty) or duration of mechanical ventilation (mean difference [MD], -0.32; 95% CI, -0.79 to 0.16; moderate certainty), and may not reduce length of hospital stay (MD, -1.56; 95% CI, -5.15 to 2.02; low certainty).",
+        "Previous studies have shown that selective decontamination of the digestive tract can reduce the incidence and mortality of ventilator-associated pneumonia (VAP) in mechanically ventilated patients.",
+        "However, the prophylactic role of IV antibacterials, one of its essential components, remains unclear."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review, and patient-centered outcome size.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients.",
+          "The most clinically relevant signal was Eleven RCTs with 5562 patients were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This may affect infection-prevention policy for ventilated patients, but adoption should depend on local resistance ecology, stewardship review,....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223318/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42223318"
     }
   ]
 }
