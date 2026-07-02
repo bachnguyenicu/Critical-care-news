@@ -1,248 +1,87 @@
 {
-  "schemaVersion": 2,
-  "date": "July 1, 2026",
-  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "date": "July 2, 2026",
+  "subtitle": "Two major NEJM trials challenge long-standing ICU habits: liberal fluid resuscitation in septic shock, and routine bicarbonate correction for metabolic acidosis.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for July 01, 2026.",
-        "Today we will review 3 recent ICU-relevant publications.",
-        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
-        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+        "Hello, and welcome to your Critical Care Daily briefing for July second, twenty twenty-six.",
+        "Today we're looking at two major randomized trials, both published in the New England Journal of Medicine and both focused on resuscitation strategies in critically ill patients.",
+        "First, a large Australian and New Zealand trial asks whether liberal fluids or early vasopressors work better in septic shock.",
+        "Second, we cover a multinational trial testing whether sodium bicarbonate protects the kidneys in patients with metabolic acidosis who are on vasopressors.",
+        "Let's get into it."
       ]
     },
     {
-      "heading": "Story 1 - Medical Record Abstraction for Quality Improvement in Sepsis C",
+      "heading": "Story 1 — Vasopressors or Fluids in Septic Shock",
       "sentences": [
-        "Story 1 is about Medical Record Abstraction for Quality Improvement in Sepsis Care Using Artificial Intelligence: A Cluster Randomized Trial..",
-        "This is a randomized / clinical trial from JAMA network open.",
-        "The clinical question is best framed as follows: in Participants included all 66 attending physicians who practiced in the UCSD EDs and worked more than 3 shifts per month prior to study initiation, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "The study population included 66 physicians who treated 301 patients (121 in the control group and 180 in the intervention group; median age, 64.3 [IQR, 51.1-75.7] years; 171 [56.8%] male; 52 [17.3%] with chronic kidney disease; 52 [17.3%] with chronic heart failure) who met CMS inclusion criteria for SEP-1.",
-        "Physicians in the control group had a SEP-1 compliance rate of 70.1%, while those in the intervention group had a rate of 82.9%.",
-        "Assignment to the intervention group resulted in a 13.0% absolute improvement in SEP-1 compliance (95% CI, 2.5%-23.4%; odds ratio, 2.10 [95% CI, 1.15-3.81]; P = .02) in the mixed-effects model.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+        "Our first story is the ARISE FLUIDS trial, published online on June eleventh in the New England Journal of Medicine.",
+        "The clinical question is one every emergency and ICU clinician faces: in early septic shock, should you give more intravenous fluid, or start vasopressors sooner while holding back on fluid?",
+        "For years, guidelines have recommended around thirty milliliters per kilogram of fluid up front, but there's growing concern that too much fluid can cause harm, including pulmonary edema.",
+        "This trial, run by the ARISE FLUIDS Investigators together with the ANZICS and ACEM clinical trial networks, randomized adult patients presenting to the emergency department with septic shock.",
+        "One thousand patients underwent randomization: four hundred ninety-nine to a vasopressor-first strategy with restricted fluid volumes, and five hundred one to a strategy of higher fluid volumes with later vasopressors.",
+        "After excluding patients for whom consent could not be obtained, nine hundred sixty-three patients made up the intention-to-treat population.",
+        "In the first twenty-four hours, the vasopressor group received about eleven hundred milliliters less intravenous fluid than the fluids group.",
+        "The vasopressor group also had eighteen-point-nine percentage points more patients actually receiving vasopressors.",
+        "The primary outcome was days alive and out of hospital through day ninety.",
+        "The result: a median of seventy-six days in both groups, with a difference of exactly zero days and a confidence interval crossing zero, so there was no significant difference between strategies.",
+        "However, there was one striking safety signal: pulmonary edema occurred in only zero-point-six percent of the vasopressor group, compared with five percent of the fluids group, a highly significant difference.",
+        "So while neither strategy beat the other on the main survival-and-discharge outcome, the vasopressor-first approach caused meaningfully less fluid overload.",
+        "A limitation is that the trial excluded patients with contraindications to early vasopressors and was conducted mainly in well-resourced Australian and New Zealand emergency departments, which may limit how well it generalizes elsewhere.",
+        "It was also an open-label trial, so clinician behavior around fluid titration could have influenced some of the secondary findings.",
+        "The take-home is that early vasopressors with restricted fluids appear at least as good as a liberal fluid strategy for survival and hospital-free days, and they meaningfully reduce the risk of pulmonary edema, supporting a shift away from routine large-volume fluid boluses in septic shock."
       ]
     },
     {
-      "heading": "Story 2 - Sodium Bicarbonate for Critically Ill Adults with Metabolic Ac",
+      "heading": "Story 2 — Sodium Bicarbonate for Metabolic Acidosis and Shock",
       "sentences": [
-        "Story 2 is about Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock..",
-        "This is a recent research article from The New England journal of medicine.",
-        "The clinical question is best framed as follows: in adults with metabolic acidosis (pH, <7, how should we interpret percentage points; 95% CI, -5.6 to 9.2). Four patients (1.6%) in the sodium bicarbonate group had an adverse effect, as compared with none in the placebo group (P = 0.06). The use of sodium bicarbonate in critically ill patients with metabolic acidosis r?",
-        "A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo.",
-        "A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.2%) in the sodium bicarbonate group and in 100 of 254 patients (39.4%) in the placebo group (adjusted difference, 1.2 percentage points; 95% confidence interval [CI], -7.1 to 9.4; P = 0.78).",
-        "Renal-replacement therapy was used within 30 days in 16.8% of the patients in the sodium bicarbonate group and in 20.9% of those in the placebo group (adjusted difference, -3.9 percentage points; 95% CI, -10.6 to 2.7).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 3 - Definitions and Prognoses of Persistent Inflammation, Immunosu",
-      "sentences": [
-        "Story 3 is about Definitions and Prognoses of Persistent Inflammation, Immunosuppression, and Catabolism Syndrome: A Comparative Analysis via Systematic Review and Observational Study in Japan..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "The number of patients meeting each definition varied widely (211-47,888 patients), demonstrating that even small differences in thresholds or timing markedly influence patient identification.",
-        "The prevalence of PICS varied widely across definitions (range, 0.1-22.2%).",
-        "In-hospital mortality also showed marked variability (range, 11.4-64.0%).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+        "Our second story is the SODa-BIC trial, published in the New England Journal of Medicine on June twelfth, just one day after the ARISE FLUIDS results.",
+        "This trial tackles a decades-old ICU debate: should we give sodium bicarbonate to critically ill patients with severe metabolic acidosis who are already on vasopressors?",
+        "Acidemia is common in shock and is linked with worse organ function and higher mortality, but whether correcting the pH with bicarbonate actually helps patients has never been clearly proven.",
+        "This was a pragmatic, adaptive, double-blind, randomized trial run across fifty-five intensive care units in seven countries.",
+        "Investigators enrolled adults with a blood pH below seven-point-three-zero and a base excess of minus four millimoles per liter or lower, who were already receiving vasopressors in the ICU.",
+        "Five hundred patients were enrolled: two hundred forty-five received sodium bicarbonate, and two hundred fifty-five received a placebo of five percent dextrose, infused for up to five hours and titrated toward a target pH.",
+        "The primary outcome was a major adverse kidney event within thirty days, a composite of death, need for renal-replacement therapy, or persistent kidney dysfunction.",
+        "The result: a major adverse kidney event occurred in forty-point-two percent of the bicarbonate group, versus thirty-nine-point-four percent of the placebo group, an adjusted difference of just one-point-two percentage points, which was not statistically significant.",
+        "Renal-replacement therapy was actually used somewhat less often in the bicarbonate group, sixteen-point-eight percent versus twenty-point-nine percent, though this difference also did not reach statistical significance.",
+        "In-hospital mortality by day thirty was twenty-five-point-four percent with bicarbonate and twenty-four percent with placebo, essentially the same.",
+        "A small safety signal appeared: four patients, or one-point-six percent, in the bicarbonate group had a reported adverse effect, compared with none in the placebo group, though this too fell short of statistical significance.",
+        "So overall, correcting the pH with bicarbonate did not translate into better kidney outcomes or better survival.",
+        "One limitation is that bicarbonate was infused for only up to five hours, so the trial doesn't tell us whether more prolonged or more aggressive correction would behave differently.",
+        "It's also possible that a subgroup, such as patients with more severe acute kidney injury who already need renal support, could still benefit, a question the investigators say deserves further study.",
+        "The take-home is that routine sodium bicarbonate for vasopressor-dependent patients with metabolic acidosis does not appear to reduce kidney injury or death, so clinicians should not expect a survival benefit from correcting pH alone in this population."
       ]
     },
     {
       "heading": "Outro",
       "sentences": [
-        "That wraps up today's journal club style update.",
-        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
-        "For English practice, repeat one academic phrase from each article out loud."
+        "That wraps up today's briefing.",
+        "Both trials share a common thread: two long-standing ICU habits, liberal fluid resuscitation and routine bicarbonate correction, are being tested against high-quality evidence and coming up short as universal strategies.",
+        "As always, these results should be weighed alongside your local protocols and each patient's individual clinical picture.",
+        "Thanks for listening, and we'll be back tomorrow with more critical care news."
       ]
     }
   ],
   "articles": [
     {
-      "title": "Medical Record Abstraction for Quality Improvement in Sepsis Care Using Artificial Intelligence: A Cluster Randomized Trial.",
-      "source": "JAMA network open",
-      "date": "Jun 01 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Participants were randomized to receive targeted feedback from LLM-determined compliance with SEP-1 at the time of patient discharge or standard process. Secondary outcomes included expert agreement with the LLM SEP-1 determination, 30-day mortality, and intensive care unit admissions of patients with severe sepsis and/or septic shock in the ED. The study population included 66 physicians who treated 301 patients (121 in the control group and 180 in the intervention group; median age, 64.3 [IQR, 51.1-75.7] years; 171 [56.8%] male; 52 [17.3%] with chronic kidney disease; 52 [17.3%] with chronic heart failure) who met CMS inclusion criteria for SEP-1. Physicians in the control group had a SEP-1 compliance rate of 70.1%, while those in the intervention group had a rate of 82.9%. Assignment to the intervention group resulted in a 13.0% absolute improvement in SEP-1 compliance (95% CI, 2.5%-23.4%; odds ratio, 2.10 [95% CI, 1.15-3.81]; P = .02) in the mixed-effects model.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "pico": {
-        "population": "Participants included all 66 attending physicians who practiced in the UCSD EDs and worked more than 3 shifts per month prior to study initiation",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "The primary outcome was overall compliance with SEP-1. Secondary outcomes included expert agreement with the LLM SEP-1 determination, 30-day mortality, and intensive care unit admissions of patients with severe sepsis and/or septic shock in the ED. Effect sizes were estimated from a mixed-effects logistic regression model with the intervention group as a..."
-      },
-      "keyResults": [
-        "The study population included 66 physicians who treated 301 patients (121 in the control group and 180 in the intervention group; median age, 64.3 [IQR, 51.1-75.7] years; 171 [56.8%] male; 52 [17.3%] with chronic kidney disease; 52 [17.3%] with chronic heart failure) who met CMS inclusion criteria for SEP-1.",
-        "Physicians in the control group had a SEP-1 compliance rate of 70.1%, while those in the intervention group had a rate of 82.9%.",
-        "Assignment to the intervention group resulted in a 13.0% absolute improvement in SEP-1 compliance (95% CI, 2.5%-23.4%; odds ratio, 2.10 [95% CI, 1.15-3.81]; P = .02) in the mixed-effects model.",
-        "The largest difference between the intervention group and control group was in noncompletion of the 30-mL/kg fluid bolus component (3 of 180 [1.7%] vs 16 of 121 [13.2%]), a documentation-sensitive component of the quality measure."
-      ],
-      "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
-      ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Medical Record Abstraction for Quality Improvement in Sepsis Care Using Artificial Intelligence.",
-          "The most clinically relevant signal was The study population included 66 physicians who treated 301 patients (121 in the control group and 180 in the intervention group; median age, 64.3....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42348212/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42348212"
+      "title": "Vasopressors or Fluids in Early Septic Shock (ARISE FLUIDS)",
+      "source": "New England Journal of Medicine",
+      "date": "June 11, 2026",
+      "type": "Multicenter randomized controlled trial (n = 1000 randomized, 963 intention-to-treat)",
+      "summary": "The ARISE FLUIDS Investigators, with the ANZICS and ACEM trial networks, randomized adult emergency department patients with septic shock to either restricted-fluid-volume-plus-early-vasopressors (n=499) or higher-fluid-volume-plus-later-vasopressors (n=501) for 6 to 24 hours. In the intention-to-treat population (n=963), the vasopressor group received about 1108 mL less IV fluid in the first 24 hours (95% CI -1395 to -850) and had 18.9 percentage points higher vasopressor use (95% CI 13.3-24.5). The primary outcome, median days alive and out of hospital to day 90, was identical at 76 days in both groups (difference 0.0 days; 95% CI -2.7 to 2.7; P=1.00). Pulmonary edema occurred in 0.6% of the vasopressor group versus 5.0% of the fluids group (P<0.001).",
+      "analysis": "This is one of the largest head-to-head tests of early vasopressors versus liberal fluids in septic shock, and it found no difference in the primary outcome, days alive and out of the hospital at 90 days. That neutral result, paired with an eightfold reduction in pulmonary edema in the vasopressor group, is clinically meaningful: it suggests a restrictive-fluid, early-vasopressor approach is at least as safe and effective as traditional large-volume resuscitation, while avoiding a measurable harm. Limitations include its open-label design (risk of care pattern bias), enrollment limited to well-resourced Australian and New Zealand EDs (generalizability to lower-resource settings is unclear), and exclusion of patients with contraindications to early vasopressors (e.g., limited IV access for peripheral vasopressor administration). For practice, this adds to a growing body of evidence (alongside trials like CLOVERS) supporting more conservative fluid strategies with earlier vasopressor initiation in septic shock, particularly to reduce fluid-overload complications, without a signal of harm to mortality or hospital-free days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274006/",
+      "urlLabel": "View on PubMed"
     },
     {
-      "title": "Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.",
-      "source": "The New England journal of medicine",
-      "date": "Jun 12 2026",
-      "type": "Recent research article",
-      "summary": "In this pragmatic, adaptive, double-blind, randomized trial, we assigned adults with metabolic acidosis (pH, <7.30; base excess, no more than -4 mmol per liter; and partial pressure of arterial carbon dioxide, ≤45 mm Hg without intubation or ≤50 mm Hg with intubation) who were receiving vasopressors in the intensive care unit (ICU) to receive either sodium bicarbonate or placebo (5% dextrose). Sodium bicarbonate or placebo was infused for up to 5 hours, with the infusion rate adjusted for a target pH of at least 7.30 and base excess of at least 0 mmol per liter. The primary outcome was a major adverse kidney event, defined as death, use of renal-replacement therapy, or persistent renal dysfunction, within 30 days. A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo. A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.2%) in the sodium bicarbonate group and in 100 of 254 patients (39.4%) in the placebo group (adjusted difference, 1.2 percentage points; 95% confidence interval [CI], -7.1 to 9.4; P = 0.78).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "adults with metabolic acidosis (pH, <7",
-        "intervention": "percentage points; 95% CI, -5.6 to 9.2). Four patients (1.6%) in the sodium bicarbonate group had an adverse effect, as",
-        "comparator": "none in the placebo group (P = 0.06). The use of sodium bicarbonate in critically ill patients with metabolic acidosis r",
-        "outcomes": "A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo. A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.2%) in the sodium bicarbonate group and in 100 of 254 patients (39.4%) in the placebo group (adjusted difference, 1.2..."
-      },
-      "keyResults": [
-        "A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to receive placebo.",
-        "A major adverse kidney event within 30 days occurred in 98 of 244 patients (40.2%) in the sodium bicarbonate group and in 100 of 254 patients (39.4%) in the placebo group (adjusted difference, 1.2 percentage points; 95% confidence interval [CI], -7.1 to 9.4; P = 0.78).",
-        "Renal-replacement therapy was used within 30 days in 16.8% of the patients in the sodium bicarbonate group and in 20.9% of those in the placebo group (adjusted difference, -3.9 percentage points; 95% CI, -10.6 to 2.7).",
-        "In-hospital mortality by day 30 was 25.4% in the sodium bicarbonate group and 24.0% in the placebo group (adjusted difference, 1.8 percentage points; 95% CI, -5.6 to 9.2)."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.",
-          "The most clinically relevant signal was A total of 500 patients were enrolled in 55 ICUs across seven countries; 245 patients were assigned to receive sodium bicarbonate and 255 to....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether percentage points; 95% CI, -5.6 to 9.2). Four patients (1.6%) in the sodium bicarbonate group had an adverse effect, as should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
+      "title": "Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock (SODa-BIC)",
+      "source": "New England Journal of Medicine",
+      "date": "June 12, 2026",
+      "type": "Pragmatic, adaptive, double-blind, multinational randomized controlled trial (n = 500)",
+      "summary": "The SODa-BIC Investigators (Australian and New Zealand Intensive Care Society Clinical Trials Group) randomized 500 adults across 55 ICUs in 7 countries with metabolic acidosis (pH <7.30, base excess ≤ -4 mmol/L) receiving vasopressors to sodium bicarbonate (n=245) or placebo/5% dextrose (n=255), infused up to 5 hours and titrated to pH ≥7.30. The primary outcome, a major adverse kidney event (death, renal-replacement therapy, or persistent renal dysfunction) within 30 days, occurred in 40.2% of the bicarbonate group versus 39.4% of placebo (adjusted difference 1.2 percentage points; 95% CI -7.1 to 9.4; P=0.78). Renal-replacement therapy use was 16.8% vs 20.9% (95% CI -10.6 to 2.7), and 30-day in-hospital mortality was 25.4% vs 24.0% (95% CI -5.6 to 9.2). Four bicarbonate patients (1.6%) had an adverse effect versus none on placebo (P=0.06).",
+      "analysis": "SODa-BIC directly tests a common ICU reflex: correcting acidemia with bicarbonate in vasopressor-dependent patients. The trial found no benefit on the composite kidney outcome, on renal-replacement therapy use, or on mortality, despite adequate power (500 patients across a diverse international cohort) and a pragmatic, clinically representative protocol. The confidence intervals are reasonably tight around a null effect, making a clinically important benefit unlikely, though they don't fully exclude a small effect in either direction. Limitations include the short 5-hour infusion window, meaning the trial cannot address more prolonged bicarbonate strategies, and the composite primary outcome, which blends mortality with softer renal endpoints. For practice, this reinforces recent evidence (including the earlier BICAR-ICU trial) that routine bicarbonate correction should not be viewed as a treatment that improves survival or kidney outcomes in shock; it may still have a role in specific severe acidemia scenarios (e.g., life-threatening hyperkalemia or extreme acidemia), but clinicians should not expect it to change the trajectory of organ failure or death in general vasopressor-dependent, acidotic ICU patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42283370/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42283370"
-    },
-    {
-      "title": "Definitions and Prognoses of Persistent Inflammation, Immunosuppression, and Catabolism Syndrome: A Comparative Analysis via Systematic Review and Observational Study in Japan.",
-      "source": "Critical care medicine",
-      "date": "Jun 03 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "The number of patients meeting each definition varied widely (211-47,888 patients), demonstrating that even small differences in thresholds or timing markedly influence patient identification. The prevalence of PICS varied widely across definitions (range, 0.1-22.2%). In-hospital mortality also showed marked variability (range, 11.4-64.0%). Functional outcomes were consistently poor, with a high proportion of patients discharged with a Barthel Index less than 90 (range, 46.5-78.9%) and a prolonged hospital stay greater than 28 days (range, 54.9-94.7%). To evaluate how heterogeneous diagnostic definitions of persistent inflammation, immunosuppression, and catabolism syndrome (PICS), identified through a systematic review, influence patient identification and associated clinical outcomes when applied to a nationwide Japanese ICU cohort.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "A systematic review identified 23 clinical studies using varying diagnostic criteria for PICS. Definitions differed substantially in laboratory thresholds, assessment timing, and inclusion requirements. PICS definitions extracted from the review were applied to the Medical Data Vision cohort, and overlap among definitions was assessed using an UpSet plot...."
-      },
-      "keyResults": [
-        "The number of patients meeting each definition varied widely (211-47,888 patients), demonstrating that even small differences in thresholds or timing markedly influence patient identification.",
-        "The prevalence of PICS varied widely across definitions (range, 0.1-22.2%).",
-        "In-hospital mortality also showed marked variability (range, 11.4-64.0%).",
-        "Functional outcomes were consistently poor, with a high proportion of patients discharged with a Barthel Index less than 90 (range, 46.5-78.9%) and a prolonged hospital stay greater than 28 days (range, 54.9-94.7%)."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Definitions and Prognoses of Persistent Inflammation, Immunosuppression, and Catabolism....",
-          "The most clinically relevant signal was The number of patients meeting each definition varied widely (211-47,888 patients), demonstrating that even small differences in thresholds or....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42233714/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42233714"
+      "urlLabel": "View on PubMed"
     }
   ]
 }
