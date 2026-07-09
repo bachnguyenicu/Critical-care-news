@@ -1,247 +1,121 @@
 {
-  "schemaVersion": 2,
-  "date": "July 8, 2026",
-  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "date": "July 9, 2026",
+  "subtitle": "Three fresh studies from Critical Care: albumin resuscitation and mortality in septic shock, corticosteroid dosing in pneumonia, and how prehospital lactate changes the danger of transport delay.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for July 08, 2026.",
-        "Today we will review 3 recent ICU-relevant publications.",
-        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
-        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+        "Welcome back to your Critical Care Daily audio digest.",
+        "Today is July ninth, twenty twenty-six.",
+        "All three of today's studies come from the journal Critical Care, published by BioMed Central and Springer Nature, and all three appeared online in just the past few days.",
+        "We have a Bayesian meta-analysis on albumin resuscitation in septic shock, a network meta-analysis comparing corticosteroid doses in community-acquired pneumonia, and a large prehospital cohort study on lactate and transport time.",
+        "Let's get into it."
       ]
     },
     {
-      "heading": "Story 1 - Antiseptic Cleansing to Reduce Vertical Transmission of Pathog",
+      "heading": "Story 1 — Albumin in Septic Shock",
       "sentences": [
-        "Story 1 is about Antiseptic Cleansing to Reduce Vertical Transmission of Pathogens to Neonates: The NeoVT-AMR Randomized Clinical Trial..",
-        "This is a randomized / clinical trial from JAMA network open.",
-        "The clinical question is best framed as follows: in Participant populations were laboring women and, separately, facility-born neonates (aged <24 hours and with birth weight >1000 g) not born to a mother recruited to the trial, how should we interpret pulation and 36.7 (3.1) weeks in the neonatal population. Neonates' mean birth weight was 2729 g (712 g). Among mothers, compared with 1% CHG, bacterial load was higher (worse) with OHP (adjusted log10CFU difference, 1.7; 95% CI, 0.9-2.5) and SOC (3.5; 95?",
-        "A total of 149 women (mean [SD] age at enrollment, 25.7 [5.9] years) and 147 neonates (mean [SD] age at enrollment, 10.3 [6.3] hours; 82 [56%] male) participated.",
-        "Among mothers, compared with 1% CHG, bacterial load was higher (worse) with OHP (adjusted log10CFU difference, 1.7; 95% CI, 0.9-2.5) and SOC (3.5; 95% CI, 2.4-4.6); there was no clear log10CFU difference with 2% CHG (-0.6; 95% CI, -1.4 to 0.2).",
-        "There was no evidence of difference in effectiveness between multiple vs single application (log10CFU difference, -0.4; 95% CI, -1.1 to 0.2).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+        "Our first story asks an old question with new statistical tools: does albumin-based fluid resuscitation actually reduce death in septic shock?",
+        "This was a systematic review and dual frequentist-Bayesian meta-analysis, published online on July sixth, twenty twenty-six, led by Henrique Mendes and colleagues from St George Hospital in Sydney.",
+        "The team searched PubMed, Embase, CENTRAL, and Scopus from inception through February twenty twenty-six, following a preregistered protocol.",
+        "They pooled seven randomized trials totaling three thousand two hundred seventy-three patients.",
+        "Only three of those trials primarily enrolled septic shock patients; the rest contributed data pulled from subgroups or extracted strata of larger fluid trials.",
+        "At the longest available follow-up, out to ninety days, albumin-based resuscitation was linked to a statistically significant ten percent relative reduction in all-cause mortality.",
+        "The risk ratio was zero point nine zero, with a ninety-five percent confidence interval of zero point eight three to zero point nine nine, a p-value of zero point zero two, and essentially no heterogeneity between trials.",
+        "The Bayesian analysis, using a weakly informative prior, calculated a ninety-four point seven percent posterior probability that albumin truly reduces mortality.",
+        "Subgroup analyses by albumin formulation, dosing strategy, and each trial's baseline serum albumin level showed no evidence that any of those factors changed the result.",
+        "That consistency is reassuring, but the authors themselves rate the overall certainty of evidence as low, using GRADE criteria.",
+        "The core limitation is that most of the pooled data did not come from trials designed specifically to test albumin in septic shock; it was borrowed from broader sepsis or critical illness trials.",
+        "That makes the effect size plausible but indirect and imprecise, not something you'd call definitive.",
+        "This builds on a long, mixed history with albumin, going back to trials like SAFE and ALBIOS, which were largely neutral on mortality.",
+        "So where does this leave the bedside clinician? It's reasonable to see this as modest supportive evidence for albumin as an adjunct in septic shock resuscitation, especially in patients receiving large volumes of crystalloid or with low serum albumin.",
+        "But the authors are clear that adequately powered, dedicated randomized trials are still needed before this becomes a practice-changing standard.",
+        "The take-home is that albumin resuscitation shows a statistically significant ten percent mortality reduction in septic shock, but the evidence remains low-certainty and indirect, so don't expect this to overhaul your fluid protocol just yet."
       ]
     },
     {
-      "heading": "Story 2 - Carbocisteine or Hypertonic Saline for Acute Respiratory Failu",
+      "heading": "Story 2 — Corticosteroid Dosing in Pneumonia",
       "sentences": [
-        "Story 2 is about Carbocisteine or Hypertonic Saline for Acute Respiratory Failure..",
-        "This is a recent research article from The New England journal of medicine.",
-        "The clinical question is best framed as follows: in critically ill, mechanically ventilated participants 16 years of age or older with acute respiratory failure and difficult-to-clear secretions, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "A total of 1956 participants underwent randomization: 486 were assigned to carbocisteine, 485 to HTS, 492 to both treatments, and 493 to usual care alone (472, 474, 479, and 478, respectively, were included in the primary analysis).",
-        "No evidence of treatment interaction was found (hazard ratio, 1.01, 95% confidence interval [CI], 0.83 to 1.22; P = 0.91).",
-        "The median duration of mechanical ventilation was 186.1 hours (95% CI, 168.3 to 196.6) with carbocisteine and 172.7 hours (95% CI, 165.2 to 190.4) with no carbocisteine (adjusted hazard ratio, 0.96; 95% CI, 0.87 to 1.05; P = 0.34) and 184.5 hours (95% CI, 165.6 to 194.1) with HTS and 174.3 hours (95% CI, 166.9 to 192.7) with no HTS (adjusted hazard ratio, 1.00; 95% CI, 0.91 to 1.10; P = 0.98).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+        "Our second story tackles a very practical dosing question in community-acquired pneumonia: if corticosteroids help, does giving a higher dose help more?",
+        "This was a network meta-analysis published online on July fifth, twenty twenty-six, led by Yikang Ouyang and Lu Jia, with authors from Chengdu University and Shanxi Provincial People's Hospital in China.",
+        "The team searched PubMed, Embase, and Cochrane databases for randomized trials through January twenty-fifth, twenty twenty-six.",
+        "They standardized every trial's steroid regimen into a dexamethasone-equivalent dose, splitting them into a high-dose group, defined as seven point five milligrams per day or more, and a low-dose group, below that threshold.",
+        "In total, they included thirty-two randomized controlled trials covering nine thousand seven hundred forty-six patients.",
+        "Compared with placebo or usual care, higher-dose corticosteroids were linked to lower short-term mortality, with a risk ratio of zero point eight three and a ninety-five percent confidence interval of zero point seven four to zero point nine two.",
+        "Lower-dose corticosteroids also reduced mortality versus placebo, with a very similar risk ratio of zero point eight four, confidence interval zero point seven five to zero point nine five.",
+        "But when the researchers compared higher dose directly against lower dose, using indirect network methods, there was no clear difference: risk ratio zero point nine eight, confidence interval zero point eight three to one point one six.",
+        "Even in the more severely ill patients with community-acquired pneumonia, the higher-versus-lower dose comparison showed a risk ratio of one point zero one, again showing no advantage for the bigger dose.",
+        "Using the CINeMA framework to grade confidence, the researchers rated the low-dose-versus-placebo finding as moderate confidence, the high-dose-versus-placebo finding as low confidence, and the head-to-head higher-versus-lower dose comparison as low confidence overall.",
+        "In plain terms, steroids help, but going bigger doesn't seem to help more.",
+        "This matters clinically because higher steroid doses come with real downsides, including hyperglycemia, gastrointestinal bleeding risk, and possible increased risk of secondary infection.",
+        "If a lower dose gets you the same mortality benefit, there's little reason to reach for the bigger number.",
+        "This is consistent with major trials like CAPE-COD, which used more modest steroid doses and still showed benefit.",
+        "The main limitation here is that this is a network meta-analysis of trial-level aggregate data, not individual patient data, so it can't fully account for how sick each patient was or exactly which steroid and duration each trial used.",
+        "The severe-pneumonia subgroup was also relatively underpowered, so that specific comparison deserves some caution.",
+        "The take-home is that for community-acquired pneumonia, corticosteroids reduce mortality at both low and high doses, but there's no good evidence that pushing the dose higher adds any extra benefit, so a lower, gentler dose is a reasonable default."
       ]
     },
     {
-      "heading": "Story 3 - Sedation Early After Return of Spontaneous Circulation and Dur",
+      "heading": "Story 3 — Prehospital Lactate and Transfer Time",
       "sentences": [
-        "Story 3 is about Sedation Early After Return of Spontaneous Circulation and During Pre-Hospital Transport After Out-Of-Hospital Cardiac Arrest: Retrospective Analysis of the AfterROSC1 & 2 Database..",
-        "This is a recent research article from Resuscitation.",
-        "The clinical question is best framed as follows: in patients in whom sedation was vs, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Of the 1596 included patients, 1324 (83%) were and 272 (17%) were not sedated before intensive-care-unit (ICU) admission.",
-        "105 [90-116], P=0.001).",
-        "The pre-ICU sedated group had a higher proportion of patients with a favorable day-90 outcome (32.4% vs.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+        "Our third story moves out of the ICU and into the ambulance, looking at how prehospital lactate levels interact with transport time to predict death.",
+        "This was a prospective multicenter cohort study published online on July fifth, twenty twenty-six, led by Fernando Sebastian-Valles and Francisco Martín-Rodríguez, with teams from Madrid and Valladolid, Spain.",
+        "The researchers followed ten thousand one hundred eleven consecutive adults treated by advanced life support emergency medical services in Spain, over a long study period running from February twenty nineteen through January twenty twenty-six.",
+        "Every patient had point-of-care blood gas testing with lactate measured during the very first prehospital assessment.",
+        "The main outcome was death from any cause within forty-eight hours.",
+        "The median patient age was sixty-eight years, and sixty-one point five percent were male.",
+        "Overall forty-eight-hour mortality was nine point five percent.",
+        "Median prehospital lactate was two point six five millimoles per liter.",
+        "Using multivariable models adjusted for demographics, comorbidities, vital signs, Glasgow Coma Scale score, and diagnostic category, the team found that both higher lactate and longer transfer time were independently linked to higher mortality.",
+        "But the key finding was an interaction: the statistical relationship between transfer time and lactate was highly significant, meaning the danger of a delayed transport depended heavily on how deranged the patient's metabolism already was.",
+        "In trauma patients and those with endocrine or metabolic emergencies, the combination of high lactate and long transfer time was especially dangerous, with mortality climbing steadily as transport time increased in patients who already had elevated lactate.",
+        "Interestingly, in patients with infectious disease, essentially sepsis, lactate itself was strongly and consistently linked to mortality, but transfer time didn't significantly change that relationship.",
+        "In other words, for septic patients, how sick their lactate says they are matters more than how fast the ambulance gets them to the hospital.",
+        "The interaction between lactate and time was also concentrated in patients with intermediate levels of neurological impairment, rather than those who were fully alert or deeply unconscious.",
+        "The clinical implication is that a single transport strategy doesn't fit every emergency; point-of-care lactate could help EMS crews decide who most urgently needs faster transport versus who most urgently needs treatment started on scene.",
+        "As with any observational study, there are limits: this comes from a single regional EMS system in Spain, and the researchers couldn't fully account for exactly what treatments were given during transport.",
+        "The take-home is that combining prehospital lactate with transport time data could allow more individualized triage, where trauma and metabolic emergencies are prioritized for speed, while septic patients may benefit just as much from early treatment on scene."
       ]
     },
     {
       "heading": "Outro",
       "sentences": [
-        "That wraps up today's journal club style update.",
-        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
-        "For English practice, repeat one academic phrase from each article out loud."
+        "That wraps up today's Critical Care Daily digest.",
+        "To summarize: albumin resuscitation shows a statistically significant but low-certainty ten percent mortality reduction in septic shock; corticosteroids help in community-acquired pneumonia, but higher doses don't beat lower doses; and prehospital lactate can identify which patients are most harmed by transport delays.",
+        "Thanks for listening, and we'll be back tomorrow with more critical care news."
       ]
     }
   ],
   "articles": [
     {
-      "title": "Antiseptic Cleansing to Reduce Vertical Transmission of Pathogens to Neonates: The NeoVT-AMR Randomized Clinical Trial.",
-      "source": "JAMA network open",
-      "date": "Jun 01 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Topical antisepsis for laboring women or neonates may reduce pathogenic colonization and sepsis risk. Participant populations were laboring women and, separately, facility-born neonates (aged <24 hours and with birth weight >1000 g) not born to a mother recruited to the trial. Participants were individually randomized in an unblinded factorial design to chlorhexidine 1% (1% CHG), chlorhexidine 2% (2% CHG), or octenidine 0.1% with phenoxyethanol 2% (OHP), each applied either once or multiple times (maternal: antiseptic applied every 4 hours during working hours for up to 6 applications; neonatal: antiseptic applied every 24 hours for up to 3 applications), or to standard of care (SOC; application of sterile water for mothers and no cleansing for neonates). A total of 149 women (mean [SD] age at enrollment, 25.7 [5.9] years) and 147 neonates (mean [SD] age at enrollment, 10.3 [6.3] hours; 82 [56%] male) participated. Among mothers, compared with 1% CHG, bacterial load was higher (worse) with OHP (adjusted log10CFU difference, 1.7; 95% CI, 0.9-2.5) and SOC (3.5; 95% CI, 2.4-4.6); there was no clear log10CFU difference with 2% CHG (-0.6; 95% CI, -1.4 to 0.2).",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "pico": {
-        "population": "Participant populations were laboring women and, separately, facility-born neonates (aged <24 hours and with birth weight >1000 g) not born to a mother recruited to the trial",
-        "intervention": "pulation and 36.7 (3.1) weeks in the neonatal population. Neonates' mean birth weight was 2729 g (712 g). Among mothers,",
-        "comparator": "1% CHG, bacterial load was higher (worse) with OHP (adjusted log10CFU difference, 1.7; 95% CI, 0.9-2.5) and SOC (3.5; 95",
-        "outcomes": "Co-primary outcomes were change in total skin bacterial load (log10 colony-forming units [log10CFU]) from baseline at each follow-up, analyzed separately in the maternal and neonatal populations and adjusted for intervention variables. Secondary outcomes included skin condition score (range, 0-12 for neonates and 0-16 for women; lower scores indicate..."
-      },
-      "keyResults": [
-        "A total of 149 women (mean [SD] age at enrollment, 25.7 [5.9] years) and 147 neonates (mean [SD] age at enrollment, 10.3 [6.3] hours; 82 [56%] male) participated.",
-        "Among mothers, compared with 1% CHG, bacterial load was higher (worse) with OHP (adjusted log10CFU difference, 1.7; 95% CI, 0.9-2.5) and SOC (3.5; 95% CI, 2.4-4.6); there was no clear log10CFU difference with 2% CHG (-0.6; 95% CI, -1.4 to 0.2).",
-        "There was no evidence of difference in effectiveness between multiple vs single application (log10CFU difference, -0.4; 95% CI, -1.1 to 0.2).",
-        "In neonates, 1% CHG showed greater effectiveness than SOC (log10CFU difference, 1.3; 95% CI, 0.2-2.4) but no difference vs 2% CHG (-0.2; 95% CI, -1.1 to 0.7) or OHP (0.7; 95% CI, -0.2 to 1.6)."
-      ],
-      "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
-      ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Antiseptic Cleansing to Reduce Vertical Transmission of Pathogens to Neonates.",
-          "The most clinically relevant signal was A total of 149 women (mean [SD] age at enrollment, 25.7 [5.9] years) and 147 neonates (mean [SD] age at enrollment, 10.3 [6.3] hours; 82 [56%]....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether pulation and 36.7 (3.1) weeks in the neonatal population. Neonates' mean birth weight was 2729 g (712 g). Among mothers, should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42275064/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42275064"
+      "title": "Mortality Effect of Albumin Fluid Resuscitation in Adults with Septic Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis",
+      "source": "Critical Care (BioMed Central / Springer Nature)",
+      "date": "July 6, 2026",
+      "type": "Systematic review and dual frequentist-Bayesian meta-analysis of 7 RCTs (n=3,273)",
+      "summary": "This review asked whether albumin-based fluid resuscitation reduces mortality in adults with septic shock. The authors searched PubMed, Embase, CENTRAL, and Scopus from inception through February 2026 under a preregistered protocol (CRD420261325998), pooling seven randomized trials (n=3,273); only three trials primarily enrolled septic shock patients, with the rest contributing subgroup or extracted-stratum data. At the longest available follow-up (up to 90 days), albumin was associated with a statistically significant 10% relative reduction in all-cause mortality (RR 0.90, 95% CI 0.83–0.99; p=0.02; I²=0%). A Bayesian analysis under a weakly informative prior estimated a 94.7% posterior probability of a true mortality reduction. Prespecified subgroup analyses by albumin formulation, dosing strategy, and baseline serum albumin found no effect modification.",
+      "analysis": "The consistency across subgroups and the concordant Bayesian and frequentist estimates strengthen the signal, but the authors rate overall certainty as low (GRADE) because most patient-level data were borrowed from trials not specifically designed to test albumin in septic shock, rather than dedicated septic-shock RCTs. This fits into a long, mixed evidence history including SAFE and ALBIOS, both largely neutral on mortality. For bedside practice, this is best read as modest, hypothesis-generating support for using albumin as an adjunct in patients receiving large-volume crystalloid resuscitation or with hypoalbuminemia — not grounds for a wholesale protocol change. The authors explicitly call for adequately powered, dedicated trials in septic shock before this becomes standard of care.",
+      "url": "https://link.springer.com/article/10.1186/s13054-026-06172-w",
+      "urlLabel": "View on Critical Care / Springer"
     },
     {
-      "title": "Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.",
-      "source": "The New England journal of medicine",
-      "date": "Jun 10 2026",
-      "type": "Recent research article",
-      "summary": "Mucoactive agents are widely used in patients with acute respiratory failure despite limited evidence of their effectiveness or safety. We conducted a multicenter, open-label, randomized trial with a 2-by-2 factorial design that involved critically ill, mechanically ventilated participants 16 years of age or older with acute respiratory failure and difficult-to-clear secretions. All participants received usual care along with carbocisteine (750 mg three times daily enterally), 6% or 7% nebulized hypertonic saline (HTS) (4 ml four times daily), both interventions, or usual care alone for up to 28 days. A total of 1956 participants underwent randomization: 486 were assigned to carbocisteine, 485 to HTS, 492 to both treatments, and 493 to usual care alone (472, 474, 479, and 478, respectively, were included in the primary analysis). No evidence of treatment interaction was found (hazard ratio, 1.01, 95% confidence interval [CI], 0.83 to 1.22; P = 0.91).",
-      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "pico": {
-        "population": "critically ill, mechanically ventilated participants 16 years of age or older with acute respiratory failure and difficult-to-clear secretions",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "A total of 1956 participants underwent randomization: 486 were assigned to carbocisteine, 485 to HTS, 492 to both treatments, and 493 to usual care alone (472, 474, 479, and 478, respectively, were included in the primary analysis). No evidence of treatment interaction was found (hazard ratio, 1.01, 95% confidence interval [CI], 0.83 to 1.22; P = 0.91)...."
-      },
-      "keyResults": [
-        "A total of 1956 participants underwent randomization: 486 were assigned to carbocisteine, 485 to HTS, 492 to both treatments, and 493 to usual care alone (472, 474, 479, and 478, respectively, were included in the primary analysis).",
-        "No evidence of treatment interaction was found (hazard ratio, 1.01, 95% confidence interval [CI], 0.83 to 1.22; P = 0.91).",
-        "The median duration of mechanical ventilation was 186.1 hours (95% CI, 168.3 to 196.6) with carbocisteine and 172.7 hours (95% CI, 165.2 to 190.4) with no carbocisteine (adjusted hazard ratio, 0.96; 95% CI, 0.87 to 1.05; P = 0.34) and 184.5 hours (95% CI, 165.6 to 194.1) with HTS and 174.3 hours (95% CI, 166.9 to 192.7) with no HTS (adjusted hazard ratio, 1.00; 95% CI, 0.91 to 1.10; P = 0.98).",
-        "Clinically important upper gastrointestinal bleeding occurred significantly more often with carbocisteine than with no carbocisteine (13 of 965 [1.4%] vs."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.",
-          "The most clinically relevant signal was A total of 1956 participants underwent randomization: 486 were assigned to carbocisteine, 485 to HTS, 492 to both treatments, and 493 to usual care....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42267821/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42267821"
+      "title": "Efficacy of Higher-Dose versus Lower-Dose Corticosteroids in Community-Acquired Pneumonia: A Systematic Review and Network Meta-Analysis",
+      "source": "Critical Care (BioMed Central / Springer Nature)",
+      "date": "July 5, 2026",
+      "type": "Frequentist network meta-analysis of 32 RCTs (n=9,746)",
+      "summary": "This network meta-analysis compared higher-dose versus lower-dose adjunctive corticosteroids in hospitalized community-acquired pneumonia (CAP), standardizing regimens to dexamethasone-equivalent doses (high ≥7.5 mg/day, low <7.5 mg/day) across 32 RCTs (n=9,746), searched through January 25, 2026. Versus placebo or usual care, both higher-dose (RR 0.83, 95% CI 0.74–0.92) and lower-dose (RR 0.84, 95% CI 0.75–0.95) corticosteroids reduced short-term mortality. The indirect higher-versus-lower dose comparison showed no clear difference (RR 0.98, 95% CI 0.83–1.16), and this held even in severe CAP patients (RR 1.01, 95% CI 0.77–1.33). Confidence, assessed via the CINeMA framework, was moderate for low-dose-versus-placebo and low for the other comparisons.",
+      "analysis": "The practical message is that corticosteroids benefit CAP patients, but escalating the dose does not appear to add mortality benefit — while higher doses carry known risks such as hyperglycemia, GI bleeding, and secondary infection. This aligns with major trials like CAPE-COD, which used comparatively modest steroid doses and still showed benefit. Limitations include reliance on trial-level aggregate rather than individual patient data, heterogeneity in steroid agents and durations across the pooled trials, and a likely underpowered severe-CAP subgroup. For practice, this supports defaulting to lower, gentler corticosteroid dosing in CAP rather than assuming more is better.",
+      "url": "https://link.springer.com/article/10.1186/s13054-026-06185-5",
+      "urlLabel": "View on Critical Care / Springer"
     },
     {
-      "title": "Sedation Early After Return of Spontaneous Circulation and During Pre-Hospital Transport After Out-Of-Hospital Cardiac Arrest: Retrospective Analysis of the AfterROSC1 & 2 Database.",
-      "source": "Resuscitation",
-      "date": "Jul 04 2026",
-      "type": "Recent research article",
-      "summary": "Cardiac arrest is a major medical emergency with survival rates below 10%. Of the 1596 included patients, 1324 (83%) were and 272 (17%) were not sedated before intensive-care-unit (ICU) admission. 105 [90-116], P=0.001). The pre-ICU sedated group had a higher proportion of patients with a favorable day-90 outcome (32.4% vs. This difference remained significant after adjustment for the mCAHP score and center (adjusted odds ratio, 2.19; 95% confidence interval, 1.31-3.65; P=0.003) but not after propensity score adjustment: 1.40 [95%CI: 0.70 ; 2.09] (P = 0.26).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "patients in whom sedation was vs",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Of the 1596 included patients, 1324 (83%) were and 272 (17%) were not sedated before intensive-care-unit (ICU) admission. In both groups, males and cardiac arrest at home predominated. The mCAHP score was higher in the group without pre-ICU sedation (median: 90 [70-106] vs. 105 [90-116], P=0.001). The pre-ICU sedated group had a higher proportion of..."
-      },
-      "keyResults": [
-        "Of the 1596 included patients, 1324 (83%) were and 272 (17%) were not sedated before intensive-care-unit (ICU) admission.",
-        "105 [90-116], P=0.001).",
-        "The pre-ICU sedated group had a higher proportion of patients with a favorable day-90 outcome (32.4% vs.",
-        "This difference remained significant after adjustment for the mCAHP score and center (adjusted odds ratio, 2.19; 95% confidence interval, 1.31-3.65; P=0.003) but not after propensity score adjustment: 1.40 [95%CI: 0.70 ; 2.09] (P = 0.26)."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Sedation Early After Return of Spontaneous Circulation and During Pre-Hospital Transport....",
-          "The most clinically relevant signal was Of the 1596 included patients, 1324 (83%) were and 272 (17%) were not sedated before intensive-care-unit (ICU) admission..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "confidence interval",
-            "meaning": "a range showing statistical uncertainty around an estimate"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401209/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42401209"
+      "title": "Prehospital Lactate, Transfer Time, and Early Mortality Across Emergency Diagnostic Categories",
+      "source": "Critical Care (BioMed Central / Springer Nature)",
+      "date": "July 5, 2026",
+      "type": "Prospective multicenter cohort study (n=10,111)",
+      "summary": "This Spanish multicenter cohort study examined whether prehospital lactate modifies the relationship between EMS transfer time and early mortality, following 10,111 adults treated by advanced life support EMS between February 2019 and January 2026, with point-of-care lactate measured at first contact. Median age was 68 years (IQR 52–80), 61.5% were male, and 48-hour mortality was 9.5%. Median lactate was 2.65 mmol/L (IQR 1.78–4.19). In adjusted models, both higher lactate and longer transfer time independently predicted mortality, with a significant lactate-by-time interaction (p<0.001). Trauma and endocrine-metabolic emergencies showed the strongest lactate-dependent time sensitivity — mortality rose sharply with longer transport when lactate was elevated — while infectious disease (sepsis) cases showed a strong, direct lactate-mortality link that did not depend on transfer time.",
+      "analysis": "This suggests a one-size-fits-all prehospital transport strategy is suboptimal: trauma and metabolic-emergency patients with elevated lactate appear to benefit most from minimizing transport time, whereas septic patients' risk tracks their metabolic derangement regardless of transport speed — implying that early on-scene treatment (fluids, antibiotics) may matter as much or more than transport speed for this group. As an observational study from a single regional EMS system, it cannot fully exclude residual confounding, and it does not capture what treatments were delivered en route. Clinically, this supports incorporating point-of-care lactate into EMS triage protocols to individualize transport prioritization versus on-scene treatment intensity by diagnostic category.",
+      "url": "https://link.springer.com/article/10.1186/s13054-026-06175-7",
+      "urlLabel": "View on Critical Care / Springer"
     }
   ]
 }
