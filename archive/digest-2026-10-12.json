@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "date": "October 12, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 12, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Effectiveness of Continuous Automatic Endotracheal Cuff Pressu",
+      "sentences": [
+        "Story 1 is about Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing Ventilator-Associated Pneumonia in the Pediatric Intensive Care Unit: A Randomized Controlled Trial..",
+        "This is a randomized / clinical trial from Chest.",
+        "The clinical question is best framed as follows: in patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM, how should we interpret her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP compared with IMCPM. This preventive effect appears directly linked to improved target pressure compliance, suggesting that automated?",
+        "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044).",
+        "ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080).",
+        "Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - The association between cardiac surgery - associated acute kid",
+      "sentences": [
+        "Story 2 is about The association between cardiac surgery - associated acute kidney injury and elevated liver function tests. A single-center cohort study..",
+        "This is a cohort study from Journal of critical care.",
+        "The clinical question is best framed as follows: in adult cardiac surgery patients during a 6-year period, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT.",
+        "AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp.",
+        "The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing Ventilator-Associated Pneumonia in the Pediatric Intensive Care Unit: A Randomized Controlled Trial.",
+      "source": "Chest",
+      "date": "Oct 10 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "In this open-label, randomized controlled superiority trial, pediatric patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM. The primary outcome was the proportion of patients developing VAP within 28 days following intubation, evaluated in the intention to treat population. Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044). ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080). Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
+      "analysis": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "pico": {
+        "population": "patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM",
+        "intervention": "her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP",
+        "comparator": "IMCPM. This preventive effect appears directly linked to improved target pressure compliance, suggesting that automated",
+        "outcomes": "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044). ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080). Unadjusted time-to-VAP..."
+      },
+      "keyResults": [
+        "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044).",
+        "ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080).",
+        "Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
+        "Target-pressure compliance was higher with CACPM (P<0.001)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing....",
+          "The most clinically relevant signal was Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95%....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858808/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42858808"
+    },
+    {
+      "title": "The association between cardiac surgery - associated acute kidney injury and elevated liver function tests. A single-center cohort study.",
+      "source": "Journal of critical care",
+      "date": "Oct 07 2026",
+      "type": "Cohort study",
+      "summary": "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT. AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp. The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001). AST/ULN 12 h after ICU admission was the strongest predictor for RRT [AUC-ROC (95% CI; 0.751 (0.733-0.768); p < 0.001)], with a 4-fold increased RRT risk when AST exceeded 1.6 times the ULN. Acute kidney injury after cardiac surgery (CSA-AKI) is common and associated with worse outcome.",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "pico": {
+        "population": "adult cardiac surgery patients during a 6-year period",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT. AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp. 0.587 (0.570-0.604); 0.534 (0.517-0.551); both p < 0.001)], with AST performing better (p < 0.001). The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were..."
+      },
+      "keyResults": [
+        "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT.",
+        "AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp.",
+        "The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001).",
+        "AST/ULN 12 h after ICU admission was the strongest predictor for RRT [AUC-ROC (95% CI; 0.751 (0.733-0.768); p < 0.001)], with a 4-fold increased RRT risk when AST exceeded 1.6 times the ULN."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether The association between cardiac surgery - associated acute kidney injury and elevated liver....",
+          "The most clinically relevant signal was Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843126/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42843126"
+    }
+  ]
+}

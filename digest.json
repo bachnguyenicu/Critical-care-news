@@ -1,56 +1,42 @@
 {
   "schemaVersion": 2,
-  "date": "October 11, 2026",
+  "date": "October 12, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 11, 2026.",
-        "Today we will review 3 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for October 12, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Heterogeneity of Treatment Effect by Molecular Endotype in Acu",
+      "heading": "Story 1 - Effectiveness of Continuous Automatic Endotracheal Cuff Pressu",
       "sentences": [
-        "Story 1 is about Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review..",
-        "This is a systematic review / meta-analysis from Annals of the American Thoracic Society.",
-        "The clinical question is best framed as follows: in adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
-        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
-        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
+        "Story 1 is about Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing Ventilator-Associated Pneumonia in the Pediatric Intensive Care Unit: A Randomized Controlled Trial..",
+        "This is a randomized / clinical trial from Chest.",
+        "The clinical question is best framed as follows: in patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM, how should we interpret her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP compared with IMCPM. This preventive effect appears directly linked to improved target pressure compliance, suggesting that automated?",
+        "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044).",
+        "ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080).",
+        "Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "The bedside implication is this: May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Comparative efficacy and safety of hydrocortisone-based regime",
+      "heading": "Story 2 - The association between cardiac surgery - associated acute kid",
       "sentences": [
-        "Story 2 is about Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis..",
-        "This is a systematic review / meta-analysis from Journal of critical care.",
-        "The clinical question is best framed as follows: in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672), how should we interpret and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing?",
-        "A total of 21 trials involving 7908 patients were included.",
-        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
-        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
+        "Story 2 is about The association between cardiac surgery - associated acute kidney injury and elevated liver function tests. A single-center cohort study..",
+        "This is a cohort study from Journal of critical care.",
+        "The clinical question is best framed as follows: in adult cardiac surgery patients during a 6-year period, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT.",
+        "AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp.",
+        "The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 3 - Mortality Effect of Peripheral Perfusion-Guided Resuscitation ",
-      "sentences": [
-        "Story 3 is about Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in adults with vasodilatory shock, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock.",
-        "In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect.",
-        "No heterogeneity was detected (I2 = 0%).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,96 +51,36 @@
   ],
   "articles": [
     {
-      "title": "Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review.",
-      "source": "Annals of the American Thoracic Society",
-      "date": "Sep 12 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Despite numerous randomized controlled trials (RCTs) in acute respiratory distress syndrome (ARDS), few have identified effective therapies. One reason may be heterogeneity of treatment effect (HTE), in which distinct subgroups respond differently to the same intervention, potentially reflective of underlying biological endotypes. We conducted a systematic review to evaluate effect modification by molecular endotype across randomized ARDS trials and assess credibility of reported subgroup effects. In doing so, we aim to expose current knowledge gaps in how subgroups are defined and inform future clinical practice guideline recommendations.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "title": "Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing Ventilator-Associated Pneumonia in the Pediatric Intensive Care Unit: A Randomized Controlled Trial.",
+      "source": "Chest",
+      "date": "Oct 10 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "In this open-label, randomized controlled superiority trial, pediatric patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM. The primary outcome was the proportion of patients developing VAP within 28 days following intubation, evaluated in the intention to treat population. Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044). ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080). Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
+      "analysis": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
       "pico": {
-        "population": "adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers. Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R,..."
+        "population": "patients requiring mechanical ventilation for ≥48 hours were randomly assigned (1:1) to either CACPM or IMCPM",
+        "intervention": "her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP",
+        "comparator": "IMCPM. This preventive effect appears directly linked to improved target pressure compliance, suggesting that automated",
+        "outcomes": "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044). ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080). Unadjusted time-to-VAP..."
       },
       "keyResults": [
-        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
-        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
-        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
-        "The hyperinflammatory endotype drove every observed interaction, though the direction varied by intervention."
+        "Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95% CI, -20.3 to -0.8; P=0.034), with similar PP findings (15.0% vs 26.6%; P=0.044).",
+        "ITT incidence density was 15.7 vs 27.1 per 1,000 ventilator-days (IRR, 1.73; 95% CI, 0.94-3.18; P=0.080).",
+        "Unadjusted time-to-VAP was nonsignificant (HR, 1.80; 95% CI, 0.976-3.321; P=0.060), whereas adjusted Cox analysis narrowly indicated a higher VAP hazard with IMCPM (HR, 1.90; 95% CI, 1.024-3.510; P=0.042).",
+        "Target-pressure compliance was higher with CACPM (P<0.001)."
       ],
       "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "practiceImpact": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome.",
-          "The most clinically relevant signal was Eleven secondary analyses from ten RCTs (5,514 participants) were included..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730647/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42730647"
-    },
-    {
-      "title": "Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis.",
-      "source": "Journal of critical care",
-      "date": "Sep 22 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "We conducted a PRISMA-compliant systematic review and network meta-analysis of randomized controlled trials evaluating hydrocortisone and/or fludrocortisone in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672). A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant. The optimal corticosteroid regimen for septic shock, particularly the dosing and combination of hydrocortisone and fludrocortisone, remains uncertain due to inconsistent mortality findings across trials. Interventions were grouped into six regimens (including placebo), and outcomes were analyzed using a frequentist random-effects model; the primary outcome was 28-day mortality.",
-      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
-      "pico": {
-        "population": "adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672)",
-        "intervention": "and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality",
-        "comparator": "placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing",
-        "outcomes": "A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically..."
-      },
-      "keyResults": [
-        "A total of 21 trials involving 7908 patients were included.",
-        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
-        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
-        "An increased risk of gastrointestinal hemorrhage was observed across regimens, although estimates were imprecise."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Comparative efficacy and safety of hydrocortisone-based regimens in septic shock.",
-          "The most clinically relevant signal was A total of 21 trials involving 7908 patients were included..",
+          "This study examined whether Effectiveness of Continuous Automatic Endotracheal Cuff Pressure Monitoring in Preventing....",
+          "The most clinically relevant signal was Among 241 randomized patients, ITT analysis showed lower VAP with CACPM than IMCPM (13.3% vs 24.0%; risk difference, -10.6 percentage points; 95%....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+          "For bedside practice, this matters because May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
           {
@@ -174,53 +100,50 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether her with CACPM (P<0.001). CACPM significantly reduces the proportion of critically ill pediatric patients developing VAP should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784878/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858808/",
       "urlLabel": "View on PubMed",
-      "pmid": "42784878"
+      "pmid": "42858808"
     },
     {
-      "title": "Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials.",
-      "source": "Critical care medicine",
-      "date": "Sep 11 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock. In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect. No heterogeneity was detected (I2 = 0%). The prespecified Bayesian analysis estimated a 97.2% posterior probability that RR is less than 1 (P [RR < 1]), broadly consistent across alternative prior assumptions. The Bayesian component of the dual framework was directionally concordant, estimating a high posterior probability that RR is less than 1, although the magnitude of any effect remains uncertain.",
-      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "title": "The association between cardiac surgery - associated acute kidney injury and elevated liver function tests. A single-center cohort study.",
+      "source": "Journal of critical care",
+      "date": "Oct 07 2026",
+      "type": "Cohort study",
+      "summary": "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT. AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp. The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001). AST/ULN 12 h after ICU admission was the strongest predictor for RRT [AUC-ROC (95% CI; 0.751 (0.733-0.768); p < 0.001)], with a 4-fold increased RRT risk when AST exceeded 1.6 times the ULN. Acute kidney injury after cardiac surgery (CSA-AKI) is common and associated with worse outcome.",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
       "pico": {
-        "population": "adults with vasodilatory shock",
+        "population": "adult cardiac surgery patients during a 6-year period",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+        "outcomes": "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT. AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp. 0.587 (0.570-0.604); 0.534 (0.517-0.551); both p < 0.001)], with AST performing better (p < 0.001). The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were..."
       },
       "keyResults": [
-        "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock.",
-        "In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect.",
-        "No heterogeneity was detected (I2 = 0%).",
-        "The prespecified Bayesian analysis estimated a 97.2% posterior probability that RR is less than 1 (P [RR < 1]), broadly consistent across alternative prior assumptions."
+        "Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT.",
+        "AST/ULN and ALT/ULN at ICU admission predicted CSA-AKI [AUC-ROC (95% CI; resp.",
+        "The discriminating power of AST/ULN and ALT/ULN at ICU admission for AKI ≥2 were respectively AUC-ROC (95% CI); 0.594 (0.577-0.610) and 0.541 (0.524-0.585) (both p < 0.001).",
+        "AST/ULN 12 h after ICU admission was the strongest predictor for RRT [AUC-ROC (95% CI; 0.751 (0.733-0.768); p < 0.001)], with a 4-fold increased RRT risk when AST exceeded 1.6 times the ULN."
       ],
       "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
       ],
-      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock.",
-          "The most clinically relevant signal was We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided....",
+          "This study examined whether The association between cardiac surgery - associated acute kidney injury and elevated liver....",
+          "The most clinically relevant signal was Among 3415 patients, 65.4% developed CSA-AKI, 37.4% had AKI stage ≥2 and 3.8% received RRT..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
         ],
         "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -240,9 +163,9 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725818/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843126/",
       "urlLabel": "View on PubMed",
-      "pmid": "42725818"
+      "pmid": "42843126"
     }
   ]
 }
