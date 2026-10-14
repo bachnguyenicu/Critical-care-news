@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 13, 2026",
+  "date": "October 14, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 13, 2026.",
+        "Welcome to Critical Care Daily for October 14, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Heterogeneity of Treatment Effect by Molecular Endotype in Acu",
+      "heading": "Story 1 - Mechanical versus manual bag-valve ventilation during cardiopu",
       "sentences": [
-        "Story 1 is about Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review..",
-        "This is a systematic review / meta-analysis from Annals of the American Thoracic Society.",
-        "The clinical question is best framed as follows: in adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
-        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
-        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
+        "Story 1 is about Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis..",
+        "This is a systematic review / meta-analysis from Resuscitation.",
+        "The clinical question is best framed as follows: in adult cardiac arrest patients, how should we interpret Mechanical compared with manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis?",
+        "Eight studies involving 6,847 patients were included.",
+        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
+        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Comparative efficacy and safety of hydrocortisone-based regime",
+      "heading": "Story 2 - Comparative Effectiveness of Phenobarbital vs Diazepam for Alc",
       "sentences": [
-        "Story 2 is about Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis..",
-        "This is a systematic review / meta-analysis from Journal of critical care.",
-        "The clinical question is best framed as follows: in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672), how should we interpret and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing?",
-        "A total of 21 trials involving 7908 patients were included.",
-        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
-        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
+        "Story 2 is about Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome..",
+        "This is a recent research article from JAMA internal medicine.",
+        "The clinical question is best framed as follows: in Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included, how should we interpret Comparative Effectiveness of Phenobarbital compared with Diazepam for Alcohol Withdrawal Syndrome?",
+        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
+        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
+        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Mortality Effect of Peripheral Perfusion-Guided Resuscitation ",
+      "heading": "Story 3 - Impact of clinical frailty on mortality after elective surgery",
       "sentences": [
-        "Story 3 is about Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in adults with vasodilatory shock, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock.",
-        "In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect.",
-        "No heterogeneity was detected (I2 = 0%).",
+        "Story 3 is about Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis..",
+        "This is a recent research article from Anaesthesia.",
+        "The clinical question is best framed as follows: in Intensive Care Society Adult Patient Database, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
+        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
+        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,23 +65,23 @@
   ],
   "articles": [
     {
-      "title": "Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review.",
-      "source": "Annals of the American Thoracic Society",
-      "date": "Sep 12 2026",
+      "title": "Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis.",
+      "source": "Resuscitation",
+      "date": "Oct 12 2026",
       "type": "Systematic review / meta-analysis",
-      "summary": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Despite numerous randomized controlled trials (RCTs) in acute respiratory distress syndrome (ARDS), few have identified effective therapies. One reason may be heterogeneity of treatment effect (HTE), in which distinct subgroups respond differently to the same intervention, potentially reflective of underlying biological endotypes. We conducted a systematic review to evaluate effect modification by molecular endotype across randomized ARDS trials and assess credibility of reported subgroup effects. In doing so, we aim to expose current knowledge gaps in how subgroups are defined and inform future clinical practice guideline recommendations.",
+      "summary": "We calculated pooled risk ratios (RRs) and mean differences with 95% credible intervals (CrIs) using Bayesian random-effects meta-analyses. Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively. Optimal ventilation delivery during cardiopulmonary resuscitation (CPR) remains uncertain.",
       "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers. Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R,..."
+        "population": "adult cardiac arrest patients",
+        "intervention": "Mechanical",
+        "comparator": "manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis",
+        "outcomes": "Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological..."
       },
       "keyResults": [
-        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
-        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
-        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
-        "The hyperinflammatory endotype drove every observed interaction, though the direction varied by intervention."
+        "Eight studies involving 6,847 patients were included.",
+        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
+        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
+        "Pneumothorax incidence was similar between groups."
       ],
       "criticalAppraisal": [
         "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
@@ -90,70 +90,10 @@
       "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome.",
-          "The most clinically relevant signal was Eleven secondary analyses from ten RCTs (5,514 participants) were included..",
+          "This study examined whether Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in....",
+          "The most clinically relevant signal was Eight studies involving 6,847 patients were included..",
           "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
           "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730647/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42730647"
-    },
-    {
-      "title": "Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis.",
-      "source": "Journal of critical care",
-      "date": "Sep 22 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "We conducted a PRISMA-compliant systematic review and network meta-analysis of randomized controlled trials evaluating hydrocortisone and/or fludrocortisone in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672). A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant. The optimal corticosteroid regimen for septic shock, particularly the dosing and combination of hydrocortisone and fludrocortisone, remains uncertain due to inconsistent mortality findings across trials. Interventions were grouped into six regimens (including placebo), and outcomes were analyzed using a frequentist random-effects model; the primary outcome was 28-day mortality.",
-      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
-      "pico": {
-        "population": "adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672)",
-        "intervention": "and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality",
-        "comparator": "placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing",
-        "outcomes": "A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically..."
-      },
-      "keyResults": [
-        "A total of 21 trials involving 7908 patients were included.",
-        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
-        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
-        "An increased risk of gastrointestinal hemorrhage was observed across regimens, although estimates were imprecise."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Comparative efficacy and safety of hydrocortisone-based regimens in septic shock.",
-          "The most clinically relevant signal was A total of 21 trials involving 7908 patients were included..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
           "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
@@ -174,52 +114,105 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Mechanical should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784878/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863592/",
       "urlLabel": "View on PubMed",
-      "pmid": "42784878"
+      "pmid": "42863592"
     },
     {
-      "title": "Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials.",
-      "source": "Critical care medicine",
-      "date": "Sep 11 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock. In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect. No heterogeneity was detected (I2 = 0%). The prespecified Bayesian analysis estimated a 97.2% posterior probability that RR is less than 1 (P [RR < 1]), broadly consistent across alternative prior assumptions. The Bayesian component of the dual framework was directionally concordant, estimating a high posterior probability that RR is less than 1, although the magnitude of any effect remains uncertain.",
-      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "title": "Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome.",
+      "source": "JAMA internal medicine",
+      "date": "Oct 12 2026",
+      "type": "Recent research article",
+      "summary": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included. Initiation of phenobarbital or diazepam on the day of hospital admission. Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission. There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam. Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "adults with vasodilatory shock",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+        "population": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included",
+        "intervention": "Comparative Effectiveness of Phenobarbital",
+        "comparator": "Diazepam for Alcohol Withdrawal Syndrome",
+        "outcomes": "The primary effectiveness outcome was hospital length of stay in days. The primary safety outcome was invasive mechanical ventilation use. Secondary outcomes assessed treatment escalation, complications of severe alcohol withdrawal syndrome, and resource utilization. Targeted maximum likelihood estimation with ensemble machine learning was used to..."
       },
       "keyResults": [
-        "We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided resuscitation; all eligible trials enrolled patients with septic shock.",
-        "In the primary frequentist analysis, the pooled risk ratio (RR) for 28-day mortality with peripheral perfusion-guided resuscitation was 0.87 (95% CI, 0.76-1.01; p = 0.06; moderate-certainty evidence), with the CI crossing the line of no effect.",
-        "No heterogeneity was detected (I2 = 0%).",
-        "The prespecified Bayesian analysis estimated a 97.2% posterior probability that RR is less than 1 (P [RR < 1]), broadly consistent across alternative prior assumptions."
+        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
+        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
+        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%])."
       ],
       "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+        "Early evidence: useful for awareness, not enough alone to change practice."
       ],
-      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock.",
-          "The most clinically relevant signal was We included randomized controlled trials (RCTs) comparing peripheral perfusion-guided resuscitation with standard care or lactate-guided....",
+          "This study examined whether Comparative Effectiveness of Phenobarbital versus Diazepam for Alcohol Withdrawal Syndrome.",
+          "The most clinically relevant signal was Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
           {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Comparative Effectiveness of Phenobarbital should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862568/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42862568"
+    },
+    {
+      "title": "Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis.",
+      "source": "Anaesthesia",
+      "date": "Oct 13 2026",
+      "type": "Recent research article",
+      "summary": "Frailty was assessed at ICU admission using the Clinical Frailty Scale and patients categorised as non-frail or frail. The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001). Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001). Increasing numbers of patients aged ≥ 90 years require elective surgery.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Intensive Care Society Adult Patient Database",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Mortality in ICU was low and not significantly different between patients who were frail and non-frail. Frailty was independently associated with higher in-..."
+      },
+      "keyResults": [
+        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
+        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
+        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
+        "Mortality in ICU was low and not significantly different between patients who were frail and non-frail."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to....",
+          "The most clinically relevant signal was The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
           },
           {
             "term": "applicability",
@@ -240,9 +233,9 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725818/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867208/",
       "urlLabel": "View on PubMed",
-      "pmid": "42725818"
+      "pmid": "42867208"
     }
   ]
 }

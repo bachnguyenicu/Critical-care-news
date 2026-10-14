@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 2,
+  "date": "October 14, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 14, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Mechanical versus manual bag-valve ventilation during cardiopu",
+      "sentences": [
+        "Story 1 is about Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis..",
+        "This is a systematic review / meta-analysis from Resuscitation.",
+        "The clinical question is best framed as follows: in adult cardiac arrest patients, how should we interpret Mechanical compared with manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis?",
+        "Eight studies involving 6,847 patients were included.",
+        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
+        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Comparative Effectiveness of Phenobarbital vs Diazepam for Alc",
+      "sentences": [
+        "Story 2 is about Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome..",
+        "This is a recent research article from JAMA internal medicine.",
+        "The clinical question is best framed as follows: in Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included, how should we interpret Comparative Effectiveness of Phenobarbital compared with Diazepam for Alcohol Withdrawal Syndrome?",
+        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
+        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
+        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Impact of clinical frailty on mortality after elective surgery",
+      "sentences": [
+        "Story 3 is about Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis..",
+        "This is a recent research article from Anaesthesia.",
+        "The clinical question is best framed as follows: in Intensive Care Society Adult Patient Database, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
+        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
+        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis.",
+      "source": "Resuscitation",
+      "date": "Oct 12 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "We calculated pooled risk ratios (RRs) and mean differences with 95% credible intervals (CrIs) using Bayesian random-effects meta-analyses. Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively. Optimal ventilation delivery during cardiopulmonary resuscitation (CPR) remains uncertain.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult cardiac arrest patients",
+        "intervention": "Mechanical",
+        "comparator": "manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis",
+        "outcomes": "Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological..."
+      },
+      "keyResults": [
+        "Eight studies involving 6,847 patients were included.",
+        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
+        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
+        "Pneumothorax incidence was similar between groups."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in....",
+          "The most clinically relevant signal was Eight studies involving 6,847 patients were included..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Mechanical should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863592/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42863592"
+    },
+    {
+      "title": "Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome.",
+      "source": "JAMA internal medicine",
+      "date": "Oct 12 2026",
+      "type": "Recent research article",
+      "summary": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included. Initiation of phenobarbital or diazepam on the day of hospital admission. Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission. There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam. Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included",
+        "intervention": "Comparative Effectiveness of Phenobarbital",
+        "comparator": "Diazepam for Alcohol Withdrawal Syndrome",
+        "outcomes": "The primary effectiveness outcome was hospital length of stay in days. The primary safety outcome was invasive mechanical ventilation use. Secondary outcomes assessed treatment escalation, complications of severe alcohol withdrawal syndrome, and resource utilization. Targeted maximum likelihood estimation with ensemble machine learning was used to..."
+      },
+      "keyResults": [
+        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
+        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
+        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%])."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Comparative Effectiveness of Phenobarbital versus Diazepam for Alcohol Withdrawal Syndrome.",
+          "The most clinically relevant signal was Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Comparative Effectiveness of Phenobarbital should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862568/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42862568"
+    },
+    {
+      "title": "Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis.",
+      "source": "Anaesthesia",
+      "date": "Oct 13 2026",
+      "type": "Recent research article",
+      "summary": "Frailty was assessed at ICU admission using the Clinical Frailty Scale and patients categorised as non-frail or frail. The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001). Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001). Increasing numbers of patients aged ≥ 90 years require elective surgery.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Intensive Care Society Adult Patient Database",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Mortality in ICU was low and not significantly different between patients who were frail and non-frail. Frailty was independently associated with higher in-..."
+      },
+      "keyResults": [
+        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
+        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
+        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
+        "Mortality in ICU was low and not significantly different between patients who were frail and non-frail."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to....",
+          "The most clinically relevant signal was The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867208/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42867208"
+    }
+  ]
+}
