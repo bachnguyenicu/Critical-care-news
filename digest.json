@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 14, 2026",
+  "date": "October 15, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 14, 2026.",
+        "Welcome to Critical Care Daily for October 15, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Mechanical versus manual bag-valve ventilation during cardiopu",
+      "heading": "Story 1 - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated A",
       "sentences": [
-        "Story 1 is about Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis..",
-        "This is a systematic review / meta-analysis from Resuscitation.",
-        "The clinical question is best framed as follows: in adult cardiac arrest patients, how should we interpret Mechanical compared with manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis?",
-        "Eight studies involving 6,847 patients were included.",
-        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
-        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
+        "Story 1 is about Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in intensive care units (ICUs) in Canada, how should we interpret oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality compared with usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab?",
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Comparative Effectiveness of Phenobarbital vs Diazepam for Alc",
+      "heading": "Story 2 - Effect of Vasopressin Initiation Threshold on Septic Shock Mor",
       "sentences": [
-        "Story 2 is about Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome..",
-        "This is a recent research article from JAMA internal medicine.",
-        "The clinical question is best framed as follows: in Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included, how should we interpret Comparative Effectiveness of Phenobarbital compared with Diazepam for Alcohol Withdrawal Syndrome?",
-        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
-        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
-        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
+        "Story 2 is about Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from February 1, 2024, to July 31, 2025, how should we interpret of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-d?",
+        "There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female).",
+        "Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy.",
+        "In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Impact of clinical frailty on mortality after elective surgery",
+      "heading": "Story 3 - Intraoperative Dobutamine Plus Norepinephrine to Prevent Posto",
       "sentences": [
-        "Story 3 is about Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis..",
-        "This is a recent research article from Anaesthesia.",
-        "The clinical question is best framed as follows: in Intensive Care Society Adult Patient Database, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
-        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
-        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
+        "Story 3 is about Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in adults with septic shock who were undergoing surgical source control between June 2024 and August 2025, how should we interpret er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56?",
+        "Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]).",
+        "SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group.",
+        "Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,149 +65,36 @@
   ],
   "articles": [
     {
-      "title": "Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis.",
-      "source": "Resuscitation",
-      "date": "Oct 12 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "We calculated pooled risk ratios (RRs) and mean differences with 95% credible intervals (CrIs) using Bayesian random-effects meta-analyses. Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively. Optimal ventilation delivery during cardiopulmonary resuscitation (CPR) remains uncertain.",
+      "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Oct 14 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adults (≥18 years) receiving sedation for less than 72 hours and receiving mechanical ventilation for AHRF from non-COVID respiratory failure (ratio of partial pressure of arterial oxygen [Pao2] to fraction of inspired oxygen [Fio2] <300 mm Hg) or COVID-19 were enrolled between September 2020 and March 2025 with follow-up through June 2025. Patients were randomized to an inhaled sedation strategy using isoflurane with intravenous adjuncts as clinically needed or to a usual intravenous sedation care strategy. Sedatives were titrated to achieve the desired target sedation score guided by clinical teams and continued until extubation or death. Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups. In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
       "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "adult cardiac arrest patients",
-        "intervention": "Mechanical",
-        "comparator": "manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis",
-        "outcomes": "Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological..."
+        "population": "intensive care units (ICUs) in Canada",
+        "intervention": "oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality",
+        "comparator": "usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab",
+        "outcomes": "Primary outcome was all-cause hospital mortality. Secondary outcomes included ICU- and ventilator-free days at day 30; hospital-free days at day 60; use of refractory hypoxemia adjunctive therapies; delirium- and coma-free days at day 14; and quality-of-life and disability scores at 3 months."
       },
       "keyResults": [
-        "Eight studies involving 6,847 patients were included.",
-        "For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit.",
-        "Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively.",
-        "Pneumothorax incidence was similar between groups."
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
+        "The inhaled sedation group received more adjunctive therapies for hypoxemia (239 [63.9%] vs 214 [55.0%]; between-group difference, 8.89% [95% CI, 1.95% to 15.83%]) and had fewer delirium- and coma-free days (between-group difference, -0.95 [95% CI, -1.69 to -0.22])."
       ],
       "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
       "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in....",
-          "The most clinically relevant signal was Eight studies involving 6,847 patients were included..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Mechanical should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42863592/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42863592"
-    },
-    {
-      "title": "Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome.",
-      "source": "JAMA internal medicine",
-      "date": "Oct 12 2026",
-      "type": "Recent research article",
-      "summary": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included. Initiation of phenobarbital or diazepam on the day of hospital admission. Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission. There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam. Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%]).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "Adult inpatients with a primary diagnosis of alcohol withdrawal syndrome present on admission who initiated phenobarbital or diazepam on the day of hospital admission were included",
-        "intervention": "Comparative Effectiveness of Phenobarbital",
-        "comparator": "Diazepam for Alcohol Withdrawal Syndrome",
-        "outcomes": "The primary effectiveness outcome was hospital length of stay in days. The primary safety outcome was invasive mechanical ventilation use. Secondary outcomes assessed treatment escalation, complications of severe alcohol withdrawal syndrome, and resource utilization. Targeted maximum likelihood estimation with ensemble machine learning was used to..."
-      },
-      "keyResults": [
-        "Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received diazepam on the day of admission.",
-        "There were no differences in hospital length of stay (marginal mean, 4.1 vs 4.3 days; marginal mean difference, -0.21 [95% CI, -0.42 to 0.00] days) or invasive mechanical ventilation use (marginal risk, 3.1% vs 2.7%; marginal risk difference, 0.4% [95% CI, -0.7% to 1.4%]) between initiation of phenobarbital vs diazepam.",
-        "Secondary outcomes were also not different between phenobarbital and diazepam, except for self-directed discharge, which was more frequent among those initiated on diazepam (marginal risk, 9.5% vs 12.6%; marginal risk difference, -3.1% [95% CI, -4.9% to -1.3%])."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Comparative Effectiveness of Phenobarbital versus Diazepam for Alcohol Withdrawal Syndrome.",
-          "The most clinically relevant signal was Among 24 643 patients (median [IQR] age, 45 [35-56] years; 18 511 male [75.1%]), 11 919 (48.4%) received phenobarbital and 12 724 (51.6%) received....",
+          "This study examined whether Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic....",
+          "The most clinically relevant signal was Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Comparative Effectiveness of Phenobarbital should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862568/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42862568"
-    },
-    {
-      "title": "Impact of clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to critical care: a binational intensive care registry analysis.",
-      "source": "Anaesthesia",
-      "date": "Oct 13 2026",
-      "type": "Recent research article",
-      "summary": "Frailty was assessed at ICU admission using the Clinical Frailty Scale and patients categorised as non-frail or frail. The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001). Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001). Increasing numbers of patients aged ≥ 90 years require elective surgery.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "Intensive Care Society Adult Patient Database",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance. Mortality in ICU was low and not significantly different between patients who were frail and non-frail. Frailty was independently associated with higher in-..."
-      },
-      "keyResults": [
-        "The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale 5-8)), with good post-matching covariate balance.",
-        "Frailty was independently associated with higher in-hospital mortality (matched hazard ratio (HR) 1.66, 95%CI 1.22-2.27, p = 0.001) and higher 1-year mortality (matched HR 1.66, 95%CI 1.47-1.87, p < 0.001).",
-        "Patients without frailty had higher odds of returning to their pre-admission residence at hospital discharge than patients living with frailty (matched OR 1.45, 95%CI 1.29-1.62, p < 0.001).",
-        "Mortality in ICU was low and not significantly different between patients who were frail and non-frail."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether clinical frailty on mortality after elective surgery in patients aged ≥ 90 years admitted to....",
-          "The most clinically relevant signal was The matched cohort comprised 5398 patients (2699 without frailty (Clinical Frailty Scale 1-4) and 2699 living with frailty (Clinical Frailty Scale....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
           {
@@ -227,15 +114,135 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42867208/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872958/",
       "urlLabel": "View on PubMed",
-      "pmid": "42867208"
+      "pmid": "42872958"
+    },
+    {
+      "title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
+      "source": "JAMA",
+      "date": "Oct 14 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Hospital-level implementation of septic shock management strategies recommending fixed-dose vasopressin initiation when the total dose of other vasopressors reached 0.1 µg/kg/min of norepinephrine or equivalent (lower-threshold strategy) or when the total dose of other vasopressors reached 0.4 µg/kg/min of norepinephrine or equivalent (higher-threshold strategy). There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female). Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation. Mortality at 28 days occurred in 628 of 1975 patients (31.8%) treated with the hospital-level strategy recommending initiation of vasopressin at a lower-dose threshold of other vasopressors vs 655 of 1984 patients (33.0%).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from February 1, 2024, to July 31, 2025",
+        "intervention": "of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin",
+        "comparator": "651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-d",
+        "outcomes": "The primary outcome of 28-day mortality and the key secondary outcome of kidney replacement therapy-free days through day 28 were analyzed using multivariable generalized linear mixed-effects models, accounting for trial site and baseline patient characteristics."
+      },
+      "keyResults": [
+        "There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female).",
+        "Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy.",
+        "In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation.",
+        "Mortality at 28 days occurred in 628 of 1975 patients (31.8%) treated with the hospital-level strategy recommending initiation of vasopressin at a lower-dose threshold of other vasopressors vs 655 of 1984 patients (33.0%) treated with the higher-threshold strategy (adjusted marginal odds ratio, 0.98 [95% CI, 0.87 to 1.06], P = .62; adjusted risk difference, -0.4 [95% CI, -2.7 to 1.3] percentage points)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Vasopressin Initiation Threshold on Septic Shock Mortality.",
+          "The most clinically relevant signal was There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female)..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872917/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42872917"
+    },
+    {
+      "title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Oct 14 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]). SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]). Among adult patients with septic shock undergoing surgical source control, intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adults with septic shock who were undergoing surgical source control between June 2024 and August 2025",
+        "intervention": "er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group",
+        "comparator": "the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56",
+        "outcomes": "The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. The 11 secondary outcomes included Sequential Organ Failure Assessment (SOFA) score on postoperative day 1 and urine output 1 hour post intervention."
+      },
+      "keyResults": [
+        "Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]).",
+        "SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group.",
+        "Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]).",
+        "No significant differences were observed in 9 of the 11 secondary outcomes."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury....",
+          "The most clinically relevant signal was Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872914/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42872914"
     }
   ]
 }
