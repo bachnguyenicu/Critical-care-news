@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 15, 2026",
+  "date": "October 16, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 15, 2026.",
+        "Welcome to Critical Care Daily for October 16, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated A",
+      "heading": "Story 1 - High-Frequency Chest Wall Oscillation in Acute Respiratory Fai",
       "sentences": [
-        "Story 1 is about Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial..",
-        "This is a randomized / clinical trial from JAMA.",
-        "The clinical question is best framed as follows: in intensive care units (ICUs) in Canada, how should we interpret oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality compared with usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab?",
-        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
-        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
-        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
+        "Story 1 is about High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial Hypersecretion: A Randomized Controlled Trial..",
+        "This is a randomized / clinical trial from Chest.",
+        "The clinical question is best framed as follows: in ICU, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055).",
+        "Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days.",
+        "HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "The bedside implication is this: Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Effect of Vasopressin Initiation Threshold on Septic Shock Mor",
+      "heading": "Story 2 - Fluid Therapy in Mechanically Ventilated Critically Ill Adult ",
       "sentences": [
-        "Story 2 is about Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial..",
-        "This is a randomized / clinical trial from JAMA.",
-        "The clinical question is best framed as follows: in adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from February 1, 2024, to July 31, 2025, how should we interpret of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-d?",
-        "There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female).",
-        "Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy.",
-        "In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation.",
+        "Story 2 is about Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients..",
+        "This is a recent research article from JAMA.",
+        "The clinical question is best framed as follows: in ICUs in 41 countries on 6 continents, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6.",
+        "Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion.",
+        "Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Intraoperative Dobutamine Plus Norepinephrine to Prevent Posto",
+      "heading": "Story 3 - Pediatric Cardiopulmonary Resuscitation Ventilation Rates and ",
       "sentences": [
-        "Story 3 is about Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial..",
-        "This is a randomized / clinical trial from JAMA.",
-        "The clinical question is best framed as follows: in adults with septic shock who were undergoing surgical source control between June 2024 and August 2025, how should we interpret er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56?",
-        "Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]).",
-        "SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group.",
-        "Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]).",
+        "Story 3 is about Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in ICU-RESUS trial (NCT02837497), how should we interpret average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). CPR ventilation rates in the currently recommended range (20?",
+        "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR.",
+        "We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68).",
+        "For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,42 +65,39 @@
   ],
   "articles": [
     {
-      "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.",
-      "source": "JAMA",
+      "title": "High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial Hypersecretion: A Randomized Controlled Trial.",
+      "source": "Chest",
       "date": "Oct 14 2026",
       "type": "Randomized / clinical trial",
-      "summary": "Adults (≥18 years) receiving sedation for less than 72 hours and receiving mechanical ventilation for AHRF from non-COVID respiratory failure (ratio of partial pressure of arterial oxygen [Pao2] to fraction of inspired oxygen [Fio2] <300 mm Hg) or COVID-19 were enrolled between September 2020 and March 2025 with follow-up through June 2025. Patients were randomized to an inhaled sedation strategy using isoflurane with intravenous adjuncts as clinically needed or to a usual intravenous sedation care strategy. Sedatives were titrated to achieve the desired target sedation score guided by clinical teams and continued until extubation or death. Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups. In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "summary": "Patients with ARF requiring NIRS, including high-flow nasal cannula (HFNC) and/or noninvasive ventilation (NIV), bronchial hypersecretion, and ineffective cough (peak cough expiratory flow <270 L/min) were randomized 1:1 to HFCWO plus standard care or standard care alone. Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055). Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days. HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166). Airway secretion retention is common in patients with acute respiratory failure (ARF), particularly in those requiring noninvasive respiratory support (NIRS).",
+      "analysis": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
       "pico": {
-        "population": "intensive care units (ICUs) in Canada",
-        "intervention": "oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality",
-        "comparator": "usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab",
-        "outcomes": "Primary outcome was all-cause hospital mortality. Secondary outcomes included ICU- and ventilator-free days at day 30; hospital-free days at day 60; use of refractory hypoxemia adjunctive therapies; delirium- and coma-free days at day 14; and quality-of-life and disability scores at 3 months."
+        "population": "ICU",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Eighty-eight patients were enrolled (44 HFCWO, 44 control), with comparable baseline characteristics. Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055). Secondary outcomes, analyzed without..."
       },
       "keyResults": [
-        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
-        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
-        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
-        "The inhaled sedation group received more adjunctive therapies for hypoxemia (239 [63.9%] vs 214 [55.0%]; between-group difference, 8.89% [95% CI, 1.95% to 15.83%]) and had fewer delirium- and coma-free days (between-group difference, -0.95 [95% CI, -1.69 to -0.22])."
+        "Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055).",
+        "Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days.",
+        "HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166).",
+        "Eighty-eight patients were enrolled (44 HFCWO, 44 control), with comparable baseline characteristics."
       ],
       "criticalAppraisal": [
         "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
       ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "practiceImpact": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic....",
-          "The most clinically relevant signal was Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2....",
+          "This study examined whether High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial....",
+          "The most clinically relevant signal was Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+          "For bedside practice, this matters because Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit....",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
         ],
         "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -114,53 +111,58 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
       },
       "sourceSignals": [
-        "PubMed"
+        "PubMed",
+        "Critical Care Reviews"
       ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872958/",
+      "curationLinks": [
+        {
+          "title": "Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855464"
+        },
+        {
+          "title": "SAVE-ICU Trial Critique Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th add",
+          "url": "https://criticalcarereviews.com/neuro/save-icu"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874912/",
       "urlLabel": "View on PubMed",
-      "pmid": "42872958"
+      "pmid": "42874912"
     },
     {
-      "title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
+      "title": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
       "source": "JAMA",
       "date": "Oct 14 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Hospital-level implementation of septic shock management strategies recommending fixed-dose vasopressin initiation when the total dose of other vasopressors reached 0.1 µg/kg/min of norepinephrine or equivalent (lower-threshold strategy) or when the total dose of other vasopressors reached 0.4 µg/kg/min of norepinephrine or equivalent (higher-threshold strategy). There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female). Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation. Mortality at 28 days occurred in 628 of 1975 patients (31.8%) treated with the hospital-level strategy recommending initiation of vasopressin at a lower-dose threshold of other vasopressors vs 655 of 1984 patients (33.0%).",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "type": "Recent research article",
+      "summary": "Consecutive adult patients receiving invasive mechanical ventilation within 3 days of ICU admission and ventilated 24 hours or more. Key measures included (1) total infused volume and daily fluid balance over 7 days after intubation; (2) the indication for fluid therapy over the first 3 days after intubation; (3) the proportion of total administered fluid volume attributable to each fluid type over the first 3 days after intubation. Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6. Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion. Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
+      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "pico": {
-        "population": "adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from February 1, 2024, to July 31, 2025",
-        "intervention": "of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin",
-        "comparator": "651 of 1526 (42.7%) cared for under the higher-threshold strategy. In the hospital-level strategy recommending a lower-d",
-        "outcomes": "The primary outcome of 28-day mortality and the key secondary outcome of kidney replacement therapy-free days through day 28 were analyzed using multivariable generalized linear mixed-effects models, accounting for trial site and baseline patient characteristics."
+        "population": "ICUs in 41 countries on 6 continents",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Key measures included (1) total infused volume and daily fluid balance over 7 days after intubation; (2) the indication for fluid therapy over the first 3 days after intubation; (3) the proportion of total administered fluid volume attributable to each fluid type over the first 3 days after intubation."
       },
       "keyResults": [
-        "There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female).",
-        "Of the patients more likely to experience differential management under the tested hospital-level vasopressin dose strategies (maximum vasopressor dose ≥0.07 µg/kg/min of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin compared with 651 of 1526 (42.7%) cared for under the higher-threshold strategy.",
-        "In the hospital-level strategy recommending a lower-dose threshold for vasopressin initiation, the maximum vasopressor dose received prior to vasopressin initiation was a median of 0.14 (IQR, 0.10 to 0.22) µg/kg/min of norepinephrine or equivalent vs 0.34 (IQR, 0.16 to 0.42) µg/kg/min of norepinephrine or equivalent in the hospital-level strategy recommending a higher-dose threshold for vasopressin initiation.",
-        "Mortality at 28 days occurred in 628 of 1975 patients (31.8%) treated with the hospital-level strategy recommending initiation of vasopressin at a lower-dose threshold of other vasopressors vs 655 of 1984 patients (33.0%) treated with the higher-threshold strategy (adjusted marginal odds ratio, 0.98 [95% CI, 0.87 to 1.06], P = .62; adjusted risk difference, -0.4 [95% CI, -2.7 to 1.3] percentage points)."
+        "Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6.",
+        "Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion.",
+        "Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
+        "Daily fluid balance (median, 0.9 L; IQR, 0.1-1.9 L on day 1) decreased to less than 0.3 L (IQR, -0.5 to 1.2 L) by day 3 and remained near-neutral through day 6."
       ],
       "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+        "Early evidence: useful for awareness, not enough alone to change practice."
       ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Vasopressin Initiation Threshold on Septic Shock Mortality.",
-          "The most clinically relevant signal was There were 3959 unique patients with septic shock (median age, 68 [IQR, 57 to 77] years; 1903 [48%] were female)..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+          "This study examined whether Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
+          "The most clinically relevant signal was Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR,....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -174,53 +176,54 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether of norepinephrine or equivalent), 1034 of 1521 (68.0%) cared for under the lower-threshold strategy received vasopressin should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
       },
       "sourceSignals": [
-        "PubMed"
+        "PubMed",
+        "Critical Care Reviews"
       ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872917/",
+      "curationLinks": [
+        {
+          "title": "Blok. Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients. JAMA 2026; epublished October 14th",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855458"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872606/",
       "urlLabel": "View on PubMed",
-      "pmid": "42872917"
+      "pmid": "42872606"
     },
     {
-      "title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
-      "source": "JAMA",
+      "title": "Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes.",
+      "source": "Critical care medicine",
       "date": "Oct 14 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]). SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]). Among adult patients with septic shock undergoing surgical source control, intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "type": "Recent research article",
+      "summary": "Hospitalized children (≤ 18 yr) with endotracheal or tracheostomy tubes and evaluable intra-arrest end-tidal carbon dioxide data to calculate ventilation rate. Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR. We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68). For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). Evaluate the association between cardiopulmonary resuscitation (CPR) ventilation rates and survival to hospital discharge, and identify novel ventilation targets.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "adults with septic shock who were undergoing surgical source control between June 2024 and August 2025",
-        "intervention": "er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group",
-        "comparator": "the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56",
-        "outcomes": "The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. The 11 secondary outcomes included Sequential Organ Failure Assessment (SOFA) score on postoperative day 1 and urine output 1 hour post intervention."
+        "population": "ICU-RESUS trial (NCT02837497)",
+        "intervention": "average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge",
+        "comparator": "less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). CPR ventilation rates in the currently recommended range (20",
+        "outcomes": "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR. The association between guideline-recommended CPR ventilation rate and survival to hospital discharge was evaluated with Poisson regression using generalized estimating equations, controlling for a priori covariables..."
       },
       "keyResults": [
-        "Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]).",
-        "SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group.",
-        "Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]).",
-        "No significant differences were observed in 9 of the 11 secondary outcomes."
+        "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR.",
+        "We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68).",
+        "For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048).",
+        "The association between guideline-recommended CPR ventilation rate and survival to hospital discharge was evaluated with Poisson regression using generalized estimating equations, controlling for a priori covariables (initial pulse status, immediate cause of arrest)."
       ],
       "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+        "Early evidence: useful for awareness, not enough alone to change practice."
       ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury....",
-          "The most clinically relevant signal was Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred....",
+          "This study examined whether Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes.",
+          "The most clinically relevant signal was Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -234,15 +237,15 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether er in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872914/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872941/",
       "urlLabel": "View on PubMed",
-      "pmid": "42872914"
+      "pmid": "42872941"
     }
   ]
 }
