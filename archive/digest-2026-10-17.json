@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "date": "October 17, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 17, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
+      "sentences": [
+        "Story 1 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Weaning Strategies for High-Flow Nasal Cannula in Critically I",
+      "sentences": [
+        "Story 2 is about Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]).",
+        "The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+        "The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr) in the FR, OR, and SR groups, respectively, with no statistically significant difference among groups (p = 0.87).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Ventilatory Management in Neurocritical Versus Non-Neurocritic",
+      "sentences": [
+        "Story 3 is about Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients, how should we interpret Ventilatory Management in Neurocritical compared with Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database?",
+        "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients.",
+        "ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs.",
+        "3.9%; p < 0.001), while ICU mortality was lower (14.3% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878614"
+    },
+    {
+      "title": "Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Among 102 patients from three tertiary care hospitals, 15 were excluded. The remaining patients were randomized into three intervention groups: flow reduction (FR) first, Fio2 reduction (OR) first, or simultaneous reduction (SR). The primary outcome was the HFNC weaning success rate, defined as successful transition to conventional oxygen therapy without the need for HFNC reapplication, noninvasive ventilation, or endotracheal intubation within 24 hours. A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]). The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]). The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15). The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr)..."
+      },
+      "keyResults": [
+        "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]).",
+        "The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+        "The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr) in the FR, OR, and SR groups, respectively, with no statistically significant difference among groups (p = 0.87)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults.",
+          "The most clinically relevant signal was A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%])..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878628/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878628"
+    },
+    {
+      "title": "Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Recent research article",
+      "summary": "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients. ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs. 3.9%; p < 0.001), while ICU mortality was lower (14.3% vs. To describe ventilatory management in neurocritical care and non-neurocritical care patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients. The primary endpoint was a diagnosis of ARDS after initiation of invasive ventilation; one secondary endpoint was ICU mortality.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients",
+        "intervention": "Ventilatory Management in Neurocritical",
+        "comparator": "Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients.",
+        "ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs.",
+        "3.9%; p < 0.001), while ICU mortality was lower (14.3% vs.",
+        "To describe ventilatory management in neurocritical care and non-neurocritical care patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients.",
+          "The most clinically relevant signal was This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Ventilatory Management in Neurocritical should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878609/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878609"
+    }
+  ]
+}

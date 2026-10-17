@@ -1,54 +1,54 @@
 {
   "schemaVersion": 2,
-  "date": "October 16, 2026",
+  "date": "October 17, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 16, 2026.",
+        "Welcome to Critical Care Daily for October 17, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - High-Frequency Chest Wall Oscillation in Acute Respiratory Fai",
+      "heading": "Story 1 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
       "sentences": [
-        "Story 1 is about High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial Hypersecretion: A Randomized Controlled Trial..",
-        "This is a randomized / clinical trial from Chest.",
-        "The clinical question is best framed as follows: in ICU, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055).",
-        "Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days.",
-        "HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166).",
+        "Story 1 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Fluid Therapy in Mechanically Ventilated Critically Ill Adult ",
+      "heading": "Story 2 - Weaning Strategies for High-Flow Nasal Cannula in Critically I",
       "sentences": [
-        "Story 2 is about Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients..",
-        "This is a recent research article from JAMA.",
-        "The clinical question is best framed as follows: in ICUs in 41 countries on 6 continents, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6.",
-        "Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion.",
-        "Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
+        "Story 2 is about Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]).",
+        "The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+        "The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr) in the FR, OR, and SR groups, respectively, with no statistically significant difference among groups (p = 0.87).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Pediatric Cardiopulmonary Resuscitation Ventilation Rates and ",
+      "heading": "Story 3 - Ventilatory Management in Neurocritical Versus Non-Neurocritic",
       "sentences": [
-        "Story 3 is about Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes..",
+        "Story 3 is about Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database..",
         "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in ICU-RESUS trial (NCT02837497), how should we interpret average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). CPR ventilation rates in the currently recommended range (20?",
-        "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR.",
-        "We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68).",
-        "For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048).",
+        "The clinical question is best framed as follows: in patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients, how should we interpret Ventilatory Management in Neurocritical compared with Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database?",
+        "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients.",
+        "ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs.",
+        "3.9%; p < 0.001), while ICU mortality was lower (14.3% vs.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
@@ -65,104 +65,101 @@
   ],
   "articles": [
     {
-      "title": "High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial Hypersecretion: A Randomized Controlled Trial.",
-      "source": "Chest",
-      "date": "Oct 14 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Patients with ARF requiring NIRS, including high-flow nasal cannula (HFNC) and/or noninvasive ventilation (NIV), bronchial hypersecretion, and ineffective cough (peak cough expiratory flow <270 L/min) were randomized 1:1 to HFCWO plus standard care or standard care alone. Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055). Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days. HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166). Airway secretion retention is common in patients with acute respiratory failure (ARF), particularly in those requiring noninvasive respiratory support (NIRS).",
-      "analysis": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "ICU",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Eighty-eight patients were enrolled (44 HFCWO, 44 control), with comparable baseline characteristics. Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055). Secondary outcomes, analyzed without..."
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical significance (adjusted OR 0.336, 95% CI 0.111-1.021; p=0.055).",
-        "Hospital stay (12 [10-15.5] vs 16.5 [13-21] days) and RICU stay (8 [7-10.5] vs 12 [9-17] days) were shorter, with adjusted reductions of 4.5 and 3.6 days.",
-        "HFNC duration was shorter (6 [4-8] vs 9.5 [6-11.5] days) and remained significant after adjustment, whereas the reduction in NIV duration did not (adjusted p=0.166).",
-        "Eighty-eight patients were enrolled (44 HFCWO, 44 control), with comparable baseline characteristics."
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878614"
+    },
+    {
+      "title": "Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Among 102 patients from three tertiary care hospitals, 15 were excluded. The remaining patients were randomized into three intervention groups: flow reduction (FR) first, Fio2 reduction (OR) first, or simultaneous reduction (SR). The primary outcome was the HFNC weaning success rate, defined as successful transition to conventional oxygen therapy without the need for HFNC reapplication, noninvasive ventilation, or endotracheal intubation within 24 hours. A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]). The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]). The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15). The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr)..."
+      },
+      "keyResults": [
+        "A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%]).",
+        "The weaning success rates in the FR, OR, and SR groups were 94%, 81%, and 77%, respectively (p = 0.15).",
+        "The median [interquartile range] weaning duration was 31.0 hours (29.0-45.8 hr), 29.5 hours (28.0-60.4 hr), and 29.5 hours (26.5-45.0 hr) in the FR, OR, and SR groups, respectively, with no statistically significant difference among groups (p = 0.87)."
       ],
       "criticalAppraisal": [
         "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
-      "practiceImpact": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether High-Frequency Chest Wall Oscillation in Acute Respiratory Failure With Bronchial....",
-          "The most clinically relevant signal was Bronchoscopy was required in 6 patients (13.6%) versus 14 (31.8%) (unadjusted p=0.042); after adjustment the association did not retain statistical....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit....",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
-      ],
-      "curationLinks": [
-        {
-          "title": "Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th",
-          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855464"
-        },
-        {
-          "title": "SAVE-ICU Trial Critique Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th add",
-          "url": "https://criticalcarereviews.com/neuro/save-icu"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874912/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42874912"
-    },
-    {
-      "title": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
-      "source": "JAMA",
-      "date": "Oct 14 2026",
-      "type": "Recent research article",
-      "summary": "Consecutive adult patients receiving invasive mechanical ventilation within 3 days of ICU admission and ventilated 24 hours or more. Key measures included (1) total infused volume and daily fluid balance over 7 days after intubation; (2) the indication for fluid therapy over the first 3 days after intubation; (3) the proportion of total administered fluid volume attributable to each fluid type over the first 3 days after intubation. Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6. Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion. Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
-      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "pico": {
-        "population": "ICUs in 41 countries on 6 continents",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Key measures included (1) total infused volume and daily fluid balance over 7 days after intubation; (2) the indication for fluid therapy over the first 3 days after intubation; (3) the proportion of total administered fluid volume attributable to each fluid type over the first 3 days after intubation."
-      },
-      "keyResults": [
-        "Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR, 2.2-4.0 L) and declined to 2.6 L (IQR, 1.8-3.5 L) through day 6.",
-        "Maintenance and replacement fluids (to meet daily requirements and to correct ongoing losses; 31.9%) and creep fluids (to deliver medications and maintain catheter patency; 30.9%) were the primary indications, whereas resuscitation (to restore circulating blood volume; 16.0%) accounted for a smaller proportion.",
-        "Isotonic balanced crystalloids (48.9%) and isotonic saline (0.9% sodium chloride) (27.0%) were common; colloids were rare (1.3%).",
-        "Daily fluid balance (median, 0.9 L; IQR, 0.1-1.9 L on day 1) decreased to less than 0.3 L (IQR, -0.5 to 1.2 L) by day 3 and remained near-neutral through day 6."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
-          "The most clinically relevant signal was Among 2454 patients analyzed (median age, 63 years [IQR, 49-73 years]; 63.6% [1560] male), median daily fluid input peaked on day 1 at 3.0 L (IQR,....",
+          "This study examined whether Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults.",
+          "The most clinically relevant signal was A total of 87 adults completed the trial (FR, n = 31 [male, 52%]; OR, n = 26 [male, 77%]; SR, n = 30 [male, 53%])..",
           "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -179,37 +176,31 @@
         "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
       },
       "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
+        "PubMed"
       ],
-      "curationLinks": [
-        {
-          "title": "Blok. Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients. JAMA 2026; epublished October 14th",
-          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855458"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872606/",
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878628/",
       "urlLabel": "View on PubMed",
-      "pmid": "42872606"
+      "pmid": "42878628"
     },
     {
-      "title": "Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes.",
+      "title": "Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database.",
       "source": "Critical care medicine",
-      "date": "Oct 14 2026",
+      "date": "Oct 15 2026",
       "type": "Recent research article",
-      "summary": "Hospitalized children (≤ 18 yr) with endotracheal or tracheostomy tubes and evaluable intra-arrest end-tidal carbon dioxide data to calculate ventilation rate. Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR. We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68). For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). Evaluate the association between cardiopulmonary resuscitation (CPR) ventilation rates and survival to hospital discharge, and identify novel ventilation targets.",
+      "summary": "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients. ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs. 3.9%; p < 0.001), while ICU mortality was lower (14.3% vs. To describe ventilatory management in neurocritical care and non-neurocritical care patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients. The primary endpoint was a diagnosis of ARDS after initiation of invasive ventilation; one secondary endpoint was ICU mortality.",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "ICU-RESUS trial (NCT02837497)",
-        "intervention": "average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge",
-        "comparator": "less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048). CPR ventilation rates in the currently recommended range (20",
-        "outcomes": "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR. The association between guideline-recommended CPR ventilation rate and survival to hospital discharge was evaluated with Poisson regression using generalized estimating equations, controlling for a priori covariables..."
+        "population": "patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients",
+        "intervention": "Ventilatory Management in Neurocritical",
+        "comparator": "Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR.",
-        "We found no association between guideline-recommended ventilation rates and survival to hospital discharge (adjusted relative risk [aRR], 0.95; 95% CI, 0.75-1.21; p = 0.68).",
-        "For children younger than 8 years, average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge compared with less than 26 bpm (aRR, 1.32; 95% CI, 1.00-1.73; p = 0.048).",
-        "The association between guideline-recommended CPR ventilation rate and survival to hospital discharge was evaluated with Poisson regression using generalized estimating equations, controlling for a priori covariables (initial pulse status, immediate cause of arrest)."
+        "This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients.",
+        "ARDS was diagnosed more frequently in neurocritical care patients than in non-neurocritical care patients (8.7% vs.",
+        "3.9%; p < 0.001), while ICU mortality was lower (14.3% vs.",
+        "To describe ventilatory management in neurocritical care and non-neurocritical care patients and determine whether specific ventilator settings are associated with development of acute respiratory distress syndrome (ARDS) and mortality in neurocritical care patients."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice."
@@ -217,9 +208,9 @@
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes.",
-          "The most clinically relevant signal was Among 234 included events, 86 events (36.8%) had guideline-recommended (20-30 beats per min [bpm]) average ventilation rates during CPR..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "This study examined whether Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients.",
+          "The most clinically relevant signal was This analysis included 3848 patients, including 1702 neurocritical care and 1920 non-neurocritical care patients..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
@@ -237,15 +228,15 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether average CPR ventilation rate greater than or equal to 26 bpm was associated with improved survival to hospital discharge should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Ventilatory Management in Neurocritical should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872941/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878609/",
       "urlLabel": "View on PubMed",
-      "pmid": "42872941"
+      "pmid": "42878609"
     }
   ]
 }
