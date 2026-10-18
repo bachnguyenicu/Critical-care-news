@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "date": "October 18, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 18, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Association of Tele-Critical Care Capability With Interhospita",
+      "sentences": [
+        "Story 1 is about Association of Tele-Critical Care Capability With Interhospital Transfers and Potentially Low-Value Transfers Among Critically Ill Medicare Beneficiaries..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "TCC capability was identified by AHAASD reporting and/or the presence of five or more TCC claims annually.",
+        "Exploratory post-transfer outcomes included receipt of specialty procedures, death or hospice discharge within 1 day of transfer, in-hospital and 30-day mortality, and discharge disposition.",
+        "Among 2,140,919 ICU hospitalizations, 33.4% occurred at 1,066 TCC-capable hospitals.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Intermittent or Continuous Renal-Replacement Therapy in Acute ",
+      "sentences": [
+        "Story 2 is about Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury..",
+        "This is a recent research article from The New England journal of medicine.",
+        "The clinical question is best framed as follows: in critically ill adults with acute kidney injury who had indications for renal-replacement therapy to undergo intermittent hemodialysis or continuous renal-replacement therapy as the initial treat, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous renal-replacement therapy; 535 patients (260 in the intermittent group and 275 in the continuous group) were included in the intention-to-treat population.",
+        "A major adverse kidney event occurred by day 90 in 203 patients (78.1%) in the intermittent group and in 197 patients (71.6%) in the continuous group (adjusted absolute risk difference, 6.28 percentage points; 95% confidence interval [CI], -1.22 to 13.79).",
+        "Death by day 90 occurred in 164 patients (63.1%) and in 147 patients (53.5%), respectively.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Surv",
+      "sentences": [
+        "Story 3 is about Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Survivors and Their Association With Patients' Post-Intensive Care Syndrome: A Prospective Multicenter Cohort Study..",
+        "This is a cohort study from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Caregivers were a median of 67 years old (55-79 yr old), 31 (33.0%) were male, and 41 (43.6%) were spouses.",
+        "Patients were a median of 74 years old (69-82 yr old), and 54 (57.4%) were male.",
+        "The prevalence of mental PICS-F did not decrease from 3 to 12 months (43% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This is not yet bedside-changing; treat it as biomarker evidence that needs validation against current sepsis workflows and turnaround time.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Association of Tele-Critical Care Capability With Interhospital Transfers and Potentially Low-Value Transfers Among Critically Ill Medicare Beneficiaries.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Recent research article",
+      "summary": "Tele-critical care (TCC) programs extend expertise to resource-limited hospitals and may influence transfer decisions by identifying patients requiring escalation or supporting local management. TCC capability was identified by AHAASD reporting and/or the presence of five or more TCC claims annually. Exploratory post-transfer outcomes included receipt of specialty procedures, death or hospice discharge within 1 day of transfer, in-hospital and 30-day mortality, and discharge disposition. Among 2,140,919 ICU hospitalizations, 33.4% occurred at 1,066 TCC-capable hospitals. Absolute transfer rates were similar (2.5% vs.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "TCC capability was identified by AHAASD reporting and/or the presence of five or more TCC claims annually. The primary outcome was interhospital ICU transfer. Exploratory post-transfer outcomes included receipt of specialty procedures, death or hospice discharge within 1 day of transfer, in-hospital and 30-day mortality, and discharge disposition...."
+      },
+      "keyResults": [
+        "TCC capability was identified by AHAASD reporting and/or the presence of five or more TCC claims annually.",
+        "Exploratory post-transfer outcomes included receipt of specialty procedures, death or hospice discharge within 1 day of transfer, in-hospital and 30-day mortality, and discharge disposition.",
+        "Among 2,140,919 ICU hospitalizations, 33.4% occurred at 1,066 TCC-capable hospitals.",
+        "Absolute transfer rates were similar (2.5% vs."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Tele-Critical Care Capability With Interhospital Transfers and Potentially Low-Value....",
+          "The most clinically relevant signal was TCC capability was identified by AHAASD reporting and/or the presence of five or more TCC claims annually..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878611/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878611"
+    },
+    {
+      "title": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.",
+      "source": "The New England journal of medicine",
+      "date": "Oct 14 2026",
+      "type": "Recent research article",
+      "summary": "In this multicenter, open-label, noninferiority trial, we randomly assigned critically ill adults with acute kidney injury who had indications for renal-replacement therapy to undergo intermittent hemodialysis or continuous renal-replacement therapy as the initial treatment. The primary outcome was a major adverse kidney event - defined as death, dependence on renal-replacement therapy, or a serum creatinine concentration more than 25% above the baseline value - by day 90. A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous renal-replacement therapy; 535 patients (260 in the intermittent group and 275 in the continuous group) were included in the intention-to-treat population. A major adverse kidney event occurred by day 90 in 203 patients (78.1%) in the intermittent group and in 197 patients (71.6%) in the continuous group (adjusted absolute risk difference, 6.28 percentage points; 95% confidence interval [CI], -1.22 to 13.79). Death by day 90 occurred in 164 patients (63.1%) and in 147 patients (53.5%), respectively.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "critically ill adults with acute kidney injury who had indications for renal-replacement therapy to undergo intermittent hemodialysis or continuous renal-replacement therapy as the initial treat",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The trial was stopped early after sequential interim analyses showed a sustained signal of higher mortality with intermittent hemodialysis than with continuous renal-replacement therapy. A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous renal-replacement therapy;..."
+      },
+      "keyResults": [
+        "A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous renal-replacement therapy; 535 patients (260 in the intermittent group and 275 in the continuous group) were included in the intention-to-treat population.",
+        "A major adverse kidney event occurred by day 90 in 203 patients (78.1%) in the intermittent group and in 197 patients (71.6%) in the continuous group (adjusted absolute risk difference, 6.28 percentage points; 95% confidence interval [CI], -1.22 to 13.79).",
+        "Death by day 90 occurred in 164 patients (63.1%) and in 147 patients (53.5%), respectively.",
+        "Kaplan-Meier mortality estimates at day 90 were 63.3% and 53.6% (hazard ratio, 1.30; 95% CI, 1.04 to 1.63)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.",
+          "The most clinically relevant signal was A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "absolute risk",
+            "meaning": "the actual event rate difference patients may experience"
+          },
+          {
+            "term": "noninferiority",
+            "meaning": "testing whether a treatment is not unacceptably worse"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873070/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42873070"
+    },
+    {
+      "title": "Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Survivors and Their Association With Patients' Post-Intensive Care Syndrome: A Prospective Multicenter Cohort Study.",
+      "source": "Critical care medicine",
+      "date": "Oct 14 2026",
+      "type": "Cohort study",
+      "summary": "Caregivers were a median of 67 years old (55-79 yr old), 31 (33.0%) were male, and 41 (43.6%) were spouses. Patients were a median of 74 years old (69-82 yr old), and 54 (57.4%) were male. The prevalence of mental PICS-F did not decrease from 3 to 12 months (43% vs. 42%, respectively), whereas the presence of PICS symptoms in patients decreased from 82% to 62%. In mixed-effects logistic regression, the presence of PICS symptoms in patients was significantly associated with PICS-F (adjusted odds ratio, 3.00; 95% CI, 1.54-5.88; p < 0.01).",
+      "analysis": "This is not yet bedside-changing; treat it as biomarker evidence that needs validation against current sepsis workflows and turnaround time.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Caregivers and patients were assessed at 3, 6, and 12 months after hospital discharge by telephone and mail. The primary outcome was caregiver mental disorders (mental post-intensive care syndrome-family [PICS-F]). Mixed-effects logistic regression analyses were performed to evaluate the association between caregiver PICS-F and patient PICS. Ninety-four..."
+      },
+      "keyResults": [
+        "Caregivers were a median of 67 years old (55-79 yr old), 31 (33.0%) were male, and 41 (43.6%) were spouses.",
+        "Patients were a median of 74 years old (69-82 yr old), and 54 (57.4%) were male.",
+        "The prevalence of mental PICS-F did not decrease from 3 to 12 months (43% vs.",
+        "42%, respectively), whereas the presence of PICS symptoms in patients decreased from 82% to 62%."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "This is not yet bedside-changing; treat it as biomarker evidence that needs validation against current sepsis workflows and turnaround time.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Survivors and Their Association....",
+          "The most clinically relevant signal was Caregivers were a median of 67 years old (55-79 yr old), 31 (33.0%) were male, and 41 (43.6%) were spouses..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This is not yet bedside-changing; treat it as biomarker evidence that needs validation against current sepsis workflows and turnaround time..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872916/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42872916"
+    }
+  ]
+}
