@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 2,
+  "date": "October 19, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 19, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Developing Models for Complicated Outcomes in Acutely Intoxica",
+      "sentences": [
+        "Story 1 is about Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The primary outcome was defined as ICU complications or death (22.5%).",
+        "Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model.",
+        "Clinical data were collected in an electronic capture system.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Irisin is associated with survival in sepsis and attenuates ma",
+      "sentences": [
+        "Story 2 is about Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory responses with involvement of AMPK signaling..",
+        "This is a recent research article from Shock (Augusta, Ga.).",
+        "The clinical question is best framed as follows: in Patients were enrolled in a prospectively collected sepsis registry and biobank, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655).",
+        "Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145).",
+        "In vivo, irisin improved 7-day survival after CLP (75% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental O",
+      "sentences": [
+        "Story 3 is about Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in children born at 24 to 32 weeks' gestation, recruited from 2 neonatal intensive care units from 2015 to 2019 and followed up to January 2026, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included.",
+        "Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores.",
+        "Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Recent research article",
+      "summary": "A total of 2265 adult patients were admitted to the ICU with acute intoxication as the main reason for admission for at least 4 hours. The primary outcome was defined as ICU complications or death (22.5%). Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model. To assess the prognostic value of the mean Lethality Risk Score (LRS), reflecting the toxicity of substances involved in an exposure, and to develop prediction models for complicated outcomes in ICU patients with acute intoxication. Multicenter prospective cohort study.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The primary outcome was defined as ICU complications or death (22.5%). Clinical data were collected in an electronic capture system. We developed two prediction models: one incorporating laboratory variables (\"Laboratory Model\"), and one including the mean LRS (\"Expo Model\"). The mean LRS was calculated as the average of the individual LRS values assigned..."
+      },
+      "keyResults": [
+        "The primary outcome was defined as ICU complications or death (22.5%).",
+        "Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model.",
+        "Clinical data were collected in an electronic capture system.",
+        "We developed two prediction models: one incorporating laboratory variables (\"Laboratory Model\"), and one including the mean LRS (\"Expo Model\")."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and....",
+          "The most clinically relevant signal was The primary outcome was defined as ICU complications or death (22.5%)..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878613/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878613"
+    },
+    {
+      "title": "Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory responses with involvement of AMPK signaling.",
+      "source": "Shock (Augusta, Ga.)",
+      "date": "Oct 14 2026",
+      "type": "Recent research article",
+      "summary": "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655). Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145). In vivo, irisin improved 7-day survival after CLP (75% vs. 36%, p<0.05) and reduced systemic inflammatory cytokines at 24 hours. Sepsis is a leading cause of morbidity and mortality, yet effective targeted therapies remain limited.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Patients were enrolled in a prospectively collected sepsis registry and biobank",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655). Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145). In vitro, irisin..."
+      },
+      "keyResults": [
+        "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655).",
+        "Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145).",
+        "In vivo, irisin improved 7-day survival after CLP (75% vs.",
+        "36%, p<0.05) and reduced systemic inflammatory cytokines at 24 hours."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory....",
+          "The most clinically relevant signal was Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999,....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873095/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42873095"
+    },
+    {
+      "title": "Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes.",
+      "source": "JAMA network open",
+      "date": "Oct 01 2026",
+      "type": "Recent research article",
+      "summary": "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included. Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores. Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores. Severe brain injury modified the association between epigenetic aging and motor outcomes (β = 0.41; 95% CI, 0.08-0.74; P = .02), and children with epigenetic age acceleration in the presence of severe brain injury had higher motor scores. Studies examining biological factors associated with neurodevelopment in the preterm population are limited.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "children born at 24 to 32 weeks' gestation, recruited from 2 neonatal intensive care units from 2015 to 2019 and followed up to January 2026",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Primary analyses used linear regression to examine the association between epigenetic age difference, preterm risk factors (any brain injury, severe brain injury, maternal educational level), and cognitive and motor outcomes at 3 years. Secondary analyses examined whether brain injury and maternal education level modified the associations between..."
+      },
+      "keyResults": [
+        "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included.",
+        "Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores.",
+        "Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores.",
+        "Severe brain injury modified the association between epigenetic aging and motor outcomes (β = 0.41; 95% CI, 0.08-0.74; P = .02), and children with epigenetic age acceleration in the presence of severe brain injury had higher motor scores."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes.",
+          "The most clinically relevant signal was A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886482/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42886482"
+    }
+  ]
+}
