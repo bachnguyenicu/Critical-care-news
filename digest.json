@@ -1,56 +1,55 @@
 {
   "schemaVersion": 2,
-  "date": "October 19, 2026",
+  "date": "October 20, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 19, 2026.",
+        "Welcome to Critical Care Daily for October 20, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Developing Models for Complicated Outcomes in Acutely Intoxica",
+      "heading": "Story 1 - Infections Acquired in the ICU Among Cancer and Other Immunosu",
       "sentences": [
-        "Story 1 is about Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information..",
-        "This is a recent research article from Critical care medicine.",
+        "Story 1 is about Infections Acquired in the ICU Among Cancer and Other Immunosuppressed Patients: A Nationwide Cohort Study..",
+        "This is a cohort study from Critical care medicine.",
         "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "The primary outcome was defined as ICU complications or death (22.5%).",
-        "Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model.",
-        "Clinical data were collected in an electronic capture system.",
+        "In the multivariable competing-risk analysis, patients with hematological malignancies (sHR, 1.64; 95% CI, 1.01-2.65) and other immunosuppressive conditions (sHR, 1.61; 95% CI, 1.02-2.54) were associated with an increased cumulative incidence of ICU-AI, while solid malignancy was not significantly different from non-immunosuppressed patients (sHR, 0.88; 95% CI, 0.68-1.14).",
+        "The primary outcome was the incidence of the first ICU-AI during the ICU stay, evaluated using Fine-Gray subdistribution hazard ratios (sHR).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Efficacy, safety, and immunogenicity of a nine-valent vaccine ",
+      "sentences": [
+        "Story 2 is about Efficacy, safety, and immunogenicity of a nine-valent vaccine (ExPEC9V) for the prevention of invasive Escherichia coli disease in older adults: a phase 3, randomised, placebo-controlled trial (E.mbrace)..",
+        "This is a recent research article from The Lancet. Infectious diseases.",
+        "The clinical question is best framed as follows: in participants aged 60 years and older in stable health and with a history of urinary tract infection (UTI) within the previous 2 years, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The per-protocol efficacy included 17 637 participants (8822 for ExPEC9V and 8815 for placebo).",
+        "There were 24 IED cases (11 in vaccine and 13 in placebo groups) caused by ExPEC9V O-serotypes in blood or sterile sites, yielding a vaccine efficacy of 14·63% (95% CI -106·57 to 65·38), indicating no protective effect.",
+        "Participants were enrolled between June 30, 2021, and Feb 13, 2025.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Irisin is associated with survival in sepsis and attenuates ma",
+      "heading": "Story 3 - Continuous glucose monitoring for diabetes mellitus in the per",
       "sentences": [
-        "Story 2 is about Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory responses with involvement of AMPK signaling..",
-        "This is a recent research article from Shock (Augusta, Ga.).",
-        "The clinical question is best framed as follows: in Patients were enrolled in a prospectively collected sepsis registry and biobank, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655).",
-        "Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145).",
-        "In vivo, irisin improved 7-day survival after CLP (75% vs.",
+        "Story 3 is about Continuous glucose monitoring for diabetes mellitus in the perioperative and intensive care setting: a prospective observational validation study✰..",
+        "This is a recent research article from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in ICU, how should we interpret fferent. In this prospective observational study (NCT06297850), we assessed the accuracy of CGM (Dexcom G7, Dexcom Inc.) compared with POC monitors in people with diabetes mellitus requiring glucose-lowering medication undergoing surgery or admission to t?",
+        "In 58 participants (mean [standard deviation] age 71 [11]yr; 34% female), the median MARD was 10.9% (5.1-19.4%); 1186 of 1212 paired POC and CGM measurements (98%) were within clinically acceptable ranges (CEG zones A and B).",
+        "MARD was 4.5% higher (95% confidence interval 2.3-6.7%) during periods of hypoperfusion.",
+        "Bland-Altman analysis showed similar CGM and POC measurements, with a mean difference of -1 mM (95% limits of agreement -5.6 to 3.4 mM).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 3 - Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental O",
-      "sentences": [
-        "Story 3 is about Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in children born at 24 to 32 weeks' gestation, recruited from 2 neonatal intensive care units from 2015 to 2019 and followed up to January 2026, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included.",
-        "Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores.",
-        "Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,35 +64,34 @@
   ],
   "articles": [
     {
-      "title": "Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information.",
+      "title": "Infections Acquired in the ICU Among Cancer and Other Immunosuppressed Patients: A Nationwide Cohort Study.",
       "source": "Critical care medicine",
-      "date": "Oct 15 2026",
-      "type": "Recent research article",
-      "summary": "A total of 2265 adult patients were admitted to the ICU with acute intoxication as the main reason for admission for at least 4 hours. The primary outcome was defined as ICU complications or death (22.5%). Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model. To assess the prognostic value of the mean Lethality Risk Score (LRS), reflecting the toxicity of substances involved in an exposure, and to develop prediction models for complicated outcomes in ICU patients with acute intoxication. Multicenter prospective cohort study.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "date": "Oct 19 2026",
+      "type": "Cohort study",
+      "summary": "A total of 38,126 adult patients admitted between October 2019 and December 2021 with an ICU stay exceeding 48 hours and no infections diagnosed within the first 48 hours. In the multivariable competing-risk analysis, patients with hematological malignancies (sHR, 1.64; 95% CI, 1.01-2.65) and other immunosuppressive conditions (sHR, 1.61; 95% CI, 1.02-2.54) were associated with an increased cumulative incidence of ICU-AI, while solid malignancy was not significantly different from non-immunosuppressed patients (sHR, 0.88; 95% CI, 0.68-1.14). To compare the cumulative incidence of ICU-acquired infections (ICU-AIs) across distinct immunosuppression diagnostic categories (solid cancer, hematological cancer, other immunosuppression) and nonimmunosuppressed patients, accounting for competing risks of death and discharge. Retrospective cohort study using prospectively collected data. A total of 50 participating ICUs in Brazil.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
       "pico": {
         "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "The primary outcome was defined as ICU complications or death (22.5%). Clinical data were collected in an electronic capture system. We developed two prediction models: one incorporating laboratory variables (\"Laboratory Model\"), and one including the mean LRS (\"Expo Model\"). The mean LRS was calculated as the average of the individual LRS values assigned..."
+        "outcomes": "The primary outcome was the incidence of the first ICU-AI during the ICU stay, evaluated using Fine-Gray subdistribution hazard ratios (sHR). In the multivariable competing-risk analysis, patients with hematological malignancies (sHR, 1.64; 95% CI, 1.01-2.65) and other immunosuppressive conditions (sHR, 1.61; 95% CI, 1.02-2.54) were associated with an..."
       },
       "keyResults": [
-        "The primary outcome was defined as ICU complications or death (22.5%).",
-        "Decision curve analysis revealed clinically relevant threshold probability ranges of 0-50% for the Laboratory Model and 0-40% for the Expo Model.",
-        "Clinical data were collected in an electronic capture system.",
-        "We developed two prediction models: one incorporating laboratory variables (\"Laboratory Model\"), and one including the mean LRS (\"Expo Model\")."
+        "In the multivariable competing-risk analysis, patients with hematological malignancies (sHR, 1.64; 95% CI, 1.01-2.65) and other immunosuppressive conditions (sHR, 1.61; 95% CI, 1.02-2.54) were associated with an increased cumulative incidence of ICU-AI, while solid malignancy was not significantly different from non-immunosuppressed patients (sHR, 0.88; 95% CI, 0.68-1.14).",
+        "The primary outcome was the incidence of the first ICU-AI during the ICU stay, evaluated using Fine-Gray subdistribution hazard ratios (sHR)."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and....",
-          "The most clinically relevant signal was The primary outcome was defined as ICU complications or death (22.5%)..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "This study examined whether Infections Acquired in the ICU Among Cancer and Other Immunosuppressed Patients.",
+          "The most clinically relevant signal was In the multivariable competing-risk analysis, patients with hematological malignancies (sHR, 1.64; 95% CI, 1.01-2.65) and other immunosuppressive....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
         ],
         "vocabulary": [
           {
@@ -119,42 +117,102 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42878613/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895439/",
       "urlLabel": "View on PubMed",
-      "pmid": "42878613"
+      "pmid": "42895439"
     },
     {
-      "title": "Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory responses with involvement of AMPK signaling.",
-      "source": "Shock (Augusta, Ga.)",
-      "date": "Oct 14 2026",
+      "title": "Efficacy, safety, and immunogenicity of a nine-valent vaccine (ExPEC9V) for the prevention of invasive Escherichia coli disease in older adults: a phase 3, randomised, placebo-controlled trial (E.mbrace).",
+      "source": "The Lancet. Infectious diseases",
+      "date": "Oct 12 2026",
       "type": "Recent research article",
-      "summary": "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655). Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145). In vivo, irisin improved 7-day survival after CLP (75% vs. 36%, p<0.05) and reduced systemic inflammatory cytokines at 24 hours. Sepsis is a leading cause of morbidity and mortality, yet effective targeted therapies remain limited.",
+      "summary": "Participants were randomly assigned (in blocks of no set size with the use of interactive web response system, stratified by age and presence or absence of risk factors for complicated UTI) 1:1 to receive a single dose of intramuscular ExPEC9V or placebo. The primary endpoint was first IED in blood or sterile sites caused by ExPEC9V O-serotypes in the per-protocol efficacy analysis set (all randomly assigned, vaccinated participants without major protocol deviations); secondary endpoints included immunogenicity assessment in a subset of participants. A prespecified futility analysis conducted when at least 40% of the expected 53 IED events had occurred indicated lack of efficacy, leading to early study termination. We present final study results (data up to the date of the futility announcement), when 17 701 of the planned 19 800 participants had been vaccinated. The per-protocol efficacy included 17 637 participants (8822 for ExPEC9V and 8815 for placebo).",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "Patients were enrolled in a prospectively collected sepsis registry and biobank",
+        "population": "participants aged 60 years and older in stable health and with a history of urinary tract infection (UTI) within the previous 2 years",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655). Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145). In vitro, irisin..."
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999, p=0.044) in patients with sepsis (N=655).",
-        "Irisin showed modest discrimination for 30-day mortality (AUROC 0.609), with no statistically significant difference from lactate (AUROC 0.652; p=0.145).",
-        "In vivo, irisin improved 7-day survival after CLP (75% vs.",
-        "36%, p<0.05) and reduced systemic inflammatory cytokines at 24 hours."
+        "The per-protocol efficacy included 17 637 participants (8822 for ExPEC9V and 8815 for placebo).",
+        "There were 24 IED cases (11 in vaccine and 13 in placebo groups) caused by ExPEC9V O-serotypes in blood or sterile sites, yielding a vaccine efficacy of 14·63% (95% CI -106·57 to 65·38), indicating no protective effect.",
+        "Participants were enrolled between June 30, 2021, and Feb 13, 2025.",
+        "Of 18 844 individuals assessed for eligibility, 17 701 were enrolled, randomly assigned, and vaccinated (8858 with ExPEC9V and 8843 with placebo)."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
       ],
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Irisin is associated with survival in sepsis and attenuates macrophage pro-inflammatory....",
-          "The most clinically relevant signal was Higher serum irisin was independently associated with lower 30-day mortality (adjusted hazard ratio 0.955, 95% confidence interval 0.913-0.999,....",
+          "This study examined whether Efficacy, safety, and immunogenicity of a nine-valent vaccine (ExPEC9V) for the prevention....",
+          "The most clinically relevant signal was The per-protocol efficacy included 17 637 participants (8822 for ExPEC9V and 8815 for placebo)..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863477/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42863477"
+    },
+    {
+      "title": "Continuous glucose monitoring for diabetes mellitus in the perioperative and intensive care setting: a prospective observational validation study✰.",
+      "source": "British journal of anaesthesia",
+      "date": "Oct 12 2026",
+      "type": "Recent research article",
+      "summary": "In this prospective observational study (NCT06297850), we assessed the accuracy of CGM (Dexcom G7, Dexcom Inc.) compared with POC monitors in people with diabetes mellitus requiring glucose-lowering medication undergoing surgery or admission to the ICU. Secondary analyses assessed agreement during periods of hypoperfusion, defined as a mean arterial pressure of <65 mm Hg, infusions with vasopressors, or reduced peripheral perfusion index. In 58 participants (mean [standard deviation] age 71 [11]yr; 34% female), the median MARD was 10.9% (5.1-19.4%); 1186 of 1212 paired POC and CGM measurements (98%) were within clinically acceptable ranges (CEG zones A and B). MARD was 4.5% higher (95% confidence interval 2.3-6.7%) during periods of hypoperfusion. Bland-Altman analysis showed similar CGM and POC measurements, with a mean difference of -1 mM (95% limits of agreement -5.6 to 3.4 mM).",
+      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+      "pico": {
+        "population": "ICU",
+        "intervention": "fferent. In this prospective observational study (NCT06297850), we assessed the accuracy of CGM (Dexcom G7, Dexcom Inc.)",
+        "comparator": "POC monitors in people with diabetes mellitus requiring glucose-lowering medication undergoing surgery or admission to t",
+        "outcomes": "In 58 participants (mean [standard deviation] age 71 [11]yr; 34% female), the median MARD was 10.9% (5.1-19.4%); 1186 of 1212 paired POC and CGM measurements (98%) were within clinically acceptable ranges (CEG zones A and B). MARD was 4.5% higher (95% confidence interval 2.3-6.7%) during periods of hypoperfusion. Given that hypoglycaemia (<4 mM) did not..."
+      },
+      "keyResults": [
+        "In 58 participants (mean [standard deviation] age 71 [11]yr; 34% female), the median MARD was 10.9% (5.1-19.4%); 1186 of 1212 paired POC and CGM measurements (98%) were within clinically acceptable ranges (CEG zones A and B).",
+        "MARD was 4.5% higher (95% confidence interval 2.3-6.7%) during periods of hypoperfusion.",
+        "Bland-Altman analysis showed similar CGM and POC measurements, with a mean difference of -1 mM (95% limits of agreement -5.6 to 3.4 mM).",
+        "Given that hypoglycaemia (<4 mM) did not occur, no paired readings were obtained."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Continuous glucose monitoring for diabetes mellitus in the perioperative and intensive care....",
+          "The most clinically relevant signal was In 58 participants (mean [standard deviation] age 71 [11]yr; 34% female), the median MARD was 10.9% (5.1-19.4%); 1186 of 1212 paired POC and CGM....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
           {
             "term": "confidence interval",
             "meaning": "a range showing statistical uncertainty around an estimate"
@@ -166,76 +224,17 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether fferent. In this prospective observational study (NCT06297850), we assessed the accuracy of CGM (Dexcom G7, Dexcom Inc.) should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873095/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864191/",
       "urlLabel": "View on PubMed",
-      "pmid": "42873095"
-    },
-    {
-      "title": "Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes.",
-      "source": "JAMA network open",
-      "date": "Oct 01 2026",
-      "type": "Recent research article",
-      "summary": "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included. Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores. Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores. Severe brain injury modified the association between epigenetic aging and motor outcomes (β = 0.41; 95% CI, 0.08-0.74; P = .02), and children with epigenetic age acceleration in the presence of severe brain injury had higher motor scores. Studies examining biological factors associated with neurodevelopment in the preterm population are limited.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "children born at 24 to 32 weeks' gestation, recruited from 2 neonatal intensive care units from 2015 to 2019 and followed up to January 2026",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Primary analyses used linear regression to examine the association between epigenetic age difference, preterm risk factors (any brain injury, severe brain injury, maternal educational level), and cognitive and motor outcomes at 3 years. Secondary analyses examined whether brain injury and maternal education level modified the associations between..."
-      },
-      "keyResults": [
-        "A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included.",
-        "Higher maternal educational level (β = 11.65; 95% CI, 3.55-19.76; P = .005) and epigenetic age acceleration (β = 0.07; 95% CI, 0.01-0.14; P = .04) were associated with higher cognitive scores.",
-        "Epigenetic age acceleration was also associated with higher motor scores (β = 0.16; 95% CI, 0.06-0.27; P = .003), while extreme prematurity (β = -5.66; 95% CI, -10.85 to -0.46; P = .03) and severe brain injury (β = -10.99; 95% CI, -21.32 to -0.66; P = .04) were associated with lower motor scores.",
-        "Severe brain injury modified the association between epigenetic aging and motor outcomes (β = 0.41; 95% CI, 0.08-0.74; P = .02), and children with epigenetic age acceleration in the presence of severe brain injury had higher motor scores."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Preterm Risk Factors, Epigenetic Age, and Neurodevelopmental Outcomes.",
-          "The most clinically relevant signal was A total of 102 study participants (median gestational age, 27.0 weeks [IQR, 25.6-28.9 weeks]; 54 female [53%]) were included..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42886482/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42886482"
+      "pmid": "42864191"
     }
   ]
 }
