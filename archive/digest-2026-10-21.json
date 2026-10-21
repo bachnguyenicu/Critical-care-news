@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "date": "October 21, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 21, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Assessment of Tidal Volume in Patients Undergoing Noninvasive ",
+      "sentences": [
+        "Story 1 is about Assessment of Tidal Volume in Patients Undergoing Noninvasive Ventilation: Systematic Review and Meta-Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and failure groups, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Observational studies of adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and failure groups.",
+        "Eleven studies (1136 patients) were included.",
+        "Vt/PBW was higher in NIV failure vs. success (mean difference [MD], 1.02 mL/kg [95% CI, 0.60-1.45 mL/kg]), whereas absolute Vt did not differ (MD, 1.30 [-33.31 to 35.91]).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Eligibility for Early Mobilization in Mechanically Ventilated ",
+      "sentences": [
+        "Story 2 is about Eligibility for Early Mobilization in Mechanically Ventilated Adults: A Multicenter Study..",
+        "This is a recent research article from Annals of the American Thoracic Society.",
+        "The clinical question is best framed as follows: in adults receiving invasive mechanical ventilation for ≥4 hours across nine CLIF Consortium health systems (2018-2024) and MIMIC-IV (2008-2022), how should we interpret 3,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria compared with Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611?",
+        "Among 223,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria.",
+        "Compared with Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611-0.651) but not Yellow (SHR 0.990, 0.976-1.005).",
+        "Restricting eligibility to weekdays (structural) or requiring continuous eligibility (process) each reduced eligibility by 26-39% across all four criteria (SHR range 0.61-0.74); imposing both barriers together reduced eligibility by 45-56% (SHR range 0.44-0.55).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Assessment of Tidal Volume in Patients Undergoing Noninvasive Ventilation: Systematic Review and Meta-Analysis.",
+      "source": "Critical care medicine",
+      "date": "Oct 20 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Observational studies of adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and failure groups. Eleven studies (1136 patients) were included. Vt/PBW was higher in NIV failure vs. success (mean difference [MD], 1.02 mL/kg [95% CI, 0.60-1.45 mL/kg]), whereas absolute Vt did not differ (MD, 1.30 [-33.31 to 35.91]). In hypoxemic ARF, Vt/PBW remained higher in NIV failure (MD, 0.89 mL/kg [95% CI, 0.04-1.73 mL/kg]); no data were available for hypercapnic ARF. Post hoc analyses showed that higher Vt/PBW was associated with increased mortality (odds ratio, 9.11; 95% CI, 3.88-21.37), higher respiratory rate (RR; MD, 3.14 breaths/min [95% CI, 1.36-4.92 breaths/min]), and lower Paco2 (MD, -2.38 mm Hg [95% CI, -4.16 to -0.5938 mm Hg]), but no with pressure support (PS) level (MD, 0.24 [95% CI, -0.81 to 1.29]).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and failure groups",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Observational studies of adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and failure groups.",
+        "Eleven studies (1136 patients) were included.",
+        "Vt/PBW was higher in NIV failure vs. success (mean difference [MD], 1.02 mL/kg [95% CI, 0.60-1.45 mL/kg]), whereas absolute Vt did not differ (MD, 1.30 [-33.31 to 35.91]).",
+        "In hypoxemic ARF, Vt/PBW remained higher in NIV failure (MD, 0.89 mL/kg [95% CI, 0.04-1.73 mL/kg]); no data were available for hypercapnic ARF."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Assessment of Tidal Volume in Patients Undergoing Noninvasive Ventilation.",
+          "The most clinically relevant signal was Observational studies of adults with ARF treated with NIV reporting Vt or Vt normalized to predicted body weight (Vt/PBW) in NIV success and....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900697/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42900697"
+    },
+    {
+      "title": "Eligibility for Early Mobilization in Mechanically Ventilated Adults: A Multicenter Study.",
+      "source": "Annals of the American Thoracic Society",
+      "date": "Oct 20 2026",
+      "type": "Recent research article",
+      "summary": "Early mobilization of mechanically ventilated patients within 72 hours of intubation is underutilized despite its known clinical benefits. Retrospective cohort of adults receiving invasive mechanical ventilation for ≥4 hours across nine CLIF Consortium health systems (2018-2024) and MIMIC-IV (2008-2022). Four physiologic eligibility criteria, from clinical trials (Chicago, TEAM) and consensus guidelines (Green, Yellow), were applied between 8am and 5pm within 72 hours of intubation. Among 223,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria. Compared with Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611-0.651) but not Yellow (SHR 0.990, 0.976-1.005).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults receiving invasive mechanical ventilation for ≥4 hours across nine CLIF Consortium health systems (2018-2024) and MIMIC-IV (2008-2022)",
+        "intervention": "3,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria",
+        "comparator": "Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611",
+        "outcomes": "Among 223,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria. Compared with Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611-0.651) but not Yellow (SHR 0.990, 0.976-1.005). Restricting eligibility to weekdays..."
+      },
+      "keyResults": [
+        "Among 223,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria.",
+        "Compared with Chicago trials criteria, eligibility was reduced under TEAM (SHR 0.782, 95% CI 0.746-0.820) and Green (SHR 0.631, 0.611-0.651) but not Yellow (SHR 0.990, 0.976-1.005).",
+        "Restricting eligibility to weekdays (structural) or requiring continuous eligibility (process) each reduced eligibility by 26-39% across all four criteria (SHR range 0.61-0.74); imposing both barriers together reduced eligibility by 45-56% (SHR range 0.44-0.55)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Eligibility for Early Mobilization in Mechanically Ventilated Adults.",
+          "The most clinically relevant signal was Among 223,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether 3,281 hospitalizations, 86.9-95.6% met eligibility for mobilization within 72 hours of intubation across all 4 criteria should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42899407/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42899407"
+    }
+  ]
+}
