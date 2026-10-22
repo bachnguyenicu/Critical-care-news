@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "date": "October 22, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 22, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
+      "sentences": [
+        "Story 1 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Heterogeneity of Treatment Effect by Molecular Endotype in Acu",
+      "sentences": [
+        "Story 2 is about Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review..",
+        "This is a systematic review / meta-analysis from Annals of the American Thoracic Society.",
+        "The clinical question is best framed as follows: in adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
+        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
+        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated A",
+      "sentences": [
+        "Story 3 is about Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in intensive care units (ICUs) in Canada, how should we interpret oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality compared with usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab?",
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878614"
+    },
+    {
+      "title": "Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome: A Systematic Review.",
+      "source": "Annals of the American Thoracic Society",
+      "date": "Sep 12 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Despite numerous randomized controlled trials (RCTs) in acute respiratory distress syndrome (ARDS), few have identified effective therapies. One reason may be heterogeneity of treatment effect (HTE), in which distinct subgroups respond differently to the same intervention, potentially reflective of underlying biological endotypes. We conducted a systematic review to evaluate effect modification by molecular endotype across randomized ARDS trials and assess credibility of reported subgroup effects. In doing so, we aim to expose current knowledge gaps in how subgroups are defined and inform future clinical practice guideline recommendations.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult critically-ill patients with ARDS that evaluated treatment effects stratified by molecular endotype",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Eleven secondary analyses from ten RCTs (5,514 participants) were included. Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers. Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R,..."
+      },
+      "keyResults": [
+        "Eleven secondary analyses from ten RCTs (5,514 participants) were included.",
+        "Most studies identified two reproducible endotypes, hyperinflammatory and hypoinflammatory, using small panels of circulating protein biomarkers.",
+        "Of 11 analyses, four demonstrated statistically significant effect modification (higher PEEP, liberal fluid strategy, vv-ECCO₂R, simvastatin).",
+        "The hyperinflammatory endotype drove every observed interaction, though the direction varied by intervention."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Heterogeneity of Treatment Effect by Molecular Endotype in Acute Respiratory Distress Syndrome.",
+          "The most clinically relevant signal was Eleven secondary analyses from ten RCTs (5,514 participants) were included..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730647/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42730647"
+    },
+    {
+      "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Oct 14 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adults (≥18 years) receiving sedation for less than 72 hours and receiving mechanical ventilation for AHRF from non-COVID respiratory failure (ratio of partial pressure of arterial oxygen [Pao2] to fraction of inspired oxygen [Fio2] <300 mm Hg) or COVID-19 were enrolled between September 2020 and March 2025 with follow-up through June 2025. Patients were randomized to an inhaled sedation strategy using isoflurane with intravenous adjuncts as clinically needed or to a usual intravenous sedation care strategy. Sedatives were titrated to achieve the desired target sedation score guided by clinical teams and continued until extubation or death. Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups. In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "intensive care units (ICUs) in Canada",
+        "intervention": "oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality",
+        "comparator": "usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab",
+        "outcomes": "Primary outcome was all-cause hospital mortality. Secondary outcomes included ICU- and ventilator-free days at day 30; hospital-free days at day 60; use of refractory hypoxemia adjunctive therapies; delirium- and coma-free days at day 14; and quality-of-life and disability scores at 3 months."
+      },
+      "keyResults": [
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
+        "The inhaled sedation group received more adjunctive therapies for hypoxemia (239 [63.9%] vs 214 [55.0%]; between-group difference, 8.89% [95% CI, 1.95% to 15.83%]) and had fewer delirium- and coma-free days (between-group difference, -0.95 [95% CI, -1.69 to -0.22])."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic....",
+          "The most clinically relevant signal was Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855464"
+        },
+        {
+          "title": "SAVE-ICU Trial Critique Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th add",
+          "url": "https://criticalcarereviews.com/neuro/save-icu"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872958/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42872958"
+    }
+  ]
+}
