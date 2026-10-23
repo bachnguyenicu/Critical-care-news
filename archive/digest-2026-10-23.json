@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 2,
+  "date": "October 23, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 23, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Music Therapy During Weaning From Invasive Mechanical Ventilat",
+      "sentences": [
+        "Story 1 is about Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial..",
+        "This is a randomized / clinical trial from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025).",
+        "No significant difference in weaning duration was observed between groups (p = 0.97).",
+        "Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Delay From Hypotension Onset to Appropriate Antifungal Therapy",
+      "sentences": [
+        "Story 2 is about Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension.",
+        "The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001).",
+        "The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Cluster Versus Individual Randomization in Prehospital, Emerge",
+      "sentences": [
+        "Story 3 is about Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients, how should we interpret Cluster compared with Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study?",
+        "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.",
+        "The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.",
+        "Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial.",
+      "source": "Critical care medicine",
+      "date": "Oct 21 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Secondary agitation, sedation, and analgesia doses, pain, delirium, and perceived stress after 90 days were assessed. Adult critically ill patients (n = 100) admitted to a general ICU who received IMV for at least 48 hours. Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025). The study examined the effect of daily music therapy on weaning from invasive mechanical ventilation (IMV) in the ICU, with a primary focus on weaning duration. Additionally, total IMV and ICU stay durations and tracheostomy rates were studied.",
+      "analysis": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "No significant difference in weaning duration was observed between groups (p = 0.97). Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028). No significant difference in perceived pain..."
+      },
+      "keyResults": [
+        "Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025).",
+        "No significant difference in weaning duration was observed between groups (p = 0.97).",
+        "Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028).",
+        "No significant difference in perceived pain (Visual Analog Pain Scale)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU.",
+          "The most clinically relevant signal was Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025)..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904879/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42904879"
+    },
+    {
+      "title": "Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock.",
+      "source": "Critical care medicine",
+      "date": "Oct 21 2026",
+      "type": "Recent research article",
+      "summary": "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension. The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001). The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension. Thereafter, hospital survival decreased an average of 5.0% per hour for each hour of delay to 10-12 hours of delay. Median time to appropriate antifungal therapy was 32.3 hours (interquartile range, 11.2-66.0 hr), with only 16.9% receiving therapy within 6 hours of hypotension onset.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension. A strong relationship was observed between the delay in initiation of pathogen-appropriate antifungal (PAA) therapy and hospital survival. The adjusted odds ratio of death was 1.045 per hour of delay (95%..."
+      },
+      "keyResults": [
+        "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension.",
+        "The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001).",
+        "The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension.",
+        "Thereafter, hospital survival decreased an average of 5.0% per hour for each hour of delay to 10-12 hours of delay."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical....",
+          "The most clinically relevant signal was Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Peltan. Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial. JAMA 2026; epublished October 14th",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855462"
+        },
+        {
+          "title": "VASSPR Trial Critique Peltan. Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial. JAMA 2026; epublished October 14th added October 15th",
+          "url": "https://criticalcarereviews.com/sepsis/vasspr-trial"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904906/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42904906"
+    },
+    {
+      "title": "Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study.",
+      "source": "Critical care medicine",
+      "date": "Oct 21 2026",
+      "type": "Recent research article",
+      "summary": "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT. The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes. Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs. We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT). We included 65 meta-analyses in quantitative analyses, encompassing 212 randomized clinical trials (39 cRCTs and 173 iRCTs) and 315,276 patients.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients",
+        "intervention": "Cluster",
+        "comparator": "Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.",
+        "The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.",
+        "Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs.",
+        "We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials.",
+          "The most clinically relevant signal was We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Cluster should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904944/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42904944"
+    }
+  ]
+}
