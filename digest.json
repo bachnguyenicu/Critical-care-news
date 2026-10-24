@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 23, 2026",
+  "date": "October 24, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 23, 2026.",
+        "Welcome to Critical Care Daily for October 24, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Music Therapy During Weaning From Invasive Mechanical Ventilat",
+      "heading": "Story 1 - Delivery and adherence of biomarker-guided antibiotic treatmen",
       "sentences": [
-        "Story 1 is about Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial..",
-        "This is a randomized / clinical trial from Critical care medicine.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025).",
-        "No significant difference in weaning duration was observed between groups (p = 0.97).",
-        "Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028).",
+        "Story 1 is about Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-Sepsis clinical trial: an in-trial descriptive process evaluation of daily procalcitonin- and C-reactive protein-guided protocols..",
+        "This is a randomized / clinical trial from Anaesthesia.",
+        "The clinical question is best framed as follows: in adults across 41 UK critical care units, how should we interpret analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guida?",
+        "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001).",
+        "C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
+        "Overall advice adherence was greater in patients allocated to the C-reactive protein group than those allocated to the procalcitonin group (mean difference -6.8%, 95%CI -9.0 to -4.5, p < 0.001), driven by the higher proportion of standard care advice and later stronger stop advice with higher adherence (mean difference -14.3%, 95%CI -21.8 to -6.8, p < 0.001).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Delay From Hypotension Onset to Appropriate Antifungal Therapy",
+      "heading": "Story 2 - Clinical Outcomes After Recovered, Positive, and Negative Puls",
       "sentences": [
-        "Story 2 is about Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock..",
-        "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension.",
-        "The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001).",
-        "The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension.",
+        "Story 2 is about Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results Among Newborns..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%) compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted ri?",
+        "The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks).",
+        "POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
+        "Compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted risk ratio [ARR], 5.62 [95% CI, 4.58-6.91] and 13.04 [95% CI, 11.77-14.44], respectively) and continued hospitalization at 7 days (ARR, 4.70 [95% CI, 3.07-7.19] and 11.97 [95% CI, 9.26-15.47], respectively).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Cluster Versus Individual Randomization in Prehospital, Emerge",
+      "heading": "Story 3 - Optimum timing of cerebral computed tomography angiography for",
       "sentences": [
-        "Story 3 is about Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study..",
-        "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in patients, how should we interpret Cluster compared with Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study?",
-        "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.",
-        "The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.",
-        "Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs.",
+        "Story 3 is about Optimum timing of cerebral computed tomography angiography for determination of death using neurological criteria: a retrospective sensitivity cohort study..",
+        "This is a cohort study from Anaesthesia.",
+        "The clinical question is best framed as follows: in intensive care unit patients undergoing determination of death using neurological criteria, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%).",
+        "Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia.",
+        "Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,35 +65,35 @@
   ],
   "articles": [
     {
-      "title": "Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial.",
-      "source": "Critical care medicine",
-      "date": "Oct 21 2026",
+      "title": "Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-Sepsis clinical trial: an in-trial descriptive process evaluation of daily procalcitonin- and C-reactive protein-guided protocols.",
+      "source": "Anaesthesia",
+      "date": "Oct 20 2026",
       "type": "Randomized / clinical trial",
-      "summary": "Secondary agitation, sedation, and analgesia doses, pain, delirium, and perceived stress after 90 days were assessed. Adult critically ill patients (n = 100) admitted to a general ICU who received IMV for at least 48 hours. Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025). The study examined the effect of daily music therapy on weaning from invasive mechanical ventilation (IMV) in the ICU, with a primary focus on weaning duration. Additionally, total IMV and ICU stay durations and tracheostomy rates were studied.",
-      "analysis": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "summary": "Biomarker-guided antibiotic protocols using daily procalcitonin or C-reactive protein have been proposed to optimise antibiotic duration in sepsis. Patients were assigned to procalcitonin-guided, C-reactive protein-guided or standard care. Algorithm-generated recommendations (strong stop, suggest stop or standard care) were relayed to research staff and clinicians who remained blinded to group allocation. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
+      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "No significant difference in weaning duration was observed between groups (p = 0.97). Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028). No significant difference in perceived pain..."
+        "population": "adults across 41 UK critical care units",
+        "intervention": "analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group",
+        "comparator": "the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guida",
+        "outcomes": "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p <..."
       },
       "keyResults": [
-        "Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025).",
-        "No significant difference in weaning duration was observed between groups (p = 0.97).",
-        "Patients in the MG group showed significant improvements in agitation and sedation levels (Richmond Agitation-Sedation Scale) on days 1 and 3 (p = 0.048, 0.005, and 0.024) and a lower percentage required propofol (p = 0.028).",
-        "No significant difference in perceived pain (Visual Analog Pain Scale)."
+        "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001).",
+        "C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
+        "Overall advice adherence was greater in patients allocated to the C-reactive protein group than those allocated to the procalcitonin group (mean difference -6.8%, 95%CI -9.0 to -4.5, p < 0.001), driven by the higher proportion of standard care advice and later stronger stop advice with higher adherence (mean difference -14.3%, 95%CI -21.8 to -6.8, p < 0.001).",
+        "Reasons for advice non-adherence included fixed-duration microbiology guidance, illness severity, continuing fever and elevation of routine inflammatory markers, which did not differ between groups."
       ],
       "criticalAppraisal": [
         "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
         "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
-      "practiceImpact": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU.",
-          "The most clinically relevant signal was Additionally, MG significantly reduced tracheostomy rates (14%; p = 0.025)..",
+          "This study examined whether Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-....",
+          "The most clinically relevant signal was Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-....",
           "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit....",
+          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
           "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
@@ -110,111 +110,45 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904879/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901145/",
       "urlLabel": "View on PubMed",
-      "pmid": "42904879"
+      "pmid": "42901145"
     },
     {
-      "title": "Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock.",
-      "source": "Critical care medicine",
-      "date": "Oct 21 2026",
+      "title": "Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results Among Newborns.",
+      "source": "JAMA network open",
+      "date": "Oct 01 2026",
       "type": "Recent research article",
-      "summary": "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension. The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001). The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension. Thereafter, hospital survival decreased an average of 5.0% per hour for each hour of delay to 10-12 hours of delay. Median time to appropriate antifungal therapy was 32.3 hours (interquartile range, 11.2-66.0 hr), with only 16.9% receiving therapy within 6 hours of hypotension onset.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "summary": "This population-based cohort study included asymptomatic neonates born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age at a tertiary-level university hospital in Eastern Finland between January 1, 2012, and December 31, 2019. Positive POS result or indeterminate POS result that normalized to a negative POS result (recovered) with repeat testing. Primary outcomes were neonatal intensive care unit (NICU) admission and continued hospitalization at 7 days; secondary outcomes included diagnostic investigations and neonatal morbidities. The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
+      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "pico": {
         "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension. A strong relationship was observed between the delay in initiation of pathogen-appropriate antifungal (PAA) therapy and hospital survival. The adjusted odds ratio of death was 1.045 per hour of delay (95%..."
+        "intervention": "[1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%)",
+        "comparator": "a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted ri",
+        "outcomes": "Primary outcomes were neonatal intensive care unit (NICU) admission and continued hospitalization at 7 days; secondary outcomes included diagnostic investigations and neonatal morbidities. Associations between POS screening results and outcomes were examined using modified Poisson regression adjusted for maternal age, parity, body mass index, and..."
       },
       "keyResults": [
-        "Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension.",
-        "The adjusted odds ratio of death was 1.045 per hour of delay (95% CI, 1.035-1.056; p < 0.0001).",
-        "The survival rate was 86% when an appropriate antifungal for the isolated pathogen was administered within 2 hours of the initial documentation of persistent hypotension.",
-        "Thereafter, hospital survival decreased an average of 5.0% per hour for each hour of delay to 10-12 hours of delay."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical....",
-          "The most clinically relevant signal was Out of 850 patients with Candida septic shock, 69.2% patients (589) received appropriate antifungal therapy after the onset of persistent hypotension..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed",
-        "Critical Care Reviews"
-      ],
-      "curationLinks": [
-        {
-          "title": "Peltan. Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial. JAMA 2026; epublished October 14th",
-          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855462"
-        },
-        {
-          "title": "VASSPR Trial Critique Peltan. Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial. JAMA 2026; epublished October 14th added October 15th",
-          "url": "https://criticalcarereviews.com/sepsis/vasspr-trial"
-        }
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904906/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42904906"
-    },
-    {
-      "title": "Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study.",
-      "source": "Critical care medicine",
-      "date": "Oct 21 2026",
-      "type": "Recent research article",
-      "summary": "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT. The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes. Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs. We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT). We included 65 meta-analyses in quantitative analyses, encompassing 212 randomized clinical trials (39 cRCTs and 173 iRCTs) and 315,276 patients.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "patients",
-        "intervention": "Cluster",
-        "comparator": "Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
-      },
-      "keyResults": [
-        "We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.",
-        "The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.",
-        "Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs.",
-        "We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT)."
+        "The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks).",
+        "POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
+        "Compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted risk ratio [ARR], 5.62 [95% CI, 4.58-6.91] and 13.04 [95% CI, 11.77-14.44], respectively) and continued hospitalization at 7 days (ARR, 4.70 [95% CI, 3.07-7.19] and 11.97 [95% CI, 9.26-15.47], respectively).",
+        "Recovered POS was also associated with greater risk of antibiotic exposure before 72 hours of life (ARR, 5.45 [95% CI, 3.94-7.52]) and need for respiratory support (ARR, 10.16 [3.53-29.21]) compared with a negative result."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials.",
-          "The most clinically relevant signal was We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and....",
+          "This study examined whether Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results....",
+          "The most clinically relevant signal was The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
@@ -235,15 +169,71 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Cluster should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%) should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904944/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905704/",
       "urlLabel": "View on PubMed",
-      "pmid": "42904944"
+      "pmid": "42905704"
+    },
+    {
+      "title": "Optimum timing of cerebral computed tomography angiography for determination of death using neurological criteria: a retrospective sensitivity cohort study.",
+      "source": "Anaesthesia",
+      "date": "Oct 21 2026",
+      "type": "Cohort study",
+      "summary": "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%). Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia. Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs. 98.7%, 95%CI 91.8-100%, p < 0.001). Cerebral computed tomography angiography (CTA) is increasingly incorporated into national guidelines to confirm cerebral circulatory arrest during the determination of death using neurological criteria.",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "pico": {
+        "population": "intensive care unit patients undergoing determination of death using neurological criteria",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%). Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia. Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h)..."
+      },
+      "keyResults": [
+        "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%).",
+        "Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia.",
+        "Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs.",
+        "98.7%, 95%CI 91.8-100%, p < 0.001)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Optimum timing of cerebral computed tomography angiography for determination of death using....",
+          "The most clinically relevant signal was Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%)..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906612/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42906612"
     }
   ]
 }
