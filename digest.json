@@ -1,54 +1,40 @@
 {
   "schemaVersion": 2,
-  "date": "October 24, 2026",
+  "date": "October 25, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 24, 2026.",
-        "Today we will review 3 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for October 25, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Delivery and adherence of biomarker-guided antibiotic treatmen",
+      "heading": "Story 1 - Association of Acute Respiratory Distress Syndrome Radiographi",
       "sentences": [
-        "Story 1 is about Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-Sepsis clinical trial: an in-trial descriptive process evaluation of daily procalcitonin- and C-reactive protein-guided protocols..",
-        "This is a randomized / clinical trial from Anaesthesia.",
-        "The clinical question is best framed as follows: in adults across 41 UK critical care units, how should we interpret analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guida?",
-        "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001).",
-        "C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
-        "Overall advice adherence was greater in patients allocated to the C-reactive protein group than those allocated to the procalcitonin group (mean difference -6.8%, 95%CI -9.0 to -4.5, p < 0.001), driven by the higher proportion of standard care advice and later stronger stop advice with higher adherence (mean difference -14.3%, 95%CI -21.8 to -6.8, p < 0.001).",
+        "Story 1 is about Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients receiving invasive mechanical ventilation, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
+        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
+        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Clinical Outcomes After Recovered, Positive, and Negative Puls",
+      "heading": "Story 2 - Adherence to Non-Invasive Ventilation in a Provincial Cohort o",
       "sentences": [
-        "Story 2 is about Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results Among Newborns..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%) compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted ri?",
-        "The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks).",
-        "POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
-        "Compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted risk ratio [ARR], 5.62 [95% CI, 4.58-6.91] and 13.04 [95% CI, 11.77-14.44], respectively) and continued hospitalization at 7 days (ARR, 4.70 [95% CI, 3.07-7.19] and 11.97 [95% CI, 9.26-15.47], respectively).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 3 - Optimum timing of cerebral computed tomography angiography for",
-      "sentences": [
-        "Story 3 is about Optimum timing of cerebral computed tomography angiography for determination of death using neurological criteria: a retrospective sensitivity cohort study..",
-        "This is a cohort study from Anaesthesia.",
-        "The clinical question is best framed as follows: in intensive care unit patients undergoing determination of death using neurological criteria, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%).",
-        "Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia.",
-        "Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs.",
+        "Story 2 is about Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children..",
+        "This is a cohort study from Chest.",
+        "The clinical question is best framed as follows: in children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
+        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
+        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
@@ -65,138 +51,79 @@
   ],
   "articles": [
     {
-      "title": "Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-Sepsis clinical trial: an in-trial descriptive process evaluation of daily procalcitonin- and C-reactive protein-guided protocols.",
-      "source": "Anaesthesia",
-      "date": "Oct 20 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Biomarker-guided antibiotic protocols using daily procalcitonin or C-reactive protein have been proposed to optimise antibiotic duration in sepsis. Patients were assigned to procalcitonin-guided, C-reactive protein-guided or standard care. Algorithm-generated recommendations (strong stop, suggest stop or standard care) were relayed to research staff and clinicians who remained blinded to group allocation. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
-      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
-      "pico": {
-        "population": "adults across 41 UK critical care units",
-        "intervention": "analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group",
-        "comparator": "the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guida",
-        "outcomes": "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001). C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p <..."
-      },
-      "keyResults": [
-        "Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-guided group (mean difference -1.7 days, 95%CI -2.5 to -0.9, p < 0.001).",
-        "C-reactive protein guidance generated a higher proportion of standard care advice (mean difference -9.1%, 95%CI -10.9% to -7.3%, p < 0.001).",
-        "Overall advice adherence was greater in patients allocated to the C-reactive protein group than those allocated to the procalcitonin group (mean difference -6.8%, 95%CI -9.0 to -4.5, p < 0.001), driven by the higher proportion of standard care advice and later stronger stop advice with higher adherence (mean difference -14.3%, 95%CI -21.8 to -6.8, p < 0.001).",
-        "Reasons for advice non-adherence included fixed-duration microbiology guidance, illness severity, continuing fever and elevation of routine inflammatory markers, which did not differ between groups."
-      ],
-      "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
-      ],
-      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Delivery and adherence of biomarker-guided antibiotic treatment protocols in the ADAPT-....",
-          "The most clinically relevant signal was Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group compared with the C-reactive protein-....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether analysed. Among 2760 patients, strong stop advice occurred earlier in those allocated to the procalcitonin-guided group should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901145/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42901145"
-    },
-    {
-      "title": "Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results Among Newborns.",
-      "source": "JAMA network open",
-      "date": "Oct 01 2026",
+      "title": "Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation.",
+      "source": "Critical care medicine",
+      "date": "Oct 23 2026",
       "type": "Recent research article",
-      "summary": "This population-based cohort study included asymptomatic neonates born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age at a tertiary-level university hospital in Eastern Finland between January 1, 2012, and December 31, 2019. Positive POS result or indeterminate POS result that normalized to a negative POS result (recovered) with repeat testing. Primary outcomes were neonatal intensive care unit (NICU) admission and continued hospitalization at 7 days; secondary outcomes included diagnostic investigations and neonatal morbidities. The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
-      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+      "summary": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV. The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%. Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score. ARDS-CXR scores below the ARDS threshold also stratified risk, with mortality increasing from 12.8% at a score of -2 to 19.9% at -1 and 27.5% at 0.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "[1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%)",
-        "comparator": "a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted ri",
-        "outcomes": "Primary outcomes were neonatal intensive care unit (NICU) admission and continued hospitalization at 7 days; secondary outcomes included diagnostic investigations and neonatal morbidities. Associations between POS screening results and outcomes were examined using modified Poisson regression adjusted for maternal age, parity, body mass index, and..."
-      },
-      "keyResults": [
-        "The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean [SD] gestational age, 39.8 [1.3] weeks).",
-        "POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%).",
-        "Compared with a negative POS result, a recovered or positive POS result was associated with higher risk of NICU admission (adjusted risk ratio [ARR], 5.62 [95% CI, 4.58-6.91] and 13.04 [95% CI, 11.77-14.44], respectively) and continued hospitalization at 7 days (ARR, 4.70 [95% CI, 3.07-7.19] and 11.97 [95% CI, 9.26-15.47], respectively).",
-        "Recovered POS was also associated with greater risk of antibiotic exposure before 72 hours of life (ARR, 5.45 [95% CI, 3.94-7.52]) and need for respiratory support (ARR, 10.16 [3.53-29.21]) compared with a negative result."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Clinical Outcomes After Recovered, Positive, and Negative Pulse Oximetry Screening Results....",
-          "The most clinically relevant signal was The cohort included 16 599 newborns born at 35 weeks' gestation or later who underwent early POS at 2 to 6 hours of age (8349 [50.3%] female; mean....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether [1.3] weeks). POS results were negative in 16 160 newborns (97.4%), recovered in 208 (1.3%), and positive in 231 (1.4%) should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905704/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42905704"
-    },
-    {
-      "title": "Optimum timing of cerebral computed tomography angiography for determination of death using neurological criteria: a retrospective sensitivity cohort study.",
-      "source": "Anaesthesia",
-      "date": "Oct 21 2026",
-      "type": "Cohort study",
-      "summary": "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%). Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia. Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs. 98.7%, 95%CI 91.8-100%, p < 0.001). Cerebral computed tomography angiography (CTA) is increasingly incorporated into national guidelines to confirm cerebral circulatory arrest during the determination of death using neurological criteria.",
-      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
-      "pico": {
-        "population": "intensive care unit patients undergoing determination of death using neurological criteria",
+        "population": "patients receiving invasive mechanical ventilation",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%). Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia. Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h)..."
+        "outcomes": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to..."
       },
       "keyResults": [
-        "Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%).",
-        "Notably, 93.3% (95%CI 66.0-99.7%) of false-negative results occurred within 12 h of the onset of initial signs of brainstem areflexia.",
-        "Patients were secondarily stratified into early (≤ 12 h) and late (> 12 h) groups, revealing a significantly higher sensitivity in the late group (67.4%, 95%CI 51.3-80.5% vs.",
-        "98.7%, 95%CI 91.8-100%, p < 0.001)."
+        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
+        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
+        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
+        "Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and....",
+          "The most clinically relevant signal was We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919460/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42919460"
+    },
+    {
+      "title": "Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
+      "source": "Chest",
+      "date": "Oct 23 2026",
+      "type": "Cohort study",
+      "summary": "The adherence definitions explored were the adult definition of ≥4 hours/day (primary) and measures of any daily use, daily NIV hours, and data missingness (\"days not used\" = 0 hours recorded; \"days no data\" = no signal). We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3).",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "pico": {
+        "population": "children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Mean (SD) daily use when used was 7.5 (3.2) hours. Monthly..."
+      },
+      "keyResults": [
+        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
+        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
+        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
+        "Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3)."
       ],
       "criticalAppraisal": [
         "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
@@ -205,9 +132,9 @@
       "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Optimum timing of cerebral computed tomography angiography for determination of death using....",
-          "The most clinically relevant signal was Cerebral CTA did not confirm cerebral circulatory arrest in 15/118 (13%) patients, yielding an overall sensitivity of 87.3% (95%CI 79.6-92.5%)..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "This study examined whether Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
+          "The most clinically relevant signal was We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24])..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
           "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
         ],
@@ -231,9 +158,9 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906612/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918610/",
       "urlLabel": "View on PubMed",
-      "pmid": "42906612"
+      "pmid": "42918610"
     }
   ]
 }

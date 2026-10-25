@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 2,
+  "date": "October 25, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 25, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Association of Acute Respiratory Distress Syndrome Radiographi",
+      "sentences": [
+        "Story 1 is about Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in patients receiving invasive mechanical ventilation, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
+        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
+        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Adherence to Non-Invasive Ventilation in a Provincial Cohort o",
+      "sentences": [
+        "Story 2 is about Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children..",
+        "This is a cohort study from Chest.",
+        "The clinical question is best framed as follows: in children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
+        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
+        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation.",
+      "source": "Critical care medicine",
+      "date": "Oct 23 2026",
+      "type": "Recent research article",
+      "summary": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV. The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%. Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score. ARDS-CXR scores below the ARDS threshold also stratified risk, with mortality increasing from 12.8% at a score of -2 to 19.9% at -1 and 27.5% at 0.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients receiving invasive mechanical ventilation",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to..."
+      },
+      "keyResults": [
+        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
+        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
+        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
+        "Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and....",
+          "The most clinically relevant signal was We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919460/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42919460"
+    },
+    {
+      "title": "Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
+      "source": "Chest",
+      "date": "Oct 23 2026",
+      "type": "Cohort study",
+      "summary": "The adherence definitions explored were the adult definition of ≥4 hours/day (primary) and measures of any daily use, daily NIV hours, and data missingness (\"days not used\" = 0 hours recorded; \"days no data\" = no signal). We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3).",
+      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "pico": {
+        "population": "children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Mean (SD) daily use when used was 7.5 (3.2) hours. Monthly..."
+      },
+      "keyResults": [
+        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
+        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
+        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
+        "Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
+          "The most clinically relevant signal was We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24])..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918610/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42918610"
+    }
+  ]
+}
