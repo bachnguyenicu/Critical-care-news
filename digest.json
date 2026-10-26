@@ -1,42 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 25, 2026",
+  "date": "October 26, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 25, 2026.",
-        "Today we will review 2 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for October 26, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Association of Acute Respiratory Distress Syndrome Radiographi",
+      "heading": "Story 1 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
       "sentences": [
-        "Story 1 is about Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation..",
-        "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in patients receiving invasive mechanical ventilation, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
-        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
-        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
+        "Story 1 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Adherence to Non-Invasive Ventilation in a Provincial Cohort o",
+      "heading": "Story 2 - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated A",
       "sentences": [
-        "Story 2 is about Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children..",
-        "This is a cohort study from Chest.",
-        "The clinical question is best framed as follows: in children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
-        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
-        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
+        "Story 2 is about Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in intensive care units (ICUs) in Canada, how should we interpret oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality compared with usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab?",
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Comparative efficacy and safety of hydrocortisone-based regime",
+      "sentences": [
+        "Story 3 is about Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672), how should we interpret and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing?",
+        "A total of 21 trials involving 7908 patients were included.",
+        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
+        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -51,38 +65,46 @@
   ],
   "articles": [
     {
-      "title": "Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation.",
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
       "source": "Critical care medicine",
-      "date": "Oct 23 2026",
-      "type": "Recent research article",
-      "summary": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV. The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%. Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score. ARDS-CXR scores below the ARDS threshold also stratified risk, with mortality increasing from 12.8% at a score of -2 to 19.9% at -1 and 27.5% at 0.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "patients receiving invasive mechanical ventilation",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation. The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to..."
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients receiving invasive mechanical ventilation.",
-        "The resulting ARDS-CXR scores were evaluated for their ability to discriminate risk of 28-day mortality and their association with 28-day mortality and time to extubation after adjusting for a patient's Pao2/Fio2 or Acute Physiology and Chronic Health Evaluation-IV.",
-        "The median ARDS-CXR score was -2.09, corresponding to an ARDS probability of 15%, and 1089 (17%) patients had a positive score, corresponding to an ARDS probability above 50%.",
-        "Twenty-eight-day mortality was 35.1% among patients with a positive score and 13.5% among patients with a negative score."
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and....",
-          "The most clinically relevant signal was We applied a deep learning model that was previously trained to identify bilateral airspace opacities consistent with ARDS to CXRs of 6591 patients....",
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -90,55 +112,55 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919460/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
       "urlLabel": "View on PubMed",
-      "pmid": "42919460"
+      "pmid": "42878614"
     },
     {
-      "title": "Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
-      "source": "Chest",
-      "date": "Oct 23 2026",
-      "type": "Cohort study",
-      "summary": "The adherence definitions explored were the adult definition of ≥4 hours/day (primary) and measures of any daily use, daily NIV hours, and data missingness (\"days not used\" = 0 hours recorded; \"days no data\" = no signal). We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3).",
-      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Oct 14 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adults (≥18 years) receiving sedation for less than 72 hours and receiving mechanical ventilation for AHRF from non-COVID respiratory failure (ratio of partial pressure of arterial oxygen [Pao2] to fraction of inspired oxygen [Fio2] <300 mm Hg) or COVID-19 were enrolled between September 2020 and March 2025 with follow-up through June 2025. Patients were randomized to an inhaled sedation strategy using isoflurane with intravenous adjuncts as clinically needed or to a usual intravenous sedation care strategy. Sedatives were titrated to achieve the desired target sedation score guided by clinical teams and continued until extubation or death. Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups. In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "children <18 years prescribed NIV with telemonitoring (2020 to 2022) and ≥1 month of data",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]). Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%. Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use. Mean (SD) daily use when used was 7.5 (3.2) hours. Monthly..."
+        "population": "intensive care units (ICUs) in Canada",
+        "intervention": "oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality",
+        "comparator": "usual care intravenous sedation strategy in mechanically ventilated adults with AHRF. Pragmatic, effectiveness, open-lab",
+        "outcomes": "Primary outcome was all-cause hospital mortality. Secondary outcomes included ICU- and ventilator-free days at day 30; hospital-free days at day 60; use of refractory hypoxemia adjunctive therapies; delirium- and coma-free days at day 14; and quality-of-life and disability scores at 3 months."
       },
       "keyResults": [
-        "We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24]).",
-        "Across person-months, mean adherence by the ≥4-hours/day definition was 69.6%.",
-        "Child-level monthly mean (SD) adherence was 59% (32%) by this definition, and 68% (26%) for any use.",
-        "Greater adherence was associated with younger age (2-percentage-point decrease per year increase; 95% CI, 1-3), having ≥3 complex chronic conditions vs none (14 percentage-points higher; 95% CI, 3-26), and longer time prescribed NIV (2-percentage-point increase per year; 95% CI, 1-3)."
+        "Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2 ratio, 152.6 mm Hg); 385 in the inhaled sedation and 395 in the intravenous sedation groups.",
+        "In the inhaled sedation group, 49.9% to 55.4% of patients received concomitant intravenous sedation on any day during the first 14 days after randomization.",
+        "At hospital discharge, 161 of 379 patients (42.5%) in the inhaled sedation group had died, compared with 171 of 390 patients (43.8%) in the intravenous sedation group (risk ratio, 0.98 [95% CI, 0.84 to 1.14]; P = .85).",
+        "The inhaled sedation group received more adjunctive therapies for hypoxemia (239 [63.9%] vs 214 [55.0%]; between-group difference, 8.89% [95% CI, 1.95% to 15.83%]) and had fewer delirium- and coma-free days (between-group difference, -0.95 [95% CI, -1.69 to -0.22])."
       ],
       "criticalAppraisal": [
-        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
-        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
-      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Adherence to Non-Invasive Ventilation in a Provincial Cohort of Children.",
-          "The most clinically relevant signal was We included 237 children (mean age 12.9 years; 61% male) with 3,685 person-months of NIV data (median 13 [IQR 8-24])..",
+          "This study examined whether Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic....",
+          "The most clinically relevant signal was Of 786 patients randomized, 780 were included in the primary analysis (mean age, 61.1 years; 34.0% female; 73.7% non-COVID AHRF, mean Pao2:Fio2....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
-          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -152,15 +174,85 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether oxemic respiratory failure (AHRF) is limited. To evaluate whether an inhaled sedation strategy lowers hospital mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2855464"
+        },
+        {
+          "title": "SAVE-ICU Trial Critique Jerath. Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial. JAMA 2026; epublished October 14th add",
+          "url": "https://criticalcarereviews.com/neuro/save-icu"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872958/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42872958"
+    },
+    {
+      "title": "Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Sep 22 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "We conducted a PRISMA-compliant systematic review and network meta-analysis of randomized controlled trials evaluating hydrocortisone and/or fludrocortisone in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672). A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant. The optimal corticosteroid regimen for septic shock, particularly the dosing and combination of hydrocortisone and fludrocortisone, remains uncertain due to inconsistent mortality findings across trials. Interventions were grouped into six regimens (including placebo), and outcomes were analyzed using a frequentist random-effects model; the primary outcome was 28-day mortality.",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "pico": {
+        "population": "adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672)",
+        "intervention": "and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality",
+        "comparator": "placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing",
+        "outcomes": "A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically..."
+      },
+      "keyResults": [
+        "A total of 21 trials involving 7908 patients were included.",
+        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
+        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
+        "An increased risk of gastrointestinal hemorrhage was observed across regimens, although estimates were imprecise."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Comparative efficacy and safety of hydrocortisone-based regimens in septic shock.",
+          "The most clinically relevant signal was A total of 21 trials involving 7908 patients were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918610/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784878/",
       "urlLabel": "View on PubMed",
-      "pmid": "42918610"
+      "pmid": "42784878"
     }
   ]
 }
