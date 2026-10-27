@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "date": "October 27, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 27, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Cyclosporine treatment of ARDS due to severe COVID-19: The I-S",
+      "sentences": [
+        "Story 1 is about Cyclosporine treatment of ARDS due to severe COVID-19: The I-SPY COVID Adaptive Platform Trial..",
+        "This is a recent research article from Annals of the American Thoracic Society.",
+        "The clinical question is best framed as follows: in adults with confirmed COVID-19 requiring ≥6L/min oxygen received oral cyclosporine 5mg/kg/day in two divided doses for 5 days, added to standard backbone therapy (dexamethasone and remd, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Of 238 randomized patients (110 cyclosporine, 128 control), 28-day recovery rates were 65.9% vs.",
+        "71.1% and 28-day mortality rates were 10.7% vs.",
+        "The posterior probability that cyclosporine improved recovery was 6% (graduation threshold >97.5%) and that it reduced mortality was 59.6% (graduation threshold >90%), meeting neither pre-specified efficacy criterion.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Longitudinal assessment of pulmonary morphological patterns us",
+      "sentences": [
+        "Story 2 is about Longitudinal assessment of pulmonary morphological patterns using structured serial chest radiography in mechanically ventilated ICU patients..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in adults receiving IMV ≥48 h in the ICU of Hospital General IESS Babahoyo, Ecuador (2018-2019), how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Radiographs were available for 57 patients on Days 1-2, 46 on Day 3, 39 on Day 4, and 34 on Day 5.",
+        "Normal predominant patterns decreased from 52.6% at baseline to 14.7% on Day 5, while alveolar patterns increased from 10.5% to 35.3%.",
+        "Thirty-two patients (56.1%) had documented radiological pattern change, first identified at a median of Day 2.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Cyclosporine treatment of ARDS due to severe COVID-19: The I-SPY COVID Adaptive Platform Trial.",
+      "source": "Annals of the American Thoracic Society",
+      "date": "Oct 23 2026",
+      "type": "Recent research article",
+      "summary": "In this phase 2, multicenter, open-label, randomized controlled trial, non-intubated and intubated adults with confirmed COVID-19 requiring ≥6L/min oxygen received oral cyclosporine 5mg/kg/day in two divided doses for 5 days, added to standard backbone therapy (dexamethasone and remdesivir), or standard therapy alone. Of 238 randomized patients (110 cyclosporine, 128 control), 28-day recovery rates were 65.9% vs. 71.1% and 28-day mortality rates were 10.7% vs. The posterior probability that cyclosporine improved recovery was 6% (graduation threshold >97.5%) and that it reduced mortality was 59.6% (graduation threshold >90%), meeting neither pre-specified efficacy criterion. Serious adverse events were more frequent with cyclosporine (17.3% vs.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults with confirmed COVID-19 requiring ≥6L/min oxygen received oral cyclosporine 5mg/kg/day in two divided doses for 5 days, added to standard backbone therapy (dexamethasone and remd",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Of 238 randomized patients (110 cyclosporine, 128 control), 28-day recovery rates were 65.9% vs. 71.1% and 28-day mortality rates were 10.7% vs. 11.3%, respectively. The posterior probability that cyclosporine improved recovery was 6% (graduation threshold >97.5%) and that it reduced mortality was 59.6% (graduation threshold >90%), meeting neither pre-..."
+      },
+      "keyResults": [
+        "Of 238 randomized patients (110 cyclosporine, 128 control), 28-day recovery rates were 65.9% vs.",
+        "71.1% and 28-day mortality rates were 10.7% vs.",
+        "The posterior probability that cyclosporine improved recovery was 6% (graduation threshold >97.5%) and that it reduced mortality was 59.6% (graduation threshold >90%), meeting neither pre-specified efficacy criterion.",
+        "Serious adverse events were more frequent with cyclosporine (17.3% vs."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Cyclosporine treatment of ARDS due to severe COVID-19.",
+          "The most clinically relevant signal was Of 238 randomized patients (110 cyclosporine, 128 control), 28-day recovery rates were 65.9% vs..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924420/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42924420"
+    },
+    {
+      "title": "Longitudinal assessment of pulmonary morphological patterns using structured serial chest radiography in mechanically ventilated ICU patients.",
+      "source": "Journal of critical care",
+      "date": "Oct 25 2026",
+      "type": "Recent research article",
+      "summary": "Radiographs were available for 57 patients on Days 1-2, 46 on Day 3, 39 on Day 4, and 34 on Day 5. Normal predominant patterns decreased from 52.6% at baseline to 14.7% on Day 5, while alveolar patterns increased from 10.5% to 35.3%. Thirty-two patients (56.1%) had documented radiological pattern change, first identified at a median of Day 2. 3 days; p < 0.001) and ICU stay (8 vs. In the exploratory adjusted model, IMV duration was associated with documented change (adjusted OR 1.30, 95% CI 1.0-1.6; p = 0.018).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults receiving IMV ≥48 h in the ICU of Hospital General IESS Babahoyo, Ecuador (2018-2019)",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Radiographs were available for 57 patients on Days 1-2, 46 on Day 3, 39 on Day 4, and 34 on Day 5. Normal predominant patterns decreased from 52.6% at baseline to 14.7% on Day 5, while alveolar patterns increased from 10.5% to 35.3%. Thirty-two patients (56.1%) had documented radiological pattern change, first identified at a median of Day 2. Patients..."
+      },
+      "keyResults": [
+        "Radiographs were available for 57 patients on Days 1-2, 46 on Day 3, 39 on Day 4, and 34 on Day 5.",
+        "Normal predominant patterns decreased from 52.6% at baseline to 14.7% on Day 5, while alveolar patterns increased from 10.5% to 35.3%.",
+        "Thirty-two patients (56.1%) had documented radiological pattern change, first identified at a median of Day 2.",
+        "3 days; p < 0.001) and ICU stay (8 vs."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Longitudinal assessment of pulmonary morphological patterns using structured serial chest....",
+          "The most clinically relevant signal was Radiographs were available for 57 patients on Days 1-2, 46 on Day 3, 39 on Day 4, and 34 on Day 5..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927703/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42927703"
+    }
+  ]
+}
