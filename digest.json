@@ -1,56 +1,41 @@
 {
   "schemaVersion": 2,
-  "date": "October 30, 2026",
+  "date": "October 31, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 30, 2026.",
-        "Today we will review 3 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for October 31, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Immunological signatures of sepsis in abdominal solid organ tr",
+      "heading": "Story 1 - Prone positioning and high-frequency oscillatory ventilation i",
       "sentences": [
-        "Story 1 is about Immunological signatures of sepsis in abdominal solid organ transplant recipients: A multilayer and multicentric prospective cohort study..",
-        "This is a cohort study from Intensive care medicine.",
-        "The clinical question is best framed as follows: in patients (SepsisDataNet, how should we interpret yses were performed in a non-septic kidney transplant cohort (e:KID). SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs. 66%; adjusted HR 0.49, 95% CI 0.26-0.95). Cytokine analysis revealed lower IL-6 and TNF-α leve?",
-        "SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs.",
-        "66%; adjusted HR 0.49, 95% CI 0.26-0.95).",
-        "Cytokine analysis revealed lower IL-6 and TNF-α levels alongside higher IL-18 concentrations, indicating an altered inflammatory profile.",
+        "Story 1 is about Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial..",
+        "This is a randomized / clinical trial from Lancet (London, England).",
+        "The clinical question is best framed as follows: in intensive care units in 18 countries, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
+        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+        "The bedside implication is this: May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Impact of a large measles outbreak associated with transmissio",
+      "heading": "Story 2 - Effect of remimazolam versus propofol anaesthesia on postopera",
       "sentences": [
-        "Story 2 is about Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study..",
-        "This is a cohort study from BMJ (Clinical research ed.).",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population.",
-        "Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status.",
-        "The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death.",
+        "Story 2 is about Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial..",
+        "This is a recent research article from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas, how should we interpret Effect of remimazolam compared with propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial?",
+        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
+        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 3 - Consensus-derived clinical sepsis profiles and mortality acros",
-      "sentences": [
-        "Story 3 is about Consensus-derived clinical sepsis profiles and mortality across six international cohorts..",
-        "This is a cohort study from Shock (Augusta, Ga.).",
-        "The clinical question is best framed as follows: in adults from six critical care databases in four countries, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Profiles 1, 2, and 3 comprised 32.6%, 20.0%, and 47.4% of the discovery cohort, with in-hospital mortality of 30.3%, 13.8%, and 9.3%, respectively.",
-        "After adjustment for age and SOFA score, Profile 3 was associated with lower 1-year mortality than Profile 1 (hazard ratio 0.62, 95% CI 0.57-0.67).",
-        "Three profiles were selected based on the Calinski-Harabasz peak and clinical interpretability.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,153 +50,41 @@
   ],
   "articles": [
     {
-      "title": "Immunological signatures of sepsis in abdominal solid organ transplant recipients: A multilayer and multicentric prospective cohort study.",
-      "source": "Intensive care medicine",
-      "date": "Oct 29 2026",
-      "type": "Cohort study",
-      "summary": "SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs. 66%; adjusted HR 0.49, 95% CI 0.26-0.95). Sepsis is defined as life-threatening organ dysfunction resulting from a dysregulated host response to infection. Patients with prior abdominal solid organ transplantation (SOT) are highly susceptible to infection due to chronic immunosuppression, yet exhibit improved survival once sepsis occurs. The underlying mechanisms remain poorly understood.",
-      "analysis": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
+      "title": "Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.",
+      "source": "Lancet (London, England)",
+      "date": "Oct 31 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. Patients were centrally randomly assigned using a web-based system to supine positioning and conventional mechanical ventilation, prone positioning and conventional mechanical ventilation, supine positioning and HFOV, or prone positioning and HFOV. Initially, the allocation was 1:1:1:1 stratified by age group and direct or indirect lung injury using a permuted block design with blocks of four and eight. Response-adaptive randomisation updates were planned to adjust allocation probabilities 28 days after 300 patients were randomly assigned and then 28 days after every 100 additional patients. Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+      "analysis": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
       "pico": {
-        "population": "patients (SepsisDataNet",
-        "intervention": "yses were performed in a non-septic kidney transplant cohort (e:KID). SOT patients demonstrated improved 30-day survival",
-        "comparator": "non-SOT patients (84% vs. 66%; adjusted HR 0.49, 95% CI 0.26-0.95). Cytokine analysis revealed lower IL-6 and TNF-α leve",
-        "outcomes": "SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs. 66%; adjusted HR 0.49, 95% CI 0.26-0.95). Cytokine analysis revealed lower IL-6 and TNF-α levels alongside higher IL-18 concentrations, indicating an altered inflammatory profile. Flow cytometry showed reductions in adaptive immune cells but relatively preserved..."
-      },
-      "keyResults": [
-        "SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs.",
-        "66%; adjusted HR 0.49, 95% CI 0.26-0.95).",
-        "Cytokine analysis revealed lower IL-6 and TNF-α levels alongside higher IL-18 concentrations, indicating an altered inflammatory profile.",
-        "Flow cytometry showed reductions in adaptive immune cells but relatively preserved innate immune function, reflected by higher monocytic HLA-DR expression."
-      ],
-      "criticalAppraisal": [
-        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
-        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
-      ],
-      "practiceImpact": "For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Immunological signatures of sepsis in abdominal solid organ transplant recipients.",
-          "The most clinically relevant signal was SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because For most ICU patients, this supports avoiding very tight glucose targets unless a protocol can reliably prevent severe hypoglycemia..",
-          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether yses were performed in a non-septic kidney transplant cohort (e:KID). SOT patients demonstrated improved 30-day survival should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955323/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42955323"
-    },
-    {
-      "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
-      "source": "BMJ (Clinical research ed.)",
-      "date": "Oct 28 2026",
-      "type": "Cohort study",
-      "summary": "Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status.",
-      "analysis": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
-      "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "population": "intensive care units in 18 countries",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing..."
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population.",
-        "Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status.",
-        "The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death.",
-        "The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status."
+        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
+        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
+        "There were no significant differences in ventilator-free days between prone and supine positioning (median 17·9 days [IQR 8·9-21·3] vs 17·4 days [6·4-21·9]; Hodges-Lehmann location shift adjusting for ventilation 0·0 [95% CI -0·8 to 1·0]) or between HFOV and conventional mechanical ventilation (17·3 [5·7-21·6] vs 18·0 [9·9-21·5]; Hodges-Lehmann location shift adjusting for positioning -0·3 [95% CI -1·5 to 0·5])."
       ],
       "criticalAppraisal": [
-        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
-        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
-      "practiceImpact": "Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside.",
+      "practiceImpact": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether a large measles outbreak associated with transmission in the Americas and Canada's loss of....",
-          "The most clinically relevant signal was Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as background evidence; look for confounding and whether the exposure is modifiable at the bedside..",
-          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951282/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42951282"
-    },
-    {
-      "title": "Consensus-derived clinical sepsis profiles and mortality across six international cohorts.",
-      "source": "Shock (Augusta, Ga.)",
-      "date": "Oct 29 2026",
-      "type": "Cohort study",
-      "summary": "Profiles 1, 2, and 3 comprised 32.6%, 20.0%, and 47.4% of the discovery cohort, with in-hospital mortality of 30.3%, 13.8%, and 9.3%, respectively. After adjustment for age and SOFA score, Profile 3 was associated with lower 1-year mortality than Profile 1 (hazard ratio 0.62, 95% CI 0.57-0.67). Clinical phenotyping may help characterize sepsis heterogeneity, but the applicability of derived profiles across healthcare settings remains uncertain. We evaluated consensus-derived clinical profiles and their associations with mortality across six international cohorts. We analyzed 62,458 adults from six critical care databases in four countries.",
-      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
-      "pico": {
-        "population": "adults from six critical care databases in four countries",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Three profiles were selected based on the Calinski-Harabasz peak and clinical interpretability. Profiles 1, 2, and 3 comprised 32.6%, 20.0%, and 47.4% of the discovery cohort, with in-hospital mortality of 30.3%, 13.8%, and 9.3%, respectively. Profile 1 showed greater multiorgan dysfunction, Profile 2 relatively preserved hemodynamics, and Profile 3..."
-      },
-      "keyResults": [
-        "Profiles 1, 2, and 3 comprised 32.6%, 20.0%, and 47.4% of the discovery cohort, with in-hospital mortality of 30.3%, 13.8%, and 9.3%, respectively.",
-        "After adjustment for age and SOFA score, Profile 3 was associated with lower 1-year mortality than Profile 1 (hazard ratio 0.62, 95% CI 0.57-0.67).",
-        "Three profiles were selected based on the Calinski-Harabasz peak and clinical interpretability.",
-        "Profile 1 showed greater multiorgan dysfunction, Profile 2 relatively preserved hemodynamics, and Profile 3 greater ventilatory support with less extrapulmonary dysfunction."
-      ],
-      "criticalAppraisal": [
-        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
-        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
-      ],
-      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Consensus-derived clinical sepsis profiles and mortality across six international cohorts.",
-          "The most clinically relevant signal was Profiles 1, 2, and 3 comprised 32.6%, 20.0%, and 47.4% of the discovery cohort, with in-hospital mortality of 30.3%, 13.8%, and 9.3%, respectively..",
+          "This study examined whether Prone positioning and high-frequency oscillatory ventilation in early paediatric acute....",
+          "The most clinically relevant signal was Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
-          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+          "For bedside practice, this matters because May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
           {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
           },
           {
             "term": "applicability",
@@ -232,9 +105,63 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42954722/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956771/",
       "urlLabel": "View on PubMed",
-      "pmid": "42954722"
+      "pmid": "42956771"
+    },
+    {
+      "title": "Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial.",
+      "source": "British journal of anaesthesia",
+      "date": "Oct 29 2026",
+      "type": "Recent research article",
+      "summary": "In this single-centre, double-blind, randomised noninferiority trial, adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypass received remimazolam-based TIVA with flumazenil reversal at emergence, or propofol-based TIVA, both with remifentanil. The primary outcome was the cumulative incidence of POD within 5 days, assessed twice daily with the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) or the 3-Minute Diagnostic Interview for CAM-defined delirium (3D-CAM). Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%). Propofol-based total intravenous anaesthesia (TIVA) is commonly used in neurovascular surgery, in which intraoperative neurophysiological monitoring limits inhalation anaesthetic use.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas",
+        "intervention": "Effect of remimazolam",
+        "comparator": "propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial",
+        "outcomes": "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of..."
+      },
+      "keyResults": [
+        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
+        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery.",
+          "The most clinically relevant signal was Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "noninferiority",
+            "meaning": "testing whether a treatment is not unacceptably worse"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Effect of remimazolam should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957499/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42957499"
     }
   ]
 }

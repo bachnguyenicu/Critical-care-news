@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "date": "October 31, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for October 31, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Prone positioning and high-frequency oscillatory ventilation i",
+      "sentences": [
+        "Story 1 is about Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial..",
+        "This is a randomized / clinical trial from Lancet (London, England).",
+        "The clinical question is best framed as follows: in intensive care units in 18 countries, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
+        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Effect of remimazolam versus propofol anaesthesia on postopera",
+      "sentences": [
+        "Story 2 is about Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial..",
+        "This is a recent research article from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas, how should we interpret Effect of remimazolam compared with propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial?",
+        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
+        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.",
+      "source": "Lancet (London, England)",
+      "date": "Oct 31 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. Patients were centrally randomly assigned using a web-based system to supine positioning and conventional mechanical ventilation, prone positioning and conventional mechanical ventilation, supine positioning and HFOV, or prone positioning and HFOV. Initially, the allocation was 1:1:1:1 stratified by age group and direct or indirect lung injury using a permuted block design with blocks of four and eight. Response-adaptive randomisation updates were planned to adjust allocation probabilities 28 days after 300 patients were randomly assigned and then 28 days after every 100 additional patients. Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+      "analysis": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "pico": {
+        "population": "intensive care units in 18 countries",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
+        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
+        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
+        "There were no significant differences in ventilator-free days between prone and supine positioning (median 17·9 days [IQR 8·9-21·3] vs 17·4 days [6·4-21·9]; Hodges-Lehmann location shift adjusting for ventilation 0·0 [95% CI -0·8 to 1·0]) or between HFOV and conventional mechanical ventilation (17·3 [5·7-21·6] vs 18·0 [9·9-21·5]; Hodges-Lehmann location shift adjusting for positioning -0·3 [95% CI -1·5 to 0·5])."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Prone positioning and high-frequency oscillatory ventilation in early paediatric acute....",
+          "The most clinically relevant signal was Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956771/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42956771"
+    },
+    {
+      "title": "Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial.",
+      "source": "British journal of anaesthesia",
+      "date": "Oct 29 2026",
+      "type": "Recent research article",
+      "summary": "In this single-centre, double-blind, randomised noninferiority trial, adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypass received remimazolam-based TIVA with flumazenil reversal at emergence, or propofol-based TIVA, both with remifentanil. The primary outcome was the cumulative incidence of POD within 5 days, assessed twice daily with the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) or the 3-Minute Diagnostic Interview for CAM-defined delirium (3D-CAM). Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%). Propofol-based total intravenous anaesthesia (TIVA) is commonly used in neurovascular surgery, in which intraoperative neurophysiological monitoring limits inhalation anaesthetic use.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas",
+        "intervention": "Effect of remimazolam",
+        "comparator": "propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial",
+        "outcomes": "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of..."
+      },
+      "keyResults": [
+        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
+        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery.",
+          "The most clinically relevant signal was Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "noninferiority",
+            "meaning": "testing whether a treatment is not unacceptably worse"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Effect of remimazolam should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957499/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42957499"
+    }
+  ]
+}
