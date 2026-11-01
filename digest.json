@@ -1,41 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "October 31, 2026",
+  "date": "November 1, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for October 31, 2026.",
-        "Today we will review 2 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for November 01, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Prone positioning and high-frequency oscillatory ventilation i",
+      "heading": "Story 1 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
       "sentences": [
-        "Story 1 is about Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial..",
-        "This is a randomized / clinical trial from Lancet (London, England).",
-        "The clinical question is best framed as follows: in intensive care units in 18 countries, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
-        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
-        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
+        "Story 1 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Effect of remimazolam versus propofol anaesthesia on postopera",
+      "heading": "Story 2 - Comparative efficacy and safety of hydrocortisone-based regime",
       "sentences": [
-        "Story 2 is about Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial..",
-        "This is a recent research article from British journal of anaesthesia.",
-        "The clinical question is best framed as follows: in adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas, how should we interpret Effect of remimazolam compared with propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial?",
-        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
-        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%).",
+        "Story 2 is about Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672), how should we interpret and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing?",
+        "A total of 21 trials involving 7908 patients were included.",
+        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
+        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Mitral annular plane systolic excursion as a prognostic marker",
+      "sentences": [
+        "Story 3 is about Mitral annular plane systolic excursion as a prognostic marker in critical illness: A systematic review and meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in critically ill adults, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE.",
+        "Most patients had sepsis or septic shock.",
+        "Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -50,36 +65,96 @@
   ],
   "articles": [
     {
-      "title": "Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.",
-      "source": "Lancet (London, England)",
-      "date": "Oct 31 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. Patients were centrally randomly assigned using a web-based system to supine positioning and conventional mechanical ventilation, prone positioning and conventional mechanical ventilation, supine positioning and HFOV, or prone positioning and HFOV. Initially, the allocation was 1:1:1:1 stratified by age group and direct or indirect lung injury using a permuted block design with blocks of four and eight. Response-adaptive randomisation updates were planned to adjust allocation probabilities 28 days after 300 patients were randomly assigned and then 28 days after every 100 additional patients. Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
-      "analysis": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "intensive care units in 18 countries",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
         "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment.",
-        "126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group.",
-        "Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male.",
-        "There were no significant differences in ventilator-free days between prone and supine positioning (median 17·9 days [IQR 8·9-21·3] vs 17·4 days [6·4-21·9]; Hodges-Lehmann location shift adjusting for ventilation 0·0 [95% CI -0·8 to 1·0]) or between HFOV and conventional mechanical ventilation (17·3 [5·7-21·6] vs 18·0 [9·9-21·5]; Hodges-Lehmann location shift adjusting for positioning -0·3 [95% CI -1·5 to 0·5])."
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
       ],
       "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Prone positioning and high-frequency oscillatory ventilation in early paediatric acute....",
-          "The most clinically relevant signal was Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment..",
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because May influence protocols or care pathways if the effect is reproducible; verify whether the outcome is patient-centered or mainly operational..",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42878614"
+    },
+    {
+      "title": "Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Sep 22 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "We conducted a PRISMA-compliant systematic review and network meta-analysis of randomized controlled trials evaluating hydrocortisone and/or fludrocortisone in adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672). A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant. The optimal corticosteroid regimen for septic shock, particularly the dosing and combination of hydrocortisone and fludrocortisone, remains uncertain due to inconsistent mortality findings across trials. Interventions were grouped into six regimens (including placebo), and outcomes were analyzed using a frequentist random-effects model; the primary outcome was 28-day mortality.",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "pico": {
+        "population": "adults with septic shock (PubMed, Embase, CENTRAL; inception-May 1, 2025; PROSPERO CRD420251015672)",
+        "intervention": "and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality",
+        "comparator": "placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing",
+        "outcomes": "A total of 21 trials involving 7908 patients were included. Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically..."
+      },
+      "keyResults": [
+        "A total of 21 trials involving 7908 patients were included.",
+        "Hydrocortisone ≥300 mg/day and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality compared with placebo (OR 0.53, 95% CI 0.29-0.96; OR 0.78, 95% CI 0.64-0.96, respectively), with higher fludrocortisone doses showing numerically greater point estimates of benefit, though estimates were not statistically significant.",
+        "Higher hydrocortisone doses were associated with increased superinfection risk, while fludrocortisone appeared to attenuate this effect.",
+        "An increased risk of gastrointestinal hemorrhage was observed across regimens, although estimates were imprecise."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Comparative efficacy and safety of hydrocortisone-based regimens in septic shock.",
+          "The most clinically relevant signal was A total of 21 trials involving 7908 patients were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
@@ -99,45 +174,47 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether and hydrocortisone 200-299 mg/day combined with fludrocortisone 50 μg/day were associated with reduced 28-day mortality should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956771/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784878/",
       "urlLabel": "View on PubMed",
-      "pmid": "42956771"
+      "pmid": "42784878"
     },
     {
-      "title": "Effect of remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial.",
-      "source": "British journal of anaesthesia",
-      "date": "Oct 29 2026",
-      "type": "Recent research article",
-      "summary": "In this single-centre, double-blind, randomised noninferiority trial, adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypass received remimazolam-based TIVA with flumazenil reversal at emergence, or propofol-based TIVA, both with remifentanil. The primary outcome was the cumulative incidence of POD within 5 days, assessed twice daily with the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) or the 3-Minute Diagnostic Interview for CAM-defined delirium (3D-CAM). Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%). Propofol-based total intravenous anaesthesia (TIVA) is commonly used in neurovascular surgery, in which intraoperative neurophysiological monitoring limits inhalation anaesthetic use.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "title": "Mitral annular plane systolic excursion as a prognostic marker in critical illness: A systematic review and meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Oct 26 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Studies were included if MAPSE could be dichotomized using prespecified cutoffs (10 or 12 mm). Risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs) were pooled. Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE. Most patients had sepsis or septic shock. Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "adults undergoing elective intracranial aneurysm clipping, arteriovenous malformation resection, microvascular decompression, or superficial temporal artery-middle cerebral artery bypas",
-        "intervention": "Effect of remimazolam",
-        "comparator": "propofol anaesthesia on postoperative delirium in neurovascular surgery: a randomised noninferiority trial",
-        "outcomes": "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent. Hypotensive burden below a mean arterial pressure threshold of..."
+        "population": "critically ill adults",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE. Most patients had sepsis or septic shock. Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on..."
       },
       "keyResults": [
-        "Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with propofol (risk difference, 1.97 percentage points; 95% CI, -2.85 to 6.80; one-sided P<0.001 for noninferiority); per-protocol results were consistent.",
-        "Hypotensive burden below a mean arterial pressure threshold of 65 mm Hg was lower in the remimazolam group (median, 0 vs 7.5 mm Hg min; P<0.001), and tracheal extubation in the operating room was more frequent (85.2% vs 67.3%)."
+        "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE.",
+        "Most patients had sepsis or septic shock.",
+        "Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
+        "Reduced MAPSE was also associated with lower LVEF (MD -13.0%; 95% CI -20.6 to -5.4; p < 0.01; I2 = 94.6%), but not with 28-30-day mortality or exploratory outcomes."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether remimazolam versus propofol anaesthesia on postoperative delirium in neurovascular surgery.",
-          "The most clinically relevant signal was Among 686 patients in the modified intention-to-treat analysis, POD occurred in 44 of 344 (12.8%) with remimazolam and 37 of 342 (10.8%) with....",
+          "This study examined whether Mitral annular plane systolic excursion as a prognostic marker in critical illness.",
+          "The most clinically relevant signal was Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
@@ -145,23 +222,27 @@
             "meaning": "the main outcome the investigators planned to test"
           },
           {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
           },
           {
-            "term": "noninferiority",
-            "meaning": "testing whether a treatment is not unacceptably worse"
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Effect of remimazolam should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957499/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933245/",
       "urlLabel": "View on PubMed",
-      "pmid": "42957499"
+      "pmid": "42933245"
     }
   ]
 }
