@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "date": "November 3, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 03, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Sodium bicarbonate therapy for metabolic acidosis in criticall",
+      "sentences": [
+        "Story 1 is about Sodium bicarbonate therapy for metabolic acidosis in critically ill patients: a Bayesian systematic review and meta-analysis of randomised controlled trials..",
+        "This is a systematic review / meta-analysis from Intensive care medicine.",
+        "The clinical question is best framed as follows: in adult intensive care unit patients with metabolic acidosis, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Four RCTs including 1544 patients were analysed.",
+        "Sodium bicarbonate did not show a clear short-term mortality benefit (RR 0.94, 95% CrI 0.73-1.22), with a posterior probability of benefit of 72.1%.",
+        "For RRT initiation, sodium bicarbonate was associated with a lower risk (RR 0.74, 95% CrI 0.59-0.98), with a posterior probability of benefit of 97.2%.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Individualized treatment effects of high flow nasal oxygen in ",
+      "sentences": [
+        "Story 2 is about Individualized treatment effects of high flow nasal oxygen in immunocompromised patients..",
+        "This is a recent research article from Intensive care medicine.",
+        "The clinical question is best framed as follows: in patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant.",
+        "However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen).",
+        "Patients with the highest predicted benefit were older, more frequently solid organ transplant recipients, less neutropenic, more severely hypoxemic/tachycardic, but with lower non-respiratory sequential organ failure assessment (SOFA) scores.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Functional Connectivity at Birth and Longitudinal Neurocogniti",
+      "sentences": [
+        "Story 3 is about Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in intensive care units in the greater Cincinnati, Ohio, area between September 16, 2016, and November 19, 2019, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis.",
+        "Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56).",
+        "Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Sodium bicarbonate therapy for metabolic acidosis in critically ill patients: a Bayesian systematic review and meta-analysis of randomised controlled trials.",
+      "source": "Intensive care medicine",
+      "date": "Nov 02 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "We performed a systematic review and Bayesian random-effects meta-analysis of randomised controlled trials (RCTs) comparing intravenous sodium bicarbonate with placebo or usual care in adult intensive care unit patients with metabolic acidosis. Four RCTs including 1544 patients were analysed. Sodium bicarbonate did not show a clear short-term mortality benefit (RR 0.94, 95% CrI 0.73-1.22), with a posterior probability of benefit of 72.1%. For RRT initiation, sodium bicarbonate was associated with a lower risk (RR 0.74, 95% CrI 0.59-0.98), with a posterior probability of benefit of 97.2%. Effects on other outcomes were small or imprecise, and no consistent safety signal was identified.",
+      "analysis": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "pico": {
+        "population": "adult intensive care unit patients with metabolic acidosis",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Four RCTs including 1544 patients were analysed. Sodium bicarbonate did not show a clear short-term mortality benefit (RR 0.94, 95% CrI 0.73-1.22), with a posterior probability of benefit of 72.1%. For RRT initiation, sodium bicarbonate was associated with a lower risk (RR 0.74, 95% CrI 0.59-0.98), with a posterior probability of benefit of 97.2%. Effects..."
+      },
+      "keyResults": [
+        "Four RCTs including 1544 patients were analysed.",
+        "Sodium bicarbonate did not show a clear short-term mortality benefit (RR 0.94, 95% CrI 0.73-1.22), with a posterior probability of benefit of 72.1%.",
+        "For RRT initiation, sodium bicarbonate was associated with a lower risk (RR 0.74, 95% CrI 0.59-0.98), with a posterior probability of benefit of 97.2%.",
+        "Effects on other outcomes were small or imprecise, and no consistent safety signal was identified."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit or harm.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Sodium bicarbonate therapy for metabolic acidosis in critically ill patients.",
+          "The most clinically relevant signal was Four RCTs including 1544 patients were analysed..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Do not change practice on efficacy alone; focus journal-club discussion on whether the confidence intervals exclude a clinically important benefit....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970124/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42970124"
+    },
+    {
+      "title": "Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.",
+      "source": "Intensive care medicine",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "A causal forest machine-learning algorithm was derived in the HIGH trial (776 patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence. Transportability of the model was assessed in an independent observational cohort (818 patients). Among the 704 participants, HFNO's average effect on day-28 IMV was not significant. However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen). High flow nasal oxygen (HFNO) has become a common first-line practice for acute hypoxemic respiratory failure (ARF).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant. However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen). Patients with the highest predicted benefit were..."
+      },
+      "keyResults": [
+        "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant.",
+        "However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen).",
+        "Patients with the highest predicted benefit were older, more frequently solid organ transplant recipients, less neutropenic, more severely hypoxemic/tachycardic, but with lower non-respiratory sequential organ failure assessment (SOFA) scores.",
+        "In this subgroup, HFNO was associated with a significant lower incidence of IMV."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.",
+          "The most clinically relevant signal was Among the 704 participants, HFNO's average effect on day-28 IMV was not significant..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970133/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42970133"
+    },
+    {
+      "title": "Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants.",
+      "source": "JAMA network open",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis. Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56). Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity. The SMN-VIS was the only connection showing a difference between assessments, with a less pronounced association at 3 years than at 2 years (interaction, -0.09; 95% CrI, -0.20 to <0.01). Understanding how neonatal functional connectivity at birth is associated with later cognitive performance in infants born very preterm (VPT) may help identify early neuroimaging markers of neurodevelopment.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "intensive care units in the greater Cincinnati, Ohio, area between September 16, 2016, and November 19, 2019",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Cognitive outcomes were assessed at corrected age 2 and 3 years using the Bayley Scales of Infant and Toddler Development, Third Edition and the Differential Ability Scales, Second Edition, respectively. Functional connectivity was measured within and between the default mode network (DMN), somatomotor network (SMN), dorsal attention network (DAN),..."
+      },
+      "keyResults": [
+        "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis.",
+        "Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56).",
+        "Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity.",
+        "The SMN-VIS was the only connection showing a difference between assessments, with a less pronounced association at 3 years than at 2 years (interaction, -0.09; 95% CrI, -0.20 to <0.01)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm....",
+          "The most clinically relevant signal was A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970289/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42970289"
+    }
+  ]
+}
