@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "date": "November 3, 2026",
+  "date": "November 4, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 03, 2026.",
+        "Welcome to Critical Care Daily for November 04, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
@@ -27,30 +27,30 @@
       ]
     },
     {
-      "heading": "Story 2 - Individualized treatment effects of high flow nasal oxygen in ",
+      "heading": "Story 2 - Open Visiting Policy and Delirium in Adult Patients in ICUs: A",
       "sentences": [
-        "Story 2 is about Individualized treatment effects of high flow nasal oxygen in immunocompromised patients..",
-        "This is a recent research article from Intensive care medicine.",
-        "The clinical question is best framed as follows: in patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant.",
-        "However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen).",
-        "Patients with the highest predicted benefit were older, more frequently solid organ transplant recipients, less neutropenic, more severely hypoxemic/tachycardic, but with lower non-respiratory sequential organ failure assessment (SOFA) scores.",
+        "Story 2 is about Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adult patients admitted to ICUs, how should we interpret d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81?",
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Functional Connectivity at Birth and Longitudinal Neurocogniti",
+      "heading": "Story 3 - Mitral annular plane systolic excursion as a prognostic marker",
       "sentences": [
-        "Story 3 is about Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in intensive care units in the greater Cincinnati, Ohio, area between September 16, 2016, and November 19, 2019, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis.",
-        "Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56).",
-        "Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity.",
+        "Story 3 is about Mitral annular plane systolic excursion as a prognostic marker in critical illness: A systematic review and meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in critically ill adults, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE.",
+        "Most patients had sepsis or septic shock.",
+        "Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -117,45 +117,56 @@
         "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
       },
       "sourceSignals": [
-        "PubMed"
+        "PubMed",
+        "Critical Care Reviews"
       ],
-      "curationLinks": [],
+      "curationLinks": [
+        {
+          "title": "Systematic review & meta-analysis Bicarbonate in metabolic acidosis: the randomised evidence Intensive Care Medicine · Added 3 Nov ↗",
+          "url": "https://doi.org/10.1007/s00134-026-08602-3"
+        }
+      ],
       "url": "https://pubmed.ncbi.nlm.nih.gov/42970124/",
       "urlLabel": "View on PubMed",
       "pmid": "42970124"
     },
     {
-      "title": "Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.",
-      "source": "Intensive care medicine",
-      "date": "Nov 02 2026",
-      "type": "Recent research article",
-      "summary": "A causal forest machine-learning algorithm was derived in the HIGH trial (776 patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence. Transportability of the model was assessed in an independent observational cohort (818 patients). Among the 704 participants, HFNO's average effect on day-28 IMV was not significant. However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen). High flow nasal oxygen (HFNO) has become a common first-line practice for acute hypoxemic respiratory failure (ARF).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "source": "Critical care medicine",
+      "date": "Oct 15 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs. We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty). The intervention did not affect the ICU length of stay (MD, 4.21 d; 95% CI, -4.65 to 13.07 d; very low certainty), the rates of hospital-acquired infections (RR, 1.00; 95% CI, 0.81-1.23; low certainty), or ICU mortality (RR, 0.88; 95% CI, 0.72-1.08; very low certainty).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "patients randomized to HFNO or conventional oxygen) to predict the HFNO effects on day-28 IMV incidence",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant. However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen). Patients with the highest predicted benefit were..."
+        "population": "adult patients admitted to ICUs",
+        "intervention": "d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that",
+        "comparator": "restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
       },
       "keyResults": [
-        "Among the 704 participants, HFNO's average effect on day-28 IMV was not significant.",
-        "However, substantial heterogeneity in treatment responses was identified (predicted benefit: from 20.2% [IQR 15.5%-23.9%] absolute IMV risk reduction with HFNO to 7.4% risk reduction [2.9%-11.2%] with conventional oxygen).",
-        "Patients with the highest predicted benefit were older, more frequently solid organ transplant recipients, less neutropenic, more severely hypoxemic/tachycardic, but with lower non-respiratory sequential organ failure assessment (SOFA) scores.",
-        "In this subgroup, HFNO was associated with a significant lower incidence of IMV."
+        "To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies on the occurrence of delirium and other major outcomes among adult patients admitted to ICUs.",
+        "We included randomized controlled trials (RCTs) comparing open or flexible vs. restricted ICU visiting policies in adult patients.",
+        "Thirteen RCTs comprising 3861 patients were included.",
+        "Random-effects models showed that compared with restricted policies, open/flexible family presence reduced delirium occurrence (risk ratio [RR], 0.48; 95% CI, 0.29-0.81; low certainty) and IMV duration (mean difference [MD], -0.36 d; 95% CI, -0.46 to -0.26 d; low certainty)."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.",
-          "The most clinically relevant signal was Among the 704 participants, HFNO's average effect on day-28 IMV was not significant..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "This study examined whether Open Visiting Policy and Delirium in Adult Patients in ICUs.",
+          "The most clinically relevant signal was To critically evaluate the comparative effects of open or flexible family presence policies vs. restricted or traditional family presence policies....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
           {
             "term": "heterogeneity",
             "meaning": "variation between studies or patient groups"
@@ -167,54 +178,59 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether d infections, and ICU mortality. Thirteen RCTs comprising 3861 patients were included. Random-effects models showed that should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970133/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878614/",
       "urlLabel": "View on PubMed",
-      "pmid": "42970133"
+      "pmid": "42878614"
     },
     {
-      "title": "Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants.",
-      "source": "JAMA network open",
-      "date": "Nov 02 2026",
-      "type": "Recent research article",
-      "summary": "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis. Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56). Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity. The SMN-VIS was the only connection showing a difference between assessments, with a less pronounced association at 3 years than at 2 years (interaction, -0.09; 95% CrI, -0.20 to <0.01). Understanding how neonatal functional connectivity at birth is associated with later cognitive performance in infants born very preterm (VPT) may help identify early neuroimaging markers of neurodevelopment.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "title": "Mitral annular plane systolic excursion as a prognostic marker in critical illness: A systematic review and meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Oct 26 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Studies were included if MAPSE could be dichotomized using prespecified cutoffs (10 or 12 mm). Risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs) were pooled. Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE. Most patients had sepsis or septic shock. Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "intensive care units in the greater Cincinnati, Ohio, area between September 16, 2016, and November 19, 2019",
+        "population": "critically ill adults",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Cognitive outcomes were assessed at corrected age 2 and 3 years using the Bayley Scales of Infant and Toddler Development, Third Edition and the Differential Ability Scales, Second Edition, respectively. Functional connectivity was measured within and between the default mode network (DMN), somatomotor network (SMN), dorsal attention network (DAN),..."
+        "outcomes": "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE. Most patients had sepsis or septic shock. Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on..."
       },
       "keyResults": [
-        "A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis.",
-        "Stronger neonatal connectivity involving the DMN was positively associated with cognitive performance, including intra-DMN (0.23; 95% credible interval [CrI], 0.06-0.39) and DMN connections with the frontoparietal control network (0.24; 95% CrI, 0.07-0.40), SMN (0.20; 95% CrI, 0.02-0.37), VIS (0.32; 95% CrI, 0.13-0.51), and CO (0.39; 95% CrI, 0.21-0.56).",
-        "Positive associations were also observed for SMN-VIS (0.27; 95% CrI, 0.12-0.43) and SMN-CO (0.26; 95% CrI, 0.09-0.44) connectivity.",
-        "The SMN-VIS was the only connection showing a difference between assessments, with a less pronounced association at 3 years than at 2 years (interaction, -0.09; 95% CrI, -0.20 to <0.01)."
+        "Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE.",
+        "Most patients had sepsis or septic shock.",
+        "Reduced MAPSE was associated with higher in-hospital mortality (37.7% vs 11.7%; RR 4.81; 95% CI 1.28-18.04; p = 0.02; I2 = 70.6%), with consistent effects across both cutoffs (p = 0.111) and adequate information size on trial sequential analysis.",
+        "Reduced MAPSE was also associated with lower LVEF (MD -13.0%; 95% CI -20.6 to -5.4; p < 0.01; I2 = 94.6%), but not with 28-30-day mortality or exploratory outcomes."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm....",
-          "The most clinically relevant signal was A total of 257 infants born VPT (mean [SD] gestational age, 29.2 [2.5] weeks; 132 male [51.4%]) were included in the final longitudinal analysis..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "This study examined whether Mitral annular plane systolic excursion as a prognostic marker in critical illness.",
+          "The most clinically relevant signal was Ten observational studies including 1313 patients were analyzed; 414 (31.5%) had reduced MAPSE..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -222,10 +238,6 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
         "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
@@ -234,9 +246,9 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42970289/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933245/",
       "urlLabel": "View on PubMed",
-      "pmid": "42970289"
+      "pmid": "42933245"
     }
   ]
 }
