@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 2,
+  "date": "November 5, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 05, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Real-world outcomes of continuous infusion of sedative agents ",
+      "sentences": [
+        "Story 1 is about Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in Adults receiving continuous intravenous sedation within 48 h of intubation were included, how should we interpret arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed compared with BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6?",
+        "11.9 days, P = 0.032), earlier extubation (4.1 vs.",
+        "6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs.",
+        "US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Overall Survival in Adults With Acute Myeloid Leukemia Initiat",
+      "sentences": [
+        "Story 2 is about Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib vs Midostaurin With Chemotherapy..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in patients with newly diagnosed FLT3-ITD variant AML treated at 12 US referral centers between January 1, 2018, and May 31, 2025, how should we interpret Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib compared with Midostaurin With Chemotherapy?",
+        "Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib.",
+        "One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002).",
+        "The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - External Validation of a Machine Learning Model for Delirium R",
+      "sentences": [
+        "Story 3 is about External Validation of a Machine Learning Model for Delirium Risk..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]).",
+        "The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH.",
+        "The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation.",
+      "source": "Journal of critical care",
+      "date": "Nov 03 2026",
+      "type": "Recent research article",
+      "summary": "Patients with preexisting ventilator dependence, status epilepticus, or prior tracheostomy were excluded. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs. US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs. Current guidelines recommend non-benzodiazepine (non-BZD) sedatives -dexmedetomidine (DEX) and propofol (PPF) - over benzodiazepines (BZD) in mechanically ventilated critically ill patients, but real-world evidence from Asian patients remains limited.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Adults receiving continuous intravenous sedation within 48 h of intubation were included",
+        "intervention": "arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed",
+        "comparator": "BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6",
+        "outcomes": "Of 2065 eligible patients, 605 matched pairs were analyzed. Compared with BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs. US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs. 38.7%, P =..."
+      },
+      "keyResults": [
+        "11.9 days, P = 0.032), earlier extubation (4.1 vs.",
+        "6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs.",
+        "US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs.",
+        "Of 2065 eligible patients, 605 matched pairs were analyzed."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Real-world outcomes of continuous infusion of sedative agents in critically ill patients....",
+          "The most clinically relevant signal was 11.9 days, P = 0.032), earlier extubation (4.1 vs..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976438/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42976438"
+    },
+    {
+      "title": "Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib vs Midostaurin With Chemotherapy.",
+      "source": "JAMA network open",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "To compare 1-year overall survival (OS) among patients with FLT3-ITD variant AML initiating IC with midostaurin or quizartinib. Induction therapy with IC plus midostaurin or quizartinib. Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib. One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002). The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients with newly diagnosed FLT3-ITD variant AML treated at 12 US referral centers between January 1, 2018, and May 31, 2025",
+        "intervention": "Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib",
+        "comparator": "Midostaurin With Chemotherapy",
+        "outcomes": "The primary outcome was 1-year overall survival (OS). Secondary outcomes included 1-year event-free survival (EFS), induction response, and hematopoietic cell transplant (HCT) rates at first remission; FLT3 clearance after induction was exploratory. Safety outcomes included rates of febrile neutropenia, infections, intensive care unit use, total..."
+      },
+      "keyResults": [
+        "Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib.",
+        "One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002).",
+        "The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
+        "Patients receiving quizartinib had higher rates of composite complete remission (75 [85.2%] vs 93 [73.2%]; P = .03), whereas rates of FLT3 clearance after induction (20 [38.5%] for quizartinib vs 27 [40.3%] for midostaurin; P = .84) and HCT in first remission (47 [53.4%] for quizartinib vs 83 [65.4%] for midostaurin; P = .08) were comparable."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib versus....",
+          "The most clinically relevant signal was Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981093/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981093"
+    },
+    {
+      "title": "External Validation of a Machine Learning Model for Delirium Risk.",
+      "source": "JAMA network open",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "This quality improvement study evaluated live clinical deployment of the model among patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from December 1, 2024, to December 31, 2025. The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]). The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH. The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH. For MSM, the mean monthly delirium detection rate significantly increased from 9.23% (95% CI, 8.07%-10.38%) to 19.59% (95% CI, 17.32%-21.85%) after model deployment (P < .001).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Primary outcomes were performance of the risk stratification model, assessed by area under the receiver operating characteristic curve (AUROC), and monthly delirium detection rates. A 2 × 2 confusion matrix was created, and the 4 cells were used to calculate model performance metrics and compare associated diagnostic yield between premodel deployment and..."
+      },
+      "keyResults": [
+        "The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]).",
+        "The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH.",
+        "The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH.",
+        "For MSM, the mean monthly delirium detection rate significantly increased from 9.23% (95% CI, 8.07%-10.38%) to 19.59% (95% CI, 17.32%-21.85%) after model deployment (P < .001)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether External Validation of a Machine Learning Model for Delirium Risk.",
+          "The most clinically relevant signal was The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%],....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "generalizability",
+            "meaning": "how well the findings apply to your patients"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981091/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981091"
+    }
+  ]
+}
