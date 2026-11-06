@@ -1,54 +1,54 @@
 {
   "schemaVersion": 2,
-  "date": "November 5, 2026",
+  "date": "November 6, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 05, 2026.",
+        "Welcome to Critical Care Daily for November 06, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Real-world outcomes of continuous infusion of sedative agents ",
+      "heading": "Story 1 - Remimazolam versus propofol for sedation in mechanically venti",
       "sentences": [
-        "Story 1 is about Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation..",
-        "This is a recent research article from Journal of critical care.",
-        "The clinical question is best framed as follows: in Adults receiving continuous intravenous sedation within 48 h of intubation were included, how should we interpret arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed compared with BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6?",
-        "11.9 days, P = 0.032), earlier extubation (4.1 vs.",
-        "6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs.",
-        "US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs.",
+        "Story 1 is about Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in ICU patients, how should we interpret Remimazolam compared with propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials?",
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Overall Survival in Adults With Acute Myeloid Leukemia Initiat",
+      "heading": "Story 2 - Oxygen consumption as a measure of metabolic demand during ear",
       "sentences": [
-        "Story 2 is about Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib vs Midostaurin With Chemotherapy..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in patients with newly diagnosed FLT3-ITD variant AML treated at 12 US referral centers between January 1, 2018, and May 31, 2025, how should we interpret Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib compared with Midostaurin With Chemotherapy?",
-        "Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib.",
-        "One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002).",
-        "The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
+        "Story 2 is about Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%).",
+        "All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant.",
+        "Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - External Validation of a Machine Learning Model for Delirium R",
+      "heading": "Story 3 - Consensus on a core outcome set for ventilation trials in crit",
       "sentences": [
-        "Story 3 is about External Validation of a Machine Learning Model for Delirium Risk..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]).",
-        "The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH.",
-        "The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH.",
+        "Story 3 is about Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study..",
+        "This is a recent research article from Intensive care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition).",
+        "Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days).",
+        "A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
@@ -65,90 +65,35 @@
   ],
   "articles": [
     {
-      "title": "Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation.",
+      "title": "Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.",
       "source": "Journal of critical care",
-      "date": "Nov 03 2026",
-      "type": "Recent research article",
-      "summary": "Patients with preexisting ventilator dependence, status epilepticus, or prior tracheostomy were excluded. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs. US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs. Current guidelines recommend non-benzodiazepine (non-BZD) sedatives -dexmedetomidine (DEX) and propofol (PPF) - over benzodiazepines (BZD) in mechanically ventilated critically ill patients, but real-world evidence from Asian patients remains limited.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Continuous endpoints were reported using mean differences (MDs), and dichotomous outcomes were analyzed using risk ratios (RRs), with 95% confidence intervals (CIs). Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise. Propofol is widely used for sedation in the intensive care unit (ICU), but its use may be limited by cardiovascular depression, hypertriglyceridemia, and propofol infusion syndrome.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "Adults receiving continuous intravenous sedation within 48 h of intubation were included",
-        "intervention": "arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed",
-        "comparator": "BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6",
-        "outcomes": "Of 2065 eligible patients, 605 matched pairs were analyzed. Compared with BZD, non-BZD sedation was associated with shorter ICU LOS (9.4 vs. 11.9 days, P = 0.032), earlier extubation (4.1 vs. 6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs. US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs. 38.7%, P =..."
+        "population": "ICU patients",
+        "intervention": "Remimazolam",
+        "comparator": "propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials",
+        "outcomes": "Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of..."
       },
       "keyResults": [
-        "11.9 days, P = 0.032), earlier extubation (4.1 vs.",
-        "6.5 days, P = 0.015), and lower hospitalization cost (US$21,559 vs.",
-        "US$26,258, P < 0.001), without a significant difference in 90-day mortality (36.7% vs.",
-        "Of 2065 eligible patients, 605 matched pairs were analyzed."
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Real-world outcomes of continuous infusion of sedative agents in critically ill patients....",
-          "The most clinically relevant signal was 11.9 days, P = 0.032), earlier extubation (4.1 vs..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether arisons evaluated DEX vs. BZD, PPF vs. BZD, and DEX vs. PPF. Of 2065 eligible patients, 605 matched pairs were analyzed should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42976438/",
-      "urlLabel": "View on PubMed",
-      "pmid": "42976438"
-    },
-    {
-      "title": "Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib vs Midostaurin With Chemotherapy.",
-      "source": "JAMA network open",
-      "date": "Nov 02 2026",
-      "type": "Recent research article",
-      "summary": "To compare 1-year overall survival (OS) among patients with FLT3-ITD variant AML initiating IC with midostaurin or quizartinib. Induction therapy with IC plus midostaurin or quizartinib. Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib. One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002). The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "patients with newly diagnosed FLT3-ITD variant AML treated at 12 US referral centers between January 1, 2018, and May 31, 2025",
-        "intervention": "Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib",
-        "comparator": "Midostaurin With Chemotherapy",
-        "outcomes": "The primary outcome was 1-year overall survival (OS). Secondary outcomes included 1-year event-free survival (EFS), induction response, and hematopoietic cell transplant (HCT) rates at first remission; FLT3 clearance after induction was exploratory. Safety outcomes included rates of febrile neutropenia, infections, intensive care unit use, total..."
-      },
-      "keyResults": [
-        "Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received quizartinib.",
-        "One-year OS was 78.0% for midostaurin and 93.0% for quizartinib (hazard ratio [HR], 0.22; 95% CI, 0.08-0.58; P = .002).",
-        "The 1-year EFS was 56.0% for midostaurin and 77.0% for quizartinib (HR, 0.43; 95% CI, 0.25-0.74; P = .003).",
-        "Patients receiving quizartinib had higher rates of composite complete remission (75 [85.2%] vs 93 [73.2%]; P = .03), whereas rates of FLT3 clearance after induction (20 [38.5%] for quizartinib vs 27 [40.3%] for midostaurin; P = .84) and HCT in first remission (47 [53.4%] for quizartinib vs 83 [65.4%] for midostaurin; P = .08) were comparable."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib versus....",
-          "The most clinically relevant signal was Among 215 patients (median [IQR] age, 56.0 [45.0-65.0] years; 119 [55.3%] female), 127 (59.1%) received midostaurin and 88 (40.9%) received....",
+          "This study examined whether Remimazolam versus propofol for sedation in mechanically ventilated ICU patients.",
+          "The most clinically relevant signal was Six RCTs including 705 patients were analyzed..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
@@ -156,68 +101,61 @@
             "meaning": "the main outcome the investigators planned to test"
           },
           {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
           },
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Overall Survival in Adults With Acute Myeloid Leukemia Initiating Quizartinib should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Remimazolam should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981093/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981695/",
       "urlLabel": "View on PubMed",
-      "pmid": "42981093"
+      "pmid": "42981695"
     },
     {
-      "title": "External Validation of a Machine Learning Model for Delirium Risk.",
-      "source": "JAMA network open",
-      "date": "Nov 02 2026",
-      "type": "Recent research article",
-      "summary": "This quality improvement study evaluated live clinical deployment of the model among patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from December 1, 2024, to December 31, 2025. The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]). The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH. The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH. For MSM, the mean monthly delirium detection rate significantly increased from 9.23% (95% CI, 8.07%-10.38%) to 19.59% (95% CI, 17.32%-21.85%) after model deployment (P < .001).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "title": "Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%). All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant. Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix. Oxygen consumption was above baseline in all 14 point estimates, with a pooled increase of 29.2% and estimates ranging from 3.1% to 66.3%. Early rehabilitation and bedside activity can increase oxygen demand during invasive mechanical ventilation (IMV), but the magnitude and variability of this response remain uncertain.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "patients 60 years or older who were admitted to non-intensive care units at Mount Sinai Hospital (MSH), with external validation performed at Mount Sinai Morningside Hospital (MSM), from",
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Primary outcomes were performance of the risk stratification model, assessed by area under the receiver operating characteristic curve (AUROC), and monthly delirium detection rates. A 2 × 2 confusion matrix was created, and the 4 cells were used to calculate model performance metrics and compare associated diagnostic yield between premodel deployment and..."
+        "outcomes": "Twenty studies were included, and 11 contributed 14 estimates to the primary meta-analysis. VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%). All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant. Pooled estimates were higher..."
       },
       "keyResults": [
-        "The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%], 17 271 men [52.2%]).",
-        "The AUROC of the model was 0.91 (95% CI, 0.90-0.92) for MSM and 0.94 (95% CI, 0.93-0.94) for MSH.",
-        "The positive predictive value of the model was 25.9% for MSM and 19.4% for MSH.",
-        "For MSM, the mean monthly delirium detection rate significantly increased from 9.23% (95% CI, 8.07%-10.38%) to 19.59% (95% CI, 17.32%-21.85%) after model deployment (P < .001)."
+        "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%).",
+        "All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant.",
+        "Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix.",
+        "Twenty studies were included, and 11 contributed 14 estimates to the primary meta-analysis."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether External Validation of a Machine Learning Model for Delirium Risk.",
-          "The most clinically relevant signal was The overall sample included 33 095 admissions to non-intensive care units at MSM and MSH (mean [SD] age, 74.86 (9.22) years; 15 601 women [47.1%],....",
+          "This study examined whether Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside....",
+          "The most clinically relevant signal was VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%)..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "generalizability",
-            "meaning": "how well the findings apply to your patients"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -225,6 +163,10 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
         "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
@@ -233,9 +175,68 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981091/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981693/",
       "urlLabel": "View on PubMed",
-      "pmid": "42981091"
+      "pmid": "42981693"
+    },
+    {
+      "title": "Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study.",
+      "source": "Intensive care medicine",
+      "date": "Nov 05 2026",
+      "type": "Recent research article",
+      "summary": "Inclusion required >70% rating as \"critical\" (score 7-9) and ≤15% as \"not important\" (1-3). 78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition). Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days). A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation. Clinical research evaluating mechanical ventilation liberation in patients with acute brain injury (ABI) shows substantial outcome heterogeneity, limiting evidence synthesis.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition). Fifty-four outcomes achieved Delphi consensus. At Consensus Meeting 1, these were organized into 16 categories; the highest-scoring outcome per category was selected. Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal..."
+      },
+      "keyResults": [
+        "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition).",
+        "Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days).",
+        "A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation.",
+        "Fifty-four outcomes achieved Delphi consensus."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Consensus on a core outcome set for ventilation trials in critically ill patients with acute....",
+          "The most clinically relevant signal was 78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition)..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986439/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42986439"
     }
   ]
 }

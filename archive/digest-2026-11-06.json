@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "date": "November 6, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 06, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Remimazolam versus propofol for sedation in mechanically venti",
+      "sentences": [
+        "Story 1 is about Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in ICU patients, how should we interpret Remimazolam compared with propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials?",
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Oxygen consumption as a measure of metabolic demand during ear",
+      "sentences": [
+        "Story 2 is about Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%).",
+        "All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant.",
+        "Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Consensus on a core outcome set for ventilation trials in crit",
+      "sentences": [
+        "Story 3 is about Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study..",
+        "This is a recent research article from Intensive care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition).",
+        "Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days).",
+        "A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Continuous endpoints were reported using mean differences (MDs), and dichotomous outcomes were analyzed using risk ratios (RRs), with 95% confidence intervals (CIs). Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise. Propofol is widely used for sedation in the intensive care unit (ICU), but its use may be limited by cardiovascular depression, hypertriglyceridemia, and propofol infusion syndrome.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "ICU patients",
+        "intervention": "Remimazolam",
+        "comparator": "propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials",
+        "outcomes": "Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of..."
+      },
+      "keyResults": [
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Remimazolam versus propofol for sedation in mechanically ventilated ICU patients.",
+          "The most clinically relevant signal was Six RCTs including 705 patients were analyzed..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Remimazolam should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981695/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981695"
+    },
+    {
+      "title": "Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%). All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant. Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix. Oxygen consumption was above baseline in all 14 point estimates, with a pooled increase of 29.2% and estimates ranging from 3.1% to 66.3%. Early rehabilitation and bedside activity can increase oxygen demand during invasive mechanical ventilation (IMV), but the magnitude and variability of this response remain uncertain.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Twenty studies were included, and 11 contributed 14 estimates to the primary meta-analysis. VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%). All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant. Pooled estimates were higher..."
+      },
+      "keyResults": [
+        "VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%).",
+        "All 14 point estimates were above baseline (+3.1% to +66.3%), although not all were individually statistically significant.",
+        "Pooled estimates were higher for respiratory physiotherapy (43.3%; 95% CI, 32.3%-55.2%) than for other rehabilitation and bedside interventions (18.4%; 95% CI, -0.2%-40.5%), although this domain comparison was exploratory and confounded by study era and case mix.",
+        "Twenty studies were included, and 11 contributed 14 estimates to the primary meta-analysis."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside....",
+          "The most clinically relevant signal was VO₂ increased by 29.2% from baseline (95% CI, 16.2%-43.6%; I2 = 96.2%; 95% prediction interval, -9.7% to 84.7%)..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981693/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981693"
+    },
+    {
+      "title": "Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study.",
+      "source": "Intensive care medicine",
+      "date": "Nov 05 2026",
+      "type": "Recent research article",
+      "summary": "Inclusion required >70% rating as \"critical\" (score 7-9) and ≤15% as \"not important\" (1-3). 78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition). Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days). A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation. Clinical research evaluating mechanical ventilation liberation in patients with acute brain injury (ABI) shows substantial outcome heterogeneity, limiting evidence synthesis.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition). Fifty-four outcomes achieved Delphi consensus. At Consensus Meeting 1, these were organized into 16 categories; the highest-scoring outcome per category was selected. Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal..."
+      },
+      "keyResults": [
+        "78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition).",
+        "Three outcomes were not ratified due to disease-specificity (NIH Stroke Scale) or lack of universal applicability (brain death, coma-free days).",
+        "A 3-level hierarchical composite endpoint was ratified at Consensus Meeting 2: (1) intensive care unit survival, (2) no reintubation within 72 hours, and (3) days alive without mechanical ventilation.",
+        "Fifty-four outcomes achieved Delphi consensus."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Consensus on a core outcome set for ventilation trials in critically ill patients with acute....",
+          "The most clinically relevant signal was 78 stakeholders participated in Round 1; 60 completed all rounds (23.1% attrition)..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986439/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42986439"
+    }
+  ]
+}
