@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "date": "November 7, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 07, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Impact of the updated SOFA-2 score on organ dysfunction assess",
+      "sentences": [
+        "Story 1 is about Impact of the updated SOFA-2 score on organ dysfunction assessment and trial outcomes in Sepsis: A reanalysis of two randomized trials..",
+        "This is a randomized / clinical trial from Journal of critical care.",
+        "The clinical question is best framed as follows: in Patient data were rescored using a best available SOFA-2 reconstruction, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "For the ACTS primary outcome, SOFA-2 (mean difference [MD] -0.8, 95% CI -1.6 to 0.0, p = 0.06) was similar to SOFA-1 (MD -0.8, 95% CI -1.7 to 0.2, p = 0.12) but became significant in the post hoc, exploratory urine-output analysis (MD -0.84, 95% CI -1.64 to -0.05, p = 0.04).",
+        "SOFA-2 produced lower total scores than SOFA-1 in both cohorts (ACTS 9 vs.",
+        "10; both p < 0.001), with lower respiratory and cardiovascular and higher coagulation subscores.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Long-Term Mortality in Sepsis Survivors: A Population-Based St",
+      "sentences": [
+        "Story 2 is about Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 296,554 hospital admissions for sepsis, 237,075 patients (79.9%) survived to hospital discharge.",
+        "Of these, 42% died (99,571) within 2 years.",
+        "Long-term mortality increased significantly with age, ranging from 5.8% in patients younger than 15 years to 62% in those older than 84 years (p < 0.0001), and with comorbidity burden (21%, 38%, 51%, and 67% for Charlson index 0, 1-2, 3-4, and ≥ 5, respectively; p < 0.0001).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Vasoactive-Adjusted Shock Index for Risk Stratification in Adu",
+      "sentences": [
+        "Story 3 is about Vasoactive-Adjusted Shock Index for Risk Stratification in Adult Sepsis..",
+        "This is a recent research article from Shock (Augusta, Ga.).",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 63853 patients was included.",
+        "The high VASI group had markedly higher 28-day mortality (HR 2.89, 95% CI 2.72-3.08) and 90-day mortality (HR 2.85, 95% CI 2.68-3.03).",
+        "Albumin showed a protective effect only in the low VASI group (OR 0.667, 95% CI 0.545-0.816), but the interaction was not significant.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Impact of the updated SOFA-2 score on organ dysfunction assessment and trial outcomes in Sepsis: A reanalysis of two randomized trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "For the ACTS primary outcome, SOFA-2 (mean difference [MD] -0.8, 95% CI -1.6 to 0.0, p = 0.06) was similar to SOFA-1 (MD -0.8, 95% CI -1.7 to 0.2, p = 0.12) but became significant in the post hoc, exploratory urine-output analysis (MD -0.84, 95% CI -1.64 to -0.05, p = 0.04). The Sequential Organ Failure Assessment (SOFA) score is the standard tool for quantifying organ dysfunction in sepsis. The updated SOFA-2 score may alter interpretation of prior trials. We reanalyzed two adult sepsis randomized trials, Ascorbic Acid, Corticosteroids, and Thiamine in Sepsis (ACTS) and Thiamine for Renal Protection in Septic Shock (TRPSS), to evaluate the impact of SOFA-2 on organ-specific scoring and trial interpretation. Patient data were rescored using a best available SOFA-2 reconstruction.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Patient data were rescored using a best available SOFA-2 reconstruction",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "SOFA-2 produced lower total scores than SOFA-1 in both cohorts (ACTS 9 vs. 7; TRPSS 11 vs. 10; both p < 0.001), with lower respiratory and cardiovascular and higher coagulation subscores. For the ACTS primary outcome, SOFA-2 (mean difference [MD] -0.8, 95% CI -1.6 to 0.0, p = 0.06) was similar to SOFA-1 (MD -0.8, 95% CI -1.7 to 0.2, p = 0.12) but became..."
+      },
+      "keyResults": [
+        "For the ACTS primary outcome, SOFA-2 (mean difference [MD] -0.8, 95% CI -1.6 to 0.0, p = 0.06) was similar to SOFA-1 (MD -0.8, 95% CI -1.7 to 0.2, p = 0.12) but became significant in the post hoc, exploratory urine-output analysis (MD -0.84, 95% CI -1.64 to -0.05, p = 0.04).",
+        "SOFA-2 produced lower total scores than SOFA-1 in both cohorts (ACTS 9 vs.",
+        "10; both p < 0.001), with lower respiratory and cardiovascular and higher coagulation subscores.",
+        "In TRPSS, SOFA-2 did not change overall interpretation but attenuated the treatment effect at all timepoints."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether the updated SOFA-2 score on organ dysfunction assessment and trial outcomes in Sepsis.",
+          "The most clinically relevant signal was For the ACTS primary outcome, SOFA-2 (mean difference [MD] -0.8, 95% CI -1.6 to 0.0, p = 0.06) was similar to SOFA-1 (MD -0.8, 95% CI -1.7 to 0.2,....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981694/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981694"
+    },
+    {
+      "title": "Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years.",
+      "source": "Critical care medicine",
+      "date": "Nov 05 2026",
+      "type": "Recent research article",
+      "summary": "Patients who died during hospitalization, were transferred to another facility, or represented readmission episodes were excluded. Among 296,554 hospital admissions for sepsis, 237,075 patients (79.9%) survived to hospital discharge. Of these, 42% died (99,571) within 2 years. Long-term mortality increased significantly with age, ranging from 5.8% in patients younger than 15 years to 62% in those older than 84 years (p < 0.0001), and with comorbidity burden (21%, 38%, 51%, and 67% for Charlson index 0, 1-2, 3-4, and ≥ 5, respectively; p < 0.0001). Neoplasia (hazard ratio [HR], 2.011), liver cirrhosis (HR, 1.562), and dementia (HR, 1.304) were the comorbidities most strongly associated with mortality.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Data were obtained from the Catalan Minimum Basic Dataset of Acute-Care Hospitals, with longitudinal follow-up through the Central Registry of Insured Persons. Comorbidities were assessed using the Charlson comorbidity index. Logistic regression and Cox proportional hazards models were used to identify predictors of long-term mortality. Among 296,554..."
+      },
+      "keyResults": [
+        "Among 296,554 hospital admissions for sepsis, 237,075 patients (79.9%) survived to hospital discharge.",
+        "Of these, 42% died (99,571) within 2 years.",
+        "Long-term mortality increased significantly with age, ranging from 5.8% in patients younger than 15 years to 62% in those older than 84 years (p < 0.0001), and with comorbidity burden (21%, 38%, 51%, and 67% for Charlson index 0, 1-2, 3-4, and ≥ 5, respectively; p < 0.0001).",
+        "Neoplasia (hazard ratio [HR], 2.011), liver cirrhosis (HR, 1.562), and dementia (HR, 1.304) were the comorbidities most strongly associated with mortality."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Long-Term Mortality in Sepsis Survivors.",
+          "The most clinically relevant signal was Among 296,554 hospital admissions for sepsis, 237,075 patients (79.9%) survived to hospital discharge..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987192/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42987192"
+    },
+    {
+      "title": "Vasoactive-Adjusted Shock Index for Risk Stratification in Adult Sepsis.",
+      "source": "Shock (Augusta, Ga.)",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "A total of 63853 patients was included. The high VASI group had markedly higher 28-day mortality (HR 2.89, 95% CI 2.72-3.08) and 90-day mortality (HR 2.85, 95% CI 2.68-3.03). Albumin showed a protective effect only in the low VASI group (OR 0.667, 95% CI 0.545-0.816), but the interaction was not significant. However, no significant heterogeneity of treatment effect was observed for hydrocortisone or albumin in different VASI trajectories. The vasoactive-adjusted shock index (VASI) has been shown to identify a refractory shock phenotype in pediatric sepsis that is associated with high mortality.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "A total of 63853 patients was included. The VASI predicted ICU mortality significantly better than the shock index and provided incremental value beyond SOFA. Two distinct VASI trajectories were identified, with low VASI trajectory that remained consistently low and high VASI trajectory characterized by an early transient rise followed by a sustained..."
+      },
+      "keyResults": [
+        "A total of 63853 patients was included.",
+        "The high VASI group had markedly higher 28-day mortality (HR 2.89, 95% CI 2.72-3.08) and 90-day mortality (HR 2.85, 95% CI 2.68-3.03).",
+        "Albumin showed a protective effect only in the low VASI group (OR 0.667, 95% CI 0.545-0.816), but the interaction was not significant.",
+        "The VASI predicted ICU mortality significantly better than the shock index and provided incremental value beyond SOFA."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Vasoactive-Adjusted Shock Index for Risk Stratification in Adult Sepsis.",
+          "The most clinically relevant signal was A total of 63853 patients was included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969437/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42969437"
+    }
+  ]
+}
