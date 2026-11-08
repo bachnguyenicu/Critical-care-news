@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "date": "November 8, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 08, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Efficacy and Safety of Ulinastatin in the Treatment of Patient",
+      "sentences": [
+        "Story 1 is about Efficacy and Safety of Ulinastatin in the Treatment of Patients with Sepsis: The ADJUST Trial..",
+        "This is a recent research article from Chest.",
+        "The clinical question is best framed as follows: in adult ICU patients with sepsis meeting Sepsis-3 criteria within 48 hours of admission were randomized (1:1) to receive intravenous UTI (400,000 IU every 8 hours) or placebo, for up to 1, how should we interpret efits in sepsis; however, conclusive clinical evidence is lacking. In patients with sepsis, does adjunctive ulinastatin, compared with placebo, reduce 28-day all-cause mortality? In this multicenter, randomized, double-blind, placebo-controlled trial, adu?",
+        "Of 347 patients randomized, 340 (169 UTI, 171 placebo) received intervention and were included in the safety analysis; after 5 post-intervention withdrawals, 335 (165 UTI, 170 placebo) were included in the intention-to-treat analysis.",
+        "At 28 days, death had occurred in 39 of 165 patients (23.6%) in the UTI group and in 39 of 170 patients (22.9%) in the placebo group (absolute difference, 0.7% [95% CI -8.4% to 9.7%]; P = .98; hazard ratio 1.03, 95% CI 0.66 to 1.61, P = .90).",
+        "Adverse events occurred in 56.8% (96/169) of UTI and 42.7% (73/171) of placebo patients (absolute difference 14.1%, 95% CI 3.6%-24.6%; P = 0.009).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Individualized mean arterial pressure during cardiac surgery T",
+      "sentences": [
+        "Story 2 is about Individualized mean arterial pressure during cardiac surgery The OPTIPAM Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from Anesthesiology.",
+        "The clinical question is best framed as follows: in adult patients undergoing elective cardiac surgery with cardiopulmonary bypass were assigned to either individualized MAP management (target within ±10% of preoperative baseline during, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 172 patients were enrolled before the trial was stopped early by the data and safety monitoring board because of increased bleeding in the individualized group.",
+        "Mean intraoperative MAP was higher with individualized management (80.6 vs 75.6 mm Hg; P<0.001), despite limited target adherence (33% of intraoperative time) and greater vasopressor use.",
+        "The primary outcome occurred in 27 of 85 patients (32%) in the individualized group and 25 of 87 (29%) in the standard group (relative risk, 1.1; 95% CI, 0.7 to 1.8; P=0.76).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Efficacy and Safety of Ulinastatin in the Treatment of Patients with Sepsis: The ADJUST Trial.",
+      "source": "Chest",
+      "date": "Nov 06 2026",
+      "type": "Recent research article",
+      "summary": "In this multicenter, randomized, double-blind, placebo-controlled trial, adult ICU patients with sepsis meeting Sepsis-3 criteria within 48 hours of admission were randomized (1:1) to receive intravenous UTI (400,000 IU every 8 hours) or placebo, for up to 10 days in addition to standard care. Of 347 patients randomized, 340 (169 UTI, 171 placebo) received intervention and were included in the safety analysis; after 5 post-intervention withdrawals, 335 (165 UTI, 170 placebo) were included in the intention-to-treat analysis. At 28 days, death had occurred in 39 of 165 patients (23.6%) in the UTI group and in 39 of 170 patients (22.9%) in the placebo group (absolute difference, 0.7% [95% CI -8.4% to 9.7%]; P = .98; hazard ratio 1.03, 95% CI 0.66 to 1.61, P = .90). Adverse events occurred in 56.8% (96/169) of UTI and 42.7% (73/171) of placebo patients (absolute difference 14.1%, 95% CI 3.6%-24.6%; P = 0.009). Urinary trypsin inhibitor (ulinastatin, UTI) has shown potential survival benefits in sepsis; however, conclusive clinical evidence is lacking.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adult ICU patients with sepsis meeting Sepsis-3 criteria within 48 hours of admission were randomized (1:1) to receive intravenous UTI (400,000 IU every 8 hours) or placebo, for up to 1",
+        "intervention": "efits in sepsis; however, conclusive clinical evidence is lacking. In patients with sepsis, does adjunctive ulinastatin,",
+        "comparator": "placebo, reduce 28-day all-cause mortality? In this multicenter, randomized, double-blind, placebo-controlled trial, adu",
+        "outcomes": "Of 347 patients randomized, 340 (169 UTI, 171 placebo) received intervention and were included in the safety analysis; after 5 post-intervention withdrawals, 335 (165 UTI, 170 placebo) were included in the intention-to-treat analysis. At 28 days, death had occurred in 39 of 165 patients (23.6%) in the UTI group and in 39 of 170 patients (22.9%) in the..."
+      },
+      "keyResults": [
+        "Of 347 patients randomized, 340 (169 UTI, 171 placebo) received intervention and were included in the safety analysis; after 5 post-intervention withdrawals, 335 (165 UTI, 170 placebo) were included in the intention-to-treat analysis.",
+        "At 28 days, death had occurred in 39 of 165 patients (23.6%) in the UTI group and in 39 of 170 patients (22.9%) in the placebo group (absolute difference, 0.7% [95% CI -8.4% to 9.7%]; P = .98; hazard ratio 1.03, 95% CI 0.66 to 1.61, P = .90).",
+        "Adverse events occurred in 56.8% (96/169) of UTI and 42.7% (73/171) of placebo patients (absolute difference 14.1%, 95% CI 3.6%-24.6%; P = 0.009).",
+        "Secondary outcomes were similar in the two groups."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Ulinastatin in the Treatment of Patients with Sepsis.",
+          "The most clinically relevant signal was Of 347 patients randomized, 340 (169 UTI, 171 placebo) received intervention and were included in the safety analysis; after 5 post-intervention....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether efits in sepsis; however, conclusive clinical evidence is lacking. In patients with sepsis, does adjunctive ulinastatin, should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994751/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42994751"
+    },
+    {
+      "title": "Individualized mean arterial pressure during cardiac surgery The OPTIPAM Randomized Clinical Trial.",
+      "source": "Anesthesiology",
+      "date": "Nov 06 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "In this single-blind, multicenter randomized clinical trial conducted in 10 tertiary centers in France, adult patients undergoing elective cardiac surgery with cardiopulmonary bypass were assigned to either individualized MAP management (target within ±10% of preoperative baseline during surgery and for 24 h postoperatively) or standard management (target MAP ≥65 mm Hg). The primary outcome was a composite of all-cause death, acute kidney injury, or prespecified neurologic complications within 7 days. A total of 172 patients were enrolled before the trial was stopped early by the data and safety monitoring board because of increased bleeding in the individualized group. Mean intraoperative MAP was higher with individualized management (80.6 vs 75.6 mm Hg; P<0.001), despite limited target adherence (33% of intraoperative time) and greater vasopressor use. The primary outcome occurred in 27 of 85 patients (32%) in the individualized group and 25 of 87 (29%) in the standard group (relative risk, 1.1; 95% CI, 0.7 to 1.8; P=0.76).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "adult patients undergoing elective cardiac surgery with cardiopulmonary bypass were assigned to either individualized MAP management (target within ±10% of preoperative baseline during",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "A total of 172 patients were enrolled before the trial was stopped early by the data and safety monitoring board because of increased bleeding in the individualized group. Mean intraoperative MAP was higher with individualized management (80.6 vs 75.6 mm Hg; P<0.001), despite limited target adherence (33% of intraoperative time) and greater vasopressor..."
+      },
+      "keyResults": [
+        "A total of 172 patients were enrolled before the trial was stopped early by the data and safety monitoring board because of increased bleeding in the individualized group.",
+        "Mean intraoperative MAP was higher with individualized management (80.6 vs 75.6 mm Hg; P<0.001), despite limited target adherence (33% of intraoperative time) and greater vasopressor use.",
+        "The primary outcome occurred in 27 of 85 patients (32%) in the individualized group and 25 of 87 (29%) in the standard group (relative risk, 1.1; 95% CI, 0.7 to 1.8; P=0.76).",
+        "Hemorrhagic complications occurred more frequently in the individualized group (18% vs 3%; P=0.003)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Individualized mean arterial pressure during cardiac surgery The OPTIPAM Randomized Clinical....",
+          "The most clinically relevant signal was A total of 172 patients were enrolled before the trial was stopped early by the data and safety monitoring board because of increased bleeding in....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993977/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42993977"
+    }
+  ]
+}
