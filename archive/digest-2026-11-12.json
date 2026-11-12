@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "date": "November 12, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 12, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Efficacy and safety of oliceridine versus remifentanil for ana",
+      "sentences": [
+        "Story 1 is about Efficacy and safety of oliceridine versus remifentanil for analgesia in mechanically ventilated critically ill adults (CO-ROAM): a multicenter, assessor-blinded, non-inferiority randomized controlled trial..",
+        "This is a randomized / clinical trial from Intensive care medicine.",
+        "The clinical question is best framed as follows: in patient-blinded, non-inferiority randomised controlled trial was conducted across 19 intensive care units (ICUs) in China, how should we interpret Efficacy and safety of oliceridine compared with remifentanil for analgesia in mechanically ventilated critically ill adults (CO-ROAM): a multicenter, assessor-blinded, non-inferiority randomized controlled trial?",
+        "Median TTR was 96.0% versus 92.3% (absolute difference 3.7%, 95% CI -0.3-5.7%).",
+        "Oliceridine was associated with fewer mild-to-moderate adverse drug reactions (ADRs), occurring at 15.9 versus 22.2 events per 100 patient-days (IRR 0.72, 95% CI 0.52-1.00, P = 0.049), and a lower rate of respiratory depression during the study period (0% vs.",
+        "Post-extubation respiratory depression (0% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - The Effect of Guanfacine on Delirium in Surgical and Trauma IC",
+      "sentences": [
+        "Story 2 is about The Effect of Guanfacine on Delirium in Surgical and Trauma ICU Patients: A Pilot Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Primary feasibility outcomes included protocol adherence (target ≥ 90%), retention (target ≥ 80%), recruitment rate (target ≥ 2 patients/mo), and data completeness (target ≥ 95%).",
+        "Most feasibility targets were achieved: protocol adherence was 100%, retention was 100%, and data completeness was 100%.",
+        "Recruitment was significantly impacted by COVID-19 pandemic disruptions, achieving 0.9 patients/wk during active recruitment periods.For clinical outcomes, in unadjusted analyses, median delirium and coma-free days were higher with guanfacine than placebo (2 [interquartile range [IQR], 0-6] vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Normocapnia Versus Mild Hypercapnia During Lung Protective Ven",
+      "sentences": [
+        "Story 3 is about Normocapnia Versus Mild Hypercapnia During Lung Protective Ventilation in Acute Respiratory Distress Syndrome: A Target Trial Emulation..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Normocapnia compared with Mild Hypercapnia During Lung Protective Ventilation in Acute Respiratory Distress Syndrome: A Target Trial Emulation?",
+        "A target trial was emulated, assigning participants in a 1:1 ratio to normocapnia (target Paco2 35-45 mm Hg) or mild hypercapnia (target Paco2 50-55 mm Hg) for 4 days following the initiation of lung protective ventilation.",
+        "Of 5367 potentially eligible subjects, 292 patients were assigned to normocapnia and 292 to mild hypercapnia.",
+        "Both groups had median pH greater than or equal to 7.33.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Efficacy and safety of oliceridine versus remifentanil for analgesia in mechanically ventilated critically ill adults (CO-ROAM): a multicenter, assessor-blinded, non-inferiority randomized controlled trial.",
+      "source": "Intensive care medicine",
+      "date": "Nov 10 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adults receiving IMV were randomised 1:1 to oliceridine or remifentanil, titrated to a Critical-Care Pain Observation Tool score below 3. The primary endpoint was time in target analgesic range (TTR; non-inferiority margin -10%). Median TTR was 96.0% versus 92.3% (absolute difference 3.7%, 95% CI -0.3-5.7%). Oliceridine was associated with fewer mild-to-moderate adverse drug reactions (ADRs), occurring at 15.9 versus 22.2 events per 100 patient-days (IRR 0.72, 95% CI 0.52-1.00, P = 0.049), and a lower rate of respiratory depression during the study period (0% vs. Post-extubation respiratory depression (0% vs.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "patient-blinded, non-inferiority randomised controlled trial was conducted across 19 intensive care units (ICUs) in China",
+        "intervention": "Efficacy and safety of oliceridine",
+        "comparator": "remifentanil for analgesia in mechanically ventilated critically ill adults (CO-ROAM): a multicenter, assessor-blinded, non-inferiority randomized controlled trial",
+        "outcomes": "Of 307 randomised patients, 304 comprised the modified intention-to-treat population (151 oliceridine, 153 remifentanil). Median TTR was 96.0% versus 92.3% (absolute difference 3.7%, 95% CI -0.3-5.7%). Oliceridine was associated with fewer mild-to-moderate adverse drug reactions (ADRs), occurring at 15.9 versus 22.2 events per 100 patient-days (IRR 0.72,..."
+      },
+      "keyResults": [
+        "Median TTR was 96.0% versus 92.3% (absolute difference 3.7%, 95% CI -0.3-5.7%).",
+        "Oliceridine was associated with fewer mild-to-moderate adverse drug reactions (ADRs), occurring at 15.9 versus 22.2 events per 100 patient-days (IRR 0.72, 95% CI 0.52-1.00, P = 0.049), and a lower rate of respiratory depression during the study period (0% vs.",
+        "Post-extubation respiratory depression (0% vs.",
+        "7.9%, P = 0.005) and analgesic-sedation costs were both lower with oliceridine."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether oliceridine versus remifentanil for analgesia in mechanically ventilated critically ill....",
+          "The most clinically relevant signal was Median TTR was 96.0% versus 92.3% (absolute difference 3.7%, 95% CI -0.3-5.7%)..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Efficacy and safety of oliceridine should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised non-inferiority trial CO-ROAM: oliceridine versus remifentanil for analgesia during mechanical ventilation Intensive Care Med · Added 11 Nov 2026 ↗",
+          "url": "https://doi.org/10.1007/s00134-026-08643-8"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007421/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43007421"
+    },
+    {
+      "title": "The Effect of Guanfacine on Delirium in Surgical and Trauma ICU Patients: A Pilot Randomized Clinical Trial.",
+      "source": "Critical care medicine",
+      "date": "Nov 11 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "One hundred critically ill adults with Confusion Assessment Method-ICU-confirmed delirium randomized 1:1 to guanfacine or placebo. Patients received 2 mg guanfacine or matching placebo nightly for up to 14 days, or until ICU discharge or delirium resolution. Primary feasibility outcomes included protocol adherence (target ≥ 90%), retention (target ≥ 80%), recruitment rate (target ≥ 2 patients/mo), and data completeness (target ≥ 95%). Most feasibility targets were achieved: protocol adherence was 100%, retention was 100%, and data completeness was 100%. Recruitment was significantly impacted by COVID-19 pandemic disruptions, achieving 0.9 patients/wk during active recruitment periods.For clinical outcomes, in unadjusted analyses, median delirium and coma-free days were higher with guanfacine than placebo (2 [interquartile range [IQR], 0-6] vs.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Primary feasibility outcomes included protocol adherence (target ≥ 90%), retention (target ≥ 80%), recruitment rate (target ≥ 2 patients/mo), and data completeness (target ≥ 95%). Most feasibility targets were achieved: protocol adherence was 100%, retention was 100%, and data completeness was 100%. Recruitment was significantly impacted by COVID-19..."
+      },
+      "keyResults": [
+        "Primary feasibility outcomes included protocol adherence (target ≥ 90%), retention (target ≥ 80%), recruitment rate (target ≥ 2 patients/mo), and data completeness (target ≥ 95%).",
+        "Most feasibility targets were achieved: protocol adherence was 100%, retention was 100%, and data completeness was 100%.",
+        "Recruitment was significantly impacted by COVID-19 pandemic disruptions, achieving 0.9 patients/wk during active recruitment periods.For clinical outcomes, in unadjusted analyses, median delirium and coma-free days were higher with guanfacine than placebo (2 [interquartile range [IQR], 0-6] vs.",
+        "No hemodynamic differences or safety concerns were observed."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether The Effect of Guanfacine on Delirium in Surgical and Trauma ICU Patients.",
+          "The most clinically relevant signal was Primary feasibility outcomes included protocol adherence (target ≥ 90%), retention (target ≥ 80%), recruitment rate (target ≥ 2 patients/mo), and....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012620/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43012620"
+    },
+    {
+      "title": "Normocapnia Versus Mild Hypercapnia During Lung Protective Ventilation in Acute Respiratory Distress Syndrome: A Target Trial Emulation.",
+      "source": "Critical care medicine",
+      "date": "Nov 11 2026",
+      "type": "Recent research article",
+      "summary": "A target trial was emulated, assigning participants in a 1:1 ratio to normocapnia (target Paco2 35-45 mm Hg) or mild hypercapnia (target Paco2 50-55 mm Hg) for 4 days following the initiation of lung protective ventilation. Of 5367 potentially eligible subjects, 292 patients were assigned to normocapnia and 292 to mild hypercapnia. Both groups had median pH greater than or equal to 7.33. Death within 90 days occurred in 84 of 292 patients (28.8%) in the normocapnia group and in 84 of 292 patients (28.8%) in the mild hypercapnia group (log-rank p = 0.842). This trial emulation aimed to answer the question: Among patients with acute respiratory distress syndrome (ARDS) who receive lung protective ventilation with low tidal volume, is normocapnia through an increase in respiratory rate associated with lower mortality than mild hypercapnia?",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Normocapnia",
+        "comparator": "Mild Hypercapnia During Lung Protective Ventilation in Acute Respiratory Distress Syndrome: A Target Trial Emulation",
+        "outcomes": "A target trial was emulated, assigning participants in a 1:1 ratio to normocapnia (target Paco2 35-45 mm Hg) or mild hypercapnia (target Paco2 50-55 mm Hg) for 4 days following the initiation of lung protective ventilation. The primary outcome was 90-day in-hospital mortality. Of 5367 potentially eligible subjects, 292 patients were assigned to..."
+      },
+      "keyResults": [
+        "A target trial was emulated, assigning participants in a 1:1 ratio to normocapnia (target Paco2 35-45 mm Hg) or mild hypercapnia (target Paco2 50-55 mm Hg) for 4 days following the initiation of lung protective ventilation.",
+        "Of 5367 potentially eligible subjects, 292 patients were assigned to normocapnia and 292 to mild hypercapnia.",
+        "Both groups had median pH greater than or equal to 7.33.",
+        "Death within 90 days occurred in 84 of 292 patients (28.8%) in the normocapnia group and in 84 of 292 patients (28.8%) in the mild hypercapnia group (log-rank p = 0.842)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Normocapnia Versus Mild Hypercapnia During Lung Protective Ventilation in Acute Respiratory....",
+          "The most clinically relevant signal was A target trial was emulated, assigning participants in a 1:1 ratio to normocapnia (target Paco2 35-45 mm Hg) or mild hypercapnia (target Paco2....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Normocapnia should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012617/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43012617"
+    }
+  ]
+}
