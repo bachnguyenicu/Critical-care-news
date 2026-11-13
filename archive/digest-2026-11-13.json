@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 2,
+  "date": "November 13, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 13, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - National Early Warning Score 2-Guided Sepsis Hour-1 Bundle Car",
+      "sentences": [
+        "Story 1 is about National Early Warning Score 2-Guided Sepsis Hour-1 Bundle Care for Adults With Suspected Sepsis in the Emergency Department: A Hybrid Type 1 Effectiveness-Implementation Stepped-Wedge Randomized Controlled Trial Pilot Study (NEWS-1 TRIPS)..",
+        "This is a randomized / clinical trial from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "All progression criteria were met, except for suboptimal overall bundle compliance (56.1%).",
+        "Exploratory intention-to-treat analysis (standard care group, n = 102; NEWS-1 group, n = 98) showed no significant between-group difference in 30-day all-cause mortality (standard care group, 3.9%; NEWS-1 group, 9.2%; absolute risk difference, 5.3%; 95% CI -1.6% to 12.1%); in-hospital, 90-day all-cause, or sepsis-related mortality; need for mechanical ventilation, renal replacement therapy, intensive care, or surgery; or ventilator-free days and adverse events.",
+        "The primary outcome was the feasibility of a full-scale hybrid trial, evaluated based on 14 progression criteria.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Global Prevalence of Obstetric Causes of Critical Illness in P",
+      "sentences": [
+        "Story 2 is about Global Prevalence of Obstetric Causes of Critical Illness in Pregnancy: A Systematic Review and Meta-Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in critically ill pregnant women admitted to the ICU, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The pooled prevalence was estimated using a random-effects model with 95% CIs.",
+        "Of the 3,735 total records, 50 studies met the eligibility criteria, encompassing 7,756,232 women receiving obstetric care in tertiary hospitals across 20 countries, with 49,299 ICU admissions.",
+        "Globally, 1.0% (95% CI, 0.8-1.3%) of pregnant and postpartum women experience critical illness and require admission to an ICU.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Composite Endpoints in Critical Care Delirium Trials.",
+      "sentences": [
+        "Story 3 is about Composite Endpoints in Critical Care Delirium Trials..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in critically ill patients, in which a person's attention and awareness change acutely, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Given these challenges, delirium trials have adopted one of two composite endpoints: delirium- and coma-free days, defined as the number of days alive without delirium or coma for both survivors and nonsurvivors, and an alternative composite that ranks death as the worst state and orders days alive without delirium or coma among survivors.",
+        "Delirium is an abnormal mental status, commonly occurring among critically ill patients, in which a person's attention and awareness change acutely.",
+        "Delirium is associated with negative outcomes, including death.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "National Early Warning Score 2-Guided Sepsis Hour-1 Bundle Care for Adults With Suspected Sepsis in the Emergency Department: A Hybrid Type 1 Effectiveness-Implementation Stepped-Wedge Randomized Controlled Trial Pilot Study (NEWS-1 TRIPS).",
+      "source": "Critical care medicine",
+      "date": "Nov 12 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Adult patients of 18 years or older with a clinical diagnosis of infection requiring hospitalization and a NEWS-2 greater than or equal to 5. Implementation of the Hour-1 Bundle when NEWS-2 was greater than or equal to 5. All progression criteria were met, except for suboptimal overall bundle compliance (56.1%). Exploratory intention-to-treat analysis (standard care group, n = 102; NEWS-1 group, n = 98) showed no significant between-group difference in 30-day all-cause mortality (standard care group, 3.9%; NEWS-1 group, 9.2%; absolute risk difference, 5.3%; 95% CI -1.6% to 12.1%); in-hospital, 90-day all-cause, or sepsis-related mortality; need for mechanical ventilation, renal replacement therapy, intensive care, or surgery; or ventilator-free days and adverse events. To increase the uptake of the Surviving Sepsis Campaign Hour-1 Bundle, we implemented a novel sepsis care model (National Early Warning Score [NEWS]-1 care), in which the Hour-1 Bundle is objectively triggered by a high NEWS-2 (≥ 5).",
+      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The primary outcome was the feasibility of a full-scale hybrid trial, evaluated based on 14 progression criteria. Preliminary clinical effectiveness and safety were assessed, alongside implementation barriers and facilitators. During the implementation phase, compliance with lactate, blood culture, and antibiotics increased significantly. All progression..."
+      },
+      "keyResults": [
+        "All progression criteria were met, except for suboptimal overall bundle compliance (56.1%).",
+        "Exploratory intention-to-treat analysis (standard care group, n = 102; NEWS-1 group, n = 98) showed no significant between-group difference in 30-day all-cause mortality (standard care group, 3.9%; NEWS-1 group, 9.2%; absolute risk difference, 5.3%; 95% CI -1.6% to 12.1%); in-hospital, 90-day all-cause, or sepsis-related mortality; need for mechanical ventilation, renal replacement therapy, intensive care, or surgery; or ventilator-free days and adverse events.",
+        "The primary outcome was the feasibility of a full-scale hybrid trial, evaluated based on 14 progression criteria.",
+        "Preliminary clinical effectiveness and safety were assessed, alongside implementation barriers and facilitators."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether National Early Warning Score 2-Guided Sepsis Hour-1 Bundle Care for Adults With Suspected....",
+          "The most clinically relevant signal was All progression criteria were met, except for suboptimal overall bundle compliance (56.1%)..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "absolute risk",
+            "meaning": "the actual event rate difference patients may experience"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018426/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43018426"
+    },
+    {
+      "title": "Global Prevalence of Obstetric Causes of Critical Illness in Pregnancy: A Systematic Review and Meta-Analysis.",
+      "source": "Critical care medicine",
+      "date": "Nov 12 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "The pooled prevalence was estimated using a random-effects model with 95% CIs. Of the 3,735 total records, 50 studies met the eligibility criteria, encompassing 7,756,232 women receiving obstetric care in tertiary hospitals across 20 countries, with 49,299 ICU admissions. Globally, 1.0% (95% CI, 0.8-1.3%) of pregnant and postpartum women experience critical illness and require admission to an ICU. The frequency varies according to the country's income levels, with the highest in low-income countries (4.1%) and the lowest in high-income countries (0.5%). Notably, 72.3% of ICU admissions were attributed to known obstetric causes, primarily obstetric hemorrhage (23.3%) and hypertension in pregnancy (26.9%).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "critically ill pregnant women admitted to the ICU",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "The pooled prevalence was estimated using a random-effects model with 95% CIs.",
+        "Of the 3,735 total records, 50 studies met the eligibility criteria, encompassing 7,756,232 women receiving obstetric care in tertiary hospitals across 20 countries, with 49,299 ICU admissions.",
+        "Globally, 1.0% (95% CI, 0.8-1.3%) of pregnant and postpartum women experience critical illness and require admission to an ICU.",
+        "The frequency varies according to the country's income levels, with the highest in low-income countries (4.1%) and the lowest in high-income countries (0.5%)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Global Prevalence of Obstetric Causes of Critical Illness in Pregnancy.",
+          "The most clinically relevant signal was The pooled prevalence was estimated using a random-effects model with 95% CIs..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018419/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43018419"
+    },
+    {
+      "title": "Composite Endpoints in Critical Care Delirium Trials.",
+      "source": "Critical care medicine",
+      "date": "Nov 11 2026",
+      "type": "Recent research article",
+      "summary": "Given these challenges, delirium trials have adopted one of two composite endpoints: delirium- and coma-free days, defined as the number of days alive without delirium or coma for both survivors and nonsurvivors, and an alternative composite that ranks death as the worst state and orders days alive without delirium or coma among survivors. Delirium is an abnormal mental status, commonly occurring among critically ill patients, in which a person's attention and awareness change acutely. Delirium is associated with negative outcomes, including death. Furthermore, a longer duration of delirium is associated with long-term cognitive impairment in survivors of critical illness. Hence, there is a need for novel interventions that reduce the duration of delirium; however, measuring and analyzing \"duration of delirium\" as an endpoint in randomized trials is challenging due to the episodic nature of delirium and the competing events of coma and death, which can bias analyses of duration of delirium.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "critically ill patients, in which a person's attention and awareness change acutely",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Given these challenges, delirium trials have adopted one of two composite endpoints: delirium- and coma-free days, defined as the number of days alive without delirium or coma for both survivors and nonsurvivors, and an alternative composite that ranks death as the worst state and orders days alive without delirium or coma among survivors.",
+        "Delirium is an abnormal mental status, commonly occurring among critically ill patients, in which a person's attention and awareness change acutely.",
+        "Delirium is associated with negative outcomes, including death.",
+        "Furthermore, a longer duration of delirium is associated with long-term cognitive impairment in survivors of critical illness."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Composite Endpoints in Critical Care Delirium Trials.",
+          "The most clinically relevant signal was Given these challenges, delirium trials have adopted one of two composite endpoints: delirium- and coma-free days, defined as the number of days....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012619/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43012619"
+    }
+  ]
+}
