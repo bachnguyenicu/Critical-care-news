@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 2,
+  "date": "November 14, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 14, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Language Concordance in Critical Care: A Systematic Review.",
+      "sentences": [
+        "Story 1 is about Language Concordance in Critical Care: A Systematic Review..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in patient's preferred language and the language used by their care team, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female).",
+        "Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services.",
+        "Less is known about outcomes associated with language concordant care.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - ICU utilization, capacity strain, and mortality before, during",
+      "sentences": [
+        "Story 2 is about ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic..",
+        "This is a recent research article from Annals of the American Thoracic Society.",
+        "The clinical question is best framed as follows: in patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001.",
+        "Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001).",
+        "Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onse",
+      "sentences": [
+        "Story 3 is about Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA network open.",
+        "The clinical question is best framed as follows: in intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation, how should we interpret 8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninfe?",
+        "The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment.",
+        "The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
+        "Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninferiority margin.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Language Concordance in Critical Care: A Systematic Review.",
+      "source": "Critical care medicine",
+      "date": "Nov 13 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female). Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services. Less is known about outcomes associated with language concordant care. Language concordance is a linguistic match between a patient's preferred language and the language used by their care team. We undertook a systematic review to examine the measurement and impact of language concordant care delivery during critical illness, inclusive of the critical care recovery period after hospitalization.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "patient's preferred language and the language used by their care team",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female).",
+        "Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services.",
+        "Less is known about outcomes associated with language concordant care.",
+        "Language concordance is a linguistic match between a patient's preferred language and the language used by their care team."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Language Concordance in Critical Care.",
+          "The most clinically relevant signal was Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023815/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43023815"
+    },
+    {
+      "title": "ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic.",
+      "source": "Annals of the American Thoracic Society",
+      "date": "Nov 13 2026",
+      "type": "Recent research article",
+      "summary": "At 26 U.S. hospitals across two health systems, 2013-2024, we performed a retrospective cohort study among high-acuity patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department. ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001. Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001). Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs. 14% [13-14%]) and ARF (12% [11-12%] vs.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001. Increasing..."
+      },
+      "keyResults": [
+        "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001.",
+        "Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001).",
+        "Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs.",
+        "14% [13-14%]) and ARF (12% [11-12%] vs."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic.",
+          "The most clinically relevant signal was ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153)....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021559/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43021559"
+    },
+    {
+      "title": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
+      "source": "JAMA network open",
+      "date": "Nov 02 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "This randomized multicenter noninferiority clinical trial was conducted in 17 Italian neonatal intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation. Enrolled infants were randomly allocated to receive either PCT- and P-SEP-guided antibiotic treatment, administered if PCT and P-SEP levels exceeded prespecified thresholds, or universal antibiotic treatment for EOS. The composite primary outcome was defined as survival without late-onset sepsis (LOS), bronchopulmonary dysplasia, grade 3 or 4 intraventricular hemorrhage (IVH), grade 2 or higher necrotizing enterocolitis (NEC), periventricular leukomalacia (PVL), or stage 3 or higher retinopathy of prematurity (ROP). The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment. The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
+      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "pico": {
+        "population": "intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation",
+        "intervention": "8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment",
+        "comparator": "universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninfe",
+        "outcomes": "The composite primary outcome was defined as survival without late-onset sepsis (LOS), bronchopulmonary dysplasia, grade 3 or 4 intraventricular hemorrhage (IVH), grade 2 or higher necrotizing enterocolitis (NEC), periventricular leukomalacia (PVL), or stage 3 or higher retinopathy of prematurity (ROP). The prespecified noninferiority margin was -5..."
+      },
+      "keyResults": [
+        "The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment.",
+        "The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
+        "Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninferiority margin.",
+        "The risk differences for LOS, IVH, NEC, PVL, ROP, and death were not significantly different between the groups."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants.",
+          "The most clinically relevant signal was The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "noninferiority",
+            "meaning": "testing whether a treatment is not unacceptably worse"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether 8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018973/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43018973"
+    }
+  ]
+}
