@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "November 14, 2026",
+  "date": "November 15, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 14, 2026.",
+        "Welcome to Critical Care Daily for November 15, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Language Concordance in Critical Care: A Systematic Review.",
+      "heading": "Story 1 - Resuscitation strategies incorporating peripheral perfusion ta",
       "sentences": [
-        "Story 1 is about Language Concordance in Critical Care: A Systematic Review..",
-        "This is a systematic review / meta-analysis from Critical care medicine.",
-        "The clinical question is best framed as follows: in patient's preferred language and the language used by their care team, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female).",
-        "Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services.",
-        "Less is known about outcomes associated with language concordant care.",
+        "Story 1 is about Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes compared with usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa?",
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - ICU utilization, capacity strain, and mortality before, during",
+      "heading": "Story 2 - The association between normal capillary refill time and 28-da",
       "sentences": [
-        "Story 2 is about ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic..",
-        "This is a recent research article from Annals of the American Thoracic Society.",
-        "The clinical question is best framed as follows: in patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001.",
-        "Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001).",
-        "Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs.",
+        "Story 2 is about The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in patients from the ANDROMEDA-SHOCK 1 and 2 trials, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onse",
+      "heading": "Story 3 - Circulating Cell-Free Mitochondrial DNA, Delirium, and Long-Te",
       "sentences": [
-        "Story 3 is about Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial..",
-        "This is a randomized / clinical trial from JAMA network open.",
-        "The clinical question is best framed as follows: in intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation, how should we interpret 8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninfe?",
-        "The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment.",
-        "The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
-        "Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninferiority margin.",
+        "Story 3 is about Circulating Cell-Free Mitochondrial DNA, Delirium, and Long-Term Cognitive Impairment in Critically Ill Adults With Sepsis: A Prospective Cohort Study..",
+        "This is a cohort study from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret l Status. During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA compared with those at the 25th percentile (odds ratio [OR], 0.93; 95% CI, 0.86-0.99; p = 0.048). ccf-mtDNA was marginally associated?",
+        "During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA compared with those at the 25th percentile (odds ratio [OR], 0.93; 95% CI, 0.86-0.99; p = 0.048). ccf-mtDNA was marginally associated with in-hospital mortality (hazard ratio, 1.09; 95% CI, 0.99-1.20; p = 0.08), but was not associated with coma (OR, 0.98; 95% CI, 0.90-1.05; p = 0.31) or 3-month (beta, 0.23; 95% CI, -1.58 to 2.05; p = 0.80) and 12-month (beta, -0.36; 95% CI, -2.13 to 1.42; p = 0.69) cognitive outcomes.",
+        "We measured ccf-mtDNA in plasma collected on multiple days (study days 1, 3, and 5) during sepsis and assessed participants bid for delirium and coma using the validated Confusion Assessment Method for the ICU and Richmond Agitation-Sedation Scale.",
+        "We then assessed survivors' cognitive function 3 and 12 months after hospital discharge using the Repeatable Battery for the Assessment of Neuropsychological Status.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,42 +65,38 @@
   ],
   "articles": [
     {
-      "title": "Language Concordance in Critical Care: A Systematic Review.",
-      "source": "Critical care medicine",
+      "title": "Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
       "date": "Nov 13 2026",
       "type": "Systematic review / meta-analysis",
-      "summary": "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female). Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services. Less is known about outcomes associated with language concordant care. Language concordance is a linguistic match between a patient's preferred language and the language used by their care team. We undertook a systematic review to examine the measurement and impact of language concordant care delivery during critical illness, inclusive of the critical care recovery period after hospitalization.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "summary": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE). No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days. A mortality reduction was not demonstrated, although clinically important benefit or harm cannot be excluded.",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
       "pico": {
-        "population": "patient's preferred language and the language used by their care team",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes",
+        "comparator": "usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa",
+        "outcomes": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were..."
       },
       "keyResults": [
-        "Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and 55,082 [43.1%] female).",
-        "Language barriers are associated with differences in care delivery processes and outcomes in critical care settings, with differences despite language assistance services.",
-        "Less is known about outcomes associated with language concordant care.",
-        "Language concordance is a linguistic match between a patient's preferred language and the language used by their care team."
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
+        "No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days."
       ],
       "criticalAppraisal": [
         "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
         "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Language Concordance in Critical Care.",
-          "The most clinically relevant signal was Of 1,682 unique records identified, 11 were eligible for inclusion (128,181 total patients; mean [sd] age, 68.4 [17.9 yr]; 72,872 [56.9%] male and....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "This study examined whether Resuscitation strategies incorporating peripheral perfusion targets in septic shock.",
+          "The most clinically relevant signal was Five RCTs involving 2180 patients with septic shock were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
           "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -114,34 +110,34 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023815/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025024/",
       "urlLabel": "View on PubMed",
-      "pmid": "43023815"
+      "pmid": "43025024"
     },
     {
-      "title": "ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic.",
-      "source": "Annals of the American Thoracic Society",
+      "title": "The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation.",
+      "source": "Journal of critical care",
       "date": "Nov 13 2026",
       "type": "Recent research article",
-      "summary": "At 26 U.S. hospitals across two health systems, 2013-2024, we performed a retrospective cohort study among high-acuity patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department. ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001. Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001). Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs. 14% [13-14%]) and ARF (12% [11-12%] vs.",
+      "summary": "This post-hoc analysis included all randomized patients from the ANDROMEDA-SHOCK 1 and 2 trials. CRT was classified as normal (≤3 s) or abnormal (>3 s). The primary outcome was 28-day mortality, analyzed using Cox proportional hazards regression and reported as hazard ratios (HR) with 95% confidence intervals (CI). Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "patients with sepsis and/or acute respiratory failure (ARF) who did not require mechanical ventilation or vasopressor support in the emergency department",
+        "population": "patients from the ANDROMEDA-SHOCK 1 and 2 trials",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001. Increasing..."
+        "outcomes": "Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L. Patients with..."
       },
       "keyResults": [
-        "ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153) 24% (24-24%) pre-pandemic, 16% (15-16%) pandemic, and 14% (14-14%) post-pandemic; ARF (n = 63,290) 36% (35-36%) pre-pandemic, 25% (25-26%) pandemic, and 23% (22-24%) post-pandemic; all p < 0.001.",
-        "Increasing hospital capacity strain was associated with reduced predicted probability of ICU admission (sepsis: 29% [29-30%] ICU admission at lowest strain to 9% [8-9%] at highest strain; ARF: 51% [49-52%] at lowest strain to 15% [14-16%] at highest strain; all p < 0.001).",
-        "Compared to the pre-pandemic era, in the post-pandemic era patients with sepsis (11% [11-11%] vs.",
-        "14% [13-14%]) and ARF (12% [11-12%] vs."
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
+        "34.3%; HR 0.61, 95% CI 0.50-0.74; p < 0.001) similarly for 90-day mortality (25.9% versus 40.6%; HR 0.61, 95% CI 0.52-0.73; p < 0.001)."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice."
@@ -149,11 +145,70 @@
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether ICU utilization, capacity strain, and mortality before, during, and after the COVID-19 pandemic.",
-          "The most clinically relevant signal was ICU admission rates decreased markedly from the pre-pandemic to the pandemic era and were sustained in the post-pandemic era: sepsis (n = 136,153)....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "This study examined whether The association between normal capillary refill time and 28-day mortality in septic shock....",
+          "The most clinically relevant signal was Among 1885 patients, 691 (36.7%) had normal baseline CRT..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025026/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43025026"
+    },
+    {
+      "title": "Circulating Cell-Free Mitochondrial DNA, Delirium, and Long-Term Cognitive Impairment in Critically Ill Adults With Sepsis: A Prospective Cohort Study.",
+      "source": "Critical care medicine",
+      "date": "Nov 11 2026",
+      "type": "Cohort study",
+      "summary": "Four hundred eighty patients with sepsis plus shock and/or acute respiratory failure. During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA compared with those at the 25th percentile (odds ratio [OR], 0.93; 95% CI, 0.86-0.99; p = 0.048). ccf-mtDNA was marginally associated with in-hospital mortality (hazard ratio, 1.09; 95% CI, 0.99-1.20; p = 0.08), but was not associated with coma (OR, 0.98; 95% CI, 0.90-1.05; p = 0.31) or 3-month (beta, 0.23; 95% CI, -1.58 to 2.05; p = 0.80) and 12-month (beta, -0.36; 95% CI, -2.13 to 1.42; p = 0.69) cognitive outcomes. During sepsis, circulating cell-free mitochondrial DNA (ccf-mtDNA) is released and elevated due to cell injury, augments the immune response, and may contribute to organ dysfunction. Delirium is common and deleterious during sepsis, but little is known about the relationship between mitochondrial injury and delirium during sepsis. We sought therefore to examine associations between ccf-mtDNA and delirium and other clinical outcomes during sepsis.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "l Status. During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA",
+        "comparator": "those at the 25th percentile (odds ratio [OR], 0.93; 95% CI, 0.86-0.99; p = 0.048). ccf-mtDNA was marginally associated",
+        "outcomes": "We measured ccf-mtDNA in plasma collected on multiple days (study days 1, 3, and 5) during sepsis and assessed participants bid for delirium and coma using the validated Confusion Assessment Method for the ICU and Richmond Agitation-Sedation Scale. We then assessed survivors' cognitive function 3 and 12 months after hospital discharge using the Repeatable..."
+      },
+      "keyResults": [
+        "During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA compared with those at the 25th percentile (odds ratio [OR], 0.93; 95% CI, 0.86-0.99; p = 0.048). ccf-mtDNA was marginally associated with in-hospital mortality (hazard ratio, 1.09; 95% CI, 0.99-1.20; p = 0.08), but was not associated with coma (OR, 0.98; 95% CI, 0.90-1.05; p = 0.31) or 3-month (beta, 0.23; 95% CI, -1.58 to 2.05; p = 0.80) and 12-month (beta, -0.36; 95% CI, -2.13 to 1.42; p = 0.69) cognitive outcomes.",
+        "We measured ccf-mtDNA in plasma collected on multiple days (study days 1, 3, and 5) during sepsis and assessed participants bid for delirium and coma using the validated Confusion Assessment Method for the ICU and Richmond Agitation-Sedation Scale.",
+        "We then assessed survivors' cognitive function 3 and 12 months after hospital discharge using the Repeatable Battery for the Assessment of Neuropsychological Status."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Circulating Cell-Free Mitochondrial DNA, Delirium, and Long-Term Cognitive Impairment in....",
+          "The most clinically relevant signal was During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA compared with those at the 25th....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
         ],
         "vocabulary": [
           {
@@ -169,71 +224,15 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether l Status. During sepsis, the adjusted odds of delirium were 7% lower for individuals at the 75th percentile of ccf-mtDNA should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021559/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012576/",
       "urlLabel": "View on PubMed",
-      "pmid": "43021559"
-    },
-    {
-      "title": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
-      "source": "JAMA network open",
-      "date": "Nov 02 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "This randomized multicenter noninferiority clinical trial was conducted in 17 Italian neonatal intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation. Enrolled infants were randomly allocated to receive either PCT- and P-SEP-guided antibiotic treatment, administered if PCT and P-SEP levels exceeded prespecified thresholds, or universal antibiotic treatment for EOS. The composite primary outcome was defined as survival without late-onset sepsis (LOS), bronchopulmonary dysplasia, grade 3 or 4 intraventricular hemorrhage (IVH), grade 2 or higher necrotizing enterocolitis (NEC), periventricular leukomalacia (PVL), or stage 3 or higher retinopathy of prematurity (ROP). The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment. The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
-      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
-      "pico": {
-        "population": "intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation",
-        "intervention": "8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment",
-        "comparator": "universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninfe",
-        "outcomes": "The composite primary outcome was defined as survival without late-onset sepsis (LOS), bronchopulmonary dysplasia, grade 3 or 4 intraventricular hemorrhage (IVH), grade 2 or higher necrotizing enterocolitis (NEC), periventricular leukomalacia (PVL), or stage 3 or higher retinopathy of prematurity (ROP). The prespecified noninferiority margin was -5..."
-      },
-      "keyResults": [
-        "The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received procalcitonin- and presepsin-guided treatment and 140 received universal antibiotic treatment.",
-        "The primary outcome did not differ between the PCT- and P-SEP-guided treatment group and the universal antibiotic treatment groups (76 of 143 [53%] vs 77 of 140 [55%]; risk difference, -1.8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32).",
-        "Noninferiority of PCT- and P-SEP-guided treatment compared with universal treatment was not demonstrated, because the lower bound of the 2-sided 90% CI crossed the prespecified noninferiority margin.",
-        "The risk differences for LOS, IVH, NEC, PVL, ROP, and death were not significantly different between the groups."
-      ],
-      "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
-      ],
-      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants.",
-          "The most clinically relevant signal was The study enrolled and randomized 283 very preterm infants (mean [SD] gestational age, 30.2 [2.2] weeks; 161 girls [57%]); 143 received....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
-          },
-          {
-            "term": "noninferiority",
-            "meaning": "testing whether a treatment is not unacceptably worse"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether 8 percentage points; 90% CI, -11.9 to 8.3 percentage points; P = .32). Noninferiority of PCT- and P-SEP-guided treatment should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018973/",
-      "urlLabel": "View on PubMed",
-      "pmid": "43018973"
+      "pmid": "43012576"
     }
   ]
 }
