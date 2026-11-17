@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 2,
+  "date": "November 17, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 17, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Association of Care Intensity With Survival and Long-Term Cost",
+      "sentences": [
+        "Story 1 is about Association of Care Intensity With Survival and Long-Term Cost-Effectiveness in Sepsis Without Initial Organ Support After Emergency Admission: A Multicenter Cohort Study in Japan..",
+        "This is a cohort study from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "In-hospital mortality was estimated as risk ratios (RRs) with 95% CIs using modified Poisson regression.",
+        "Among 28,211 patients (GW, 18,349; HDU, 8,706; ICU, 1,156), ICU and HDU admissions were not associated with lower mortality overall (HDU vs.",
+        "GW; RR, 0.99; 95% CI, 0.92-1.06 and ICU vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - A Telemedicine Intervention for Spontaneous Awakening and Brea",
+      "sentences": [
+        "Story 2 is about A Telemedicine Intervention for Spontaneous Awakening and Breathing Trials in Small and Large ICUs..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Linear mixed effects models were used to examine the effect of the intervention on each outcome stratified by ICU size (large ≥ 15 beds or small < 15 beds).",
+        "Spontaneous awakening trial documentation improved over time throughout the entire period, but the rate of improvement increased significantly after the telemedicine intervention (preintervention slope: 0.2% increase per 30 d; 95% CI, -0.2% to 0.6% and postintervention slope: 1.4% increase per 30 d; 95% CI, 1.0% to 1.9%; p < 0.001 for intervention-time interaction).",
+        "The telemedicine intervention was associated with a step increase in spontaneous breathing trial documentation in small ICUs (absolute increase, 12.8%; 95% CI, 8.7-16.9%) but not in large ICUs (absolute increase, -0.1%; 95% CI, -1.8% to 1.6%; p = 0.02 for intervention-ICU size interaction).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Effect of discontinuing antihypertensives on perioperative hyp",
+      "sentences": [
+        "Story 3 is about Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial..",
+        "This is a randomized / clinical trial from BMJ (Clinical research ed.).",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "2012 patients (mean age 68.8 years; 54.4% male) completed the study: 1004 were included in the antihypertensive group and 1008 in the no antihypertensive group.",
+        "The incidence of perioperative hypotension was lower in the no antihypertensive group (314/1008, 31.2%) versus antihypertensive group (457/1004, 45.5%): adjusted odds ratio 0.52 (95% confidence interval (CI) 0.43 to 0.63); absolute risk difference -14.4% (95% CI -18.5% to -10.1%); P<0.001.",
+        "The duration of hypotension and requirement for a vasopressor were both reduced in the no antihypertensive group: adjusted mean difference -1.3 minutes (95% CI -1.8 to -0.8 minutes) and 28.5% v 41.1%; adjusted odds ratio 0.54 (95% CI 0.44 to 0.66).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Association of Care Intensity With Survival and Long-Term Cost-Effectiveness in Sepsis Without Initial Organ Support After Emergency Admission: A Multicenter Cohort Study in Japan.",
+      "source": "Critical care medicine",
+      "date": "Nov 13 2026",
+      "type": "Cohort study",
+      "summary": "To identify subgroups of patients hospitalized for community-acquired sepsis without initial organ support who may derive survival and cost-effectiveness benefits from ICU or high-dependency care unit (HDU) admission. Adults admitted via emergency ambulance for community-acquired sepsis not requiring extracorporeal membrane oxygenation, mechanical ventilation, catecholamines, or renal replacement therapy before or on the antimicrobial-initiation day. In-hospital mortality was estimated as risk ratios (RRs) with 95% CIs using modified Poisson regression. Among 28,211 patients (GW, 18,349; HDU, 8,706; ICU, 1,156), ICU and HDU admissions were not associated with lower mortality overall (HDU vs. GW; RR, 0.99; 95% CI, 0.92-1.06 and ICU vs.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "We compared ICU and HDU admissions, each vs. general ward (GW) admission, balancing patient characteristics using overlap propensity-score weighting. In-hospital mortality was estimated as risk ratios (RRs) with 95% CIs using modified Poisson regression. Cost-effectiveness was measured by the incremental cost-effectiveness ratio (ICER) in 3-year costs per..."
+      },
+      "keyResults": [
+        "In-hospital mortality was estimated as risk ratios (RRs) with 95% CIs using modified Poisson regression.",
+        "Among 28,211 patients (GW, 18,349; HDU, 8,706; ICU, 1,156), ICU and HDU admissions were not associated with lower mortality overall (HDU vs.",
+        "GW; RR, 0.99; 95% CI, 0.92-1.06 and ICU vs.",
+        "GW; RR, 1.06; 95% CI, 0.92-1.22)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Care Intensity With Survival and Long-Term Cost-Effectiveness in Sepsis Without Initial....",
+          "The most clinically relevant signal was In-hospital mortality was estimated as risk ratios (RRs) with 95% CIs using modified Poisson regression..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024934/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43024934"
+    },
+    {
+      "title": "A Telemedicine Intervention for Spontaneous Awakening and Breathing Trials in Small and Large ICUs.",
+      "source": "Critical care medicine",
+      "date": "Nov 12 2026",
+      "type": "Recent research article",
+      "summary": "A total of 8909 patients of 18 years or older receiving mechanical ventilation via endotracheal tube for more than 1 calendar day between October 01, 2022 and September 20, 2024. Linear mixed effects models were used to examine the effect of the intervention on each outcome stratified by ICU size (large ≥ 15 beds or small < 15 beds). Spontaneous awakening trial documentation improved over time throughout the entire period, but the rate of improvement increased significantly after the telemedicine intervention (preintervention slope: 0.2% increase per 30 d; 95% CI, -0.2% to 0.6% and postintervention slope: 1.4% increase per 30 d; 95% CI, 1.0% to 1.9%; p < 0.001 for intervention-time interaction). The telemedicine intervention was associated with a step increase in spontaneous breathing trial documentation in small ICUs (absolute increase, 12.8%; 95% CI, 8.7-16.9%) but not in large ICUs (absolute increase, -0.1%; 95% CI, -1.8% to 1.6%; p = 0.02 for intervention-ICU size interaction). To evaluate the effect of a tele-critical care (TCC) daily audit-and-feedback intervention on spontaneous awakening trial and spontaneous breathing trial protocol compliance.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The coprimary outcomes were the proportion of ventilator days during each ventilator episode with documentation of spontaneous awakening trials and spontaneous breathing trials. Linear mixed effects models were used to examine the effect of the intervention on each outcome stratified by ICU size (large ≥ 15 beds or small < 15 beds). Spontaneous awakening..."
+      },
+      "keyResults": [
+        "Linear mixed effects models were used to examine the effect of the intervention on each outcome stratified by ICU size (large ≥ 15 beds or small < 15 beds).",
+        "Spontaneous awakening trial documentation improved over time throughout the entire period, but the rate of improvement increased significantly after the telemedicine intervention (preintervention slope: 0.2% increase per 30 d; 95% CI, -0.2% to 0.6% and postintervention slope: 1.4% increase per 30 d; 95% CI, 1.0% to 1.9%; p < 0.001 for intervention-time interaction).",
+        "The telemedicine intervention was associated with a step increase in spontaneous breathing trial documentation in small ICUs (absolute increase, 12.8%; 95% CI, 8.7-16.9%) but not in large ICUs (absolute increase, -0.1%; 95% CI, -1.8% to 1.6%; p = 0.02 for intervention-ICU size interaction).",
+        "The coprimary outcomes were the proportion of ventilator days during each ventilator episode with documentation of spontaneous awakening trials and spontaneous breathing trials."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether A Telemedicine Intervention for Spontaneous Awakening and Breathing Trials in Small and....",
+          "The most clinically relevant signal was Linear mixed effects models were used to examine the effect of the intervention on each outcome stratified by ICU size (large ≥ 15 beds or small <....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018408/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43018408"
+    },
+    {
+      "title": "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.",
+      "source": "BMJ (Clinical research ed.)",
+      "date": "Nov 11 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "To determine whether discontinuing versus continuing angiotensin converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) on the morning of surgery reduces perioperative hypotension in older patients undergoing non-cardiac surgery. 2036 older patients (60-80 years) using ACE inhibitors or ARBs for at least two weeks and scheduled for non-cardiac surgery under general anaesthesia. Patients were randomised to receive their usual ACE inhibitor or ARB or a placebo in identical capsules on the morning of surgery. The primary outcome was the incidence of perioperative hypotension (mean blood pressure <65 mm Hg or a ≥30% decrease from baseline requiring treatment). Secondary outcomes included duration of hypotension, requirement for a vasopressor, intraoperative fluid volume, postoperative hypotension, and 30 day complications (neurocognitive disorders, major cardiocerebral events) or mortality.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "The primary outcome was the incidence of perioperative hypotension (mean blood pressure <65 mm Hg or a ≥30% decrease from baseline requiring treatment). Secondary outcomes included duration of hypotension, requirement for a vasopressor, intraoperative fluid volume, postoperative hypotension, and 30 day complications (neurocognitive disorders, major..."
+      },
+      "keyResults": [
+        "2012 patients (mean age 68.8 years; 54.4% male) completed the study: 1004 were included in the antihypertensive group and 1008 in the no antihypertensive group.",
+        "The incidence of perioperative hypotension was lower in the no antihypertensive group (314/1008, 31.2%) versus antihypertensive group (457/1004, 45.5%): adjusted odds ratio 0.52 (95% confidence interval (CI) 0.43 to 0.63); absolute risk difference -14.4% (95% CI -18.5% to -10.1%); P<0.001.",
+        "The duration of hypotension and requirement for a vasopressor were both reduced in the no antihypertensive group: adjusted mean difference -1.3 minutes (95% CI -1.8 to -0.8 minutes) and 28.5% v 41.1%; adjusted odds ratio 0.54 (95% CI 0.44 to 0.66).",
+        "Intraoperative fluid volume, postoperative hypotension, 30 day complications, and mortality did not differ significantly between groups."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether discontinuing antihypertensives on perioperative hypotension in older patients before non-....",
+          "The most clinically relevant signal was 2012 patients (mean age 68.8 years; 54.4% male) completed the study: 1004 were included in the antihypertensive group and 1008 in the no....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "absolute risk",
+            "meaning": "the actual event rate difference patients may experience"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014822/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43014822"
+    }
+  ]
+}
