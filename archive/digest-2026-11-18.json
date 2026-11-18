@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 2,
+  "date": "November 18, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 18, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Evaluation of Sequential Organ Failure Assessment-2 Performanc",
+      "sentences": [
+        "Story 1 is about Evaluation of Sequential Organ Failure Assessment-2 Performance Across Demographic Subgroups: An External Validation Using MIMIC-IV..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "First-day SOFA-2 scores were calculated from the worst values recorded during the first 24 hours of ICU admission across six organ systems, with ICU mortality as the primary outcome.",
+        "Among 64,015 ICU patients (mean [sd] age, 64.6 [17.1] yr; 56.1% male; 66.1% White), overall AUROC was 0.77 (95% CI, 0.76-0.77).",
+        "0.72 (0.70-0.73) for ages 75 or older (ΔAUROC, -0.14 [95% CI, -0.16 to -0.11]), with systematic underprediction in older patients.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Patient-reported disability has insufficient clinical accuracy",
+      "sentences": [
+        "Story 2 is about Patient-reported disability has insufficient clinical accuracy for predicting physical function in survivors of critical illness: a secondary analysis of a cluster-randomised trial..",
+        "This is a recent research article from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in Intensive Care trial included patients from 10 German ICU clusters who completed the WHO Disability Assessment Schedule (WHODAS) 2, how should we interpret catter plots, correlation coefficients, linear regressions, and Bland-Altman plots. Predictions of HGS and the 2MWT were compared with the minimal clinically important difference (MCID) for both measures. Of 1463 enrolled patients, 620 were analysed. The?",
+        "The median HGS, expressed as a percentage of the expected value (%exp), was 70.6%exp (Q1, Q3: 54.4, 85.6), and the median 2MWT distance was 73.7%exp (Q1, Q3: 61.5, 85.8).",
+        "The 2MWT was not completed by 59% of patients.",
+        "In multivariable regression models, the WHODAS 2.0 sum score predicted HGS in kg (β: -0.27 [95% CI: -0.33 to -0.22]; P<0.001) and 2MWT distance in m (β: -1.94 [95% CI: -2.37 to -1.51]; P<0.001), but the limits of agreement exceeded the MCIDs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Evaluation of Sequential Organ Failure Assessment-2 Performance Across Demographic Subgroups: An External Validation Using MIMIC-IV.",
+      "source": "Critical care medicine",
+      "date": "Nov 11 2026",
+      "type": "Recent research article",
+      "summary": "First-day SOFA-2 scores were calculated from the worst values recorded during the first 24 hours of ICU admission across six organ systems, with ICU mortality as the primary outcome. Among 64,015 ICU patients (mean [sd] age, 64.6 [17.1] yr; 56.1% male; 66.1% White), overall AUROC was 0.77 (95% CI, 0.76-0.77). 0.72 (0.70-0.73) for ages 75 or older (ΔAUROC, -0.14 [95% CI, -0.16 to -0.11]), with systematic underprediction in older patients. Patients with missing demographic information had markedly higher mortality than the overall cohort rate of 7.2% (14.1% for missing race/ethnicity; 23.1% for missing language). To evaluate the discrimination and calibration of the Sequential Organ Failure Assessment (SOFA)-2 score for ICU mortality across demographic subgroups defined by age, sex, race and ethnicity, primary language, and insurance status.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "First-day SOFA-2 scores were calculated from the worst values recorded during the first 24 hours of ICU admission across six organ systems, with ICU mortality as the primary outcome. Discrimination was assessed using the area under the receiver operating characteristic curve (AUROC) and calibration using intercept and slope, with subgroup differences in..."
+      },
+      "keyResults": [
+        "First-day SOFA-2 scores were calculated from the worst values recorded during the first 24 hours of ICU admission across six organ systems, with ICU mortality as the primary outcome.",
+        "Among 64,015 ICU patients (mean [sd] age, 64.6 [17.1] yr; 56.1% male; 66.1% White), overall AUROC was 0.77 (95% CI, 0.76-0.77).",
+        "0.72 (0.70-0.73) for ages 75 or older (ΔAUROC, -0.14 [95% CI, -0.16 to -0.11]), with systematic underprediction in older patients.",
+        "Patients with missing demographic information had markedly higher mortality than the overall cohort rate of 7.2% (14.1% for missing race/ethnicity; 23.1% for missing language)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Sequential Organ Failure Assessment-2 Performance Across Demographic Subgroups.",
+          "The most clinically relevant signal was First-day SOFA-2 scores were calculated from the worst values recorded during the first 24 hours of ICU admission across six organ systems, with....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012622/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43012622"
+    },
+    {
+      "title": "Patient-reported disability has insufficient clinical accuracy for predicting physical function in survivors of critical illness: a secondary analysis of a cluster-randomised trial.",
+      "source": "British journal of anaesthesia",
+      "date": "Nov 10 2026",
+      "type": "Recent research article",
+      "summary": "This secondary analysis of the stepped-wedge cluster-randomised Enhanced Recovery after Intensive Care trial included patients from 10 German ICU clusters who completed the WHO Disability Assessment Schedule (WHODAS) 2.0 plus either HGS, the 2MWT, or both, 6 months after ICU discharge. The median HGS, expressed as a percentage of the expected value (%exp), was 70.6%exp (Q1, Q3: 54.4, 85.6), and the median 2MWT distance was 73.7%exp (Q1, Q3: 61.5, 85.8). The 2MWT was not completed by 59% of patients. In multivariable regression models, the WHODAS 2.0 sum score predicted HGS in kg (β: -0.27 [95% CI: -0.33 to -0.22]; P<0.001) and 2MWT distance in m (β: -1.94 [95% CI: -2.37 to -1.51]; P<0.001), but the limits of agreement exceeded the MCIDs. Post-ICU care often misses patients unable to attend in-person clinic visits.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Intensive Care trial included patients from 10 German ICU clusters who completed the WHO Disability Assessment Schedule (WHODAS) 2",
+        "intervention": "catter plots, correlation coefficients, linear regressions, and Bland-Altman plots. Predictions of HGS and the 2MWT were",
+        "comparator": "the minimal clinically important difference (MCID) for both measures. Of 1463 enrolled patients, 620 were analysed. The",
+        "outcomes": "Of 1463 enrolled patients, 620 were analysed. The median WHODAS 2.0 sum score was 11 (Q1, Q3: 3, 22). The median HGS, expressed as a percentage of the expected value (%exp), was 70.6%exp (Q1, Q3: 54.4, 85.6), and the median 2MWT distance was 73.7%exp (Q1, Q3: 61.5, 85.8). The 2MWT was not completed by 59% of patients. Higher disability was moderately..."
+      },
+      "keyResults": [
+        "The median HGS, expressed as a percentage of the expected value (%exp), was 70.6%exp (Q1, Q3: 54.4, 85.6), and the median 2MWT distance was 73.7%exp (Q1, Q3: 61.5, 85.8).",
+        "The 2MWT was not completed by 59% of patients.",
+        "In multivariable regression models, the WHODAS 2.0 sum score predicted HGS in kg (β: -0.27 [95% CI: -0.33 to -0.22]; P<0.001) and 2MWT distance in m (β: -1.94 [95% CI: -2.37 to -1.51]; P<0.001), but the limits of agreement exceeded the MCIDs.",
+        "Of 1463 enrolled patients, 620 were analysed."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Patient-reported disability has insufficient clinical accuracy for predicting physical....",
+          "The most clinically relevant signal was The median HGS, expressed as a percentage of the expected value (%exp), was 70.6%exp (Q1, Q3: 54.4, 85.6), and the median 2MWT distance was....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether catter plots, correlation coefficients, linear regressions, and Bland-Altman plots. Predictions of HGS and the 2MWT were should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009368/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43009368"
+    }
+  ]
+}
