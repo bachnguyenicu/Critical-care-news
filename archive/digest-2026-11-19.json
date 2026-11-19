@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 2,
+  "date": "November 19, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 19, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in ",
+      "sentences": [
+        "Story 1 is about High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis..",
+        "This is a systematic review / meta-analysis from Critical care medicine.",
+        "The clinical question is best framed as follows: in adults with de novo acute hypoxemic respiratory failure (AHRF) using a meta-analysis with trial sequential analysis (TSA), how should we interpret High-Flow Nasal Cannula compared with Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis?",
+        "A total of 13 RCTs involving 4294 patients were included in the analysis.",
+        "Compared with COT, HFNC was associated with a lower risk of intubation (Risk ratio [RR], 0.88; 95% CI, 0.78-0.99; low certainty), but not mortality (RR, 0.96; 95% CI, 0.83-1.10; moderate certainty).",
+        "Although HFNC was associated with a statistically significant reduction in hospital length of stay (mean difference, -0.84 d; 95% CI, -1.26 to -0.43; low certainty), the clinical importance of this reduction remains uncertain.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - ICU Mortality Associated With Clinically Important Upper Gastr",
+      "sentences": [
+        "Story 2 is about ICU Mortality Associated With Clinically Important Upper Gastrointestinal Bleeding: A Multistate Analysis..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret % CI, 1.13-2.15). At any time, patients who experienced bleeding had approximately 1.6 times the hazard of ICU mortality compared with those without a history of bleeding. Clinically important upper gastrointestinal bleeding as a time-dependent event is a?",
+        "A multistate model was specified with two transient ICU states (bleed-free and post-bleed) and four absorbing states (ICU discharge or death, each with or without bleeding).",
+        "Follow-up was censored at 90 days.",
+        "We fit two Cox models for time to death in the ICU regressing on time-dependent bleeding history while adjusting for age, sex, baseline Acute Physiology and Chronic Health Evaluation II score, admission category (medical/surgical/trauma), vasopressor/inotrope use and renal replacement therapy on study day 1 and randomized allocation of pantoprazole or placebo; a second model also adjusted for time-dependent covariates of advanced life support (invasive mechanical ventilation, vasopressor/inotrope use, and renal replacement therapy).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Health-care utilization, costs, and quality of life in patient",
+      "sentences": [
+        "Story 3 is about Health-care utilization, costs, and quality of life in patients with sepsis: Results from the SAGA trial in the Netherlands..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in patients hospitalized with sepsis of urological, abdominal or unknown origin in the Netherlands, how should we interpret (95% CI: 23,132-48,943) for ICU-admitted patients. The weighted mean QALY during follow-up was 0.62 (95% CI: 0.51-0.74) compared with 0.65 (95% CI: 0.54-0.75) before sepsis. SF-36 at 12 months showed the greatest limitations in general health, physical r?",
+        "Among 472 patients, 91 (19%) required ICU admission.",
+        "Mean direct hospitalization costs were €8858 (95% CI: 7988-9855) per patient: €6697 (95% CI: 6185-7251) for general ward-admitted patients and €18,155 (95% CI: 14,856-22,342) for ICU-admitted patients.",
+        "Over 12 months, mean total costs per patient were €30,889 (95% CI: 22,485-43,105): €25,839 (95% CI: 19,089-35,845) for general ward-admitted patients and €41,769 (95% CI: 23,132-48,943) for ICU-admitted patients.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis.",
+      "source": "Critical care medicine",
+      "date": "Nov 18 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "A total of 13 RCTs involving 4294 patients were included in the analysis. Compared with COT, HFNC was associated with a lower risk of intubation (Risk ratio [RR], 0.88; 95% CI, 0.78-0.99; low certainty), but not mortality (RR, 0.96; 95% CI, 0.83-1.10; moderate certainty). Although HFNC was associated with a statistically significant reduction in hospital length of stay (mean difference, -0.84 d; 95% CI, -1.26 to -0.43; low certainty), the clinical importance of this reduction remains uncertain. No significant differences were observed in escalation of therapy (RR, 0.87; 95% CI, 0.75-1.01; very low certainty), ICU admission (RR, 0.84; 95% CI, 0.50-1.39; very low certainty), or ICU length of stay (mean difference, -0.10 d; 95% CI, -0.82 to 0.61; very low certainty). To evaluate the efficacy of high-flow nasal cannula (HFNC) compared with conventional oxygen therapy (COT) in adults with de novo acute hypoxemic respiratory failure (AHRF) using a meta-analysis with trial sequential analysis (TSA).",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "pico": {
+        "population": "adults with de novo acute hypoxemic respiratory failure (AHRF) using a meta-analysis with trial sequential analysis (TSA)",
+        "intervention": "High-Flow Nasal Cannula",
+        "comparator": "Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "A total of 13 RCTs involving 4294 patients were included in the analysis.",
+        "Compared with COT, HFNC was associated with a lower risk of intubation (Risk ratio [RR], 0.88; 95% CI, 0.78-0.99; low certainty), but not mortality (RR, 0.96; 95% CI, 0.83-1.10; moderate certainty).",
+        "Although HFNC was associated with a statistically significant reduction in hospital length of stay (mean difference, -0.84 d; 95% CI, -1.26 to -0.43; low certainty), the clinical importance of this reduction remains uncertain.",
+        "No significant differences were observed in escalation of therapy (RR, 0.87; 95% CI, 0.75-1.01; very low certainty), ICU admission (RR, 0.84; 95% CI, 0.50-1.39; very low certainty), or ICU length of stay (mean difference, -0.10 d; 95% CI, -0.82 to 0.61; very low certainty)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute....",
+          "The most clinically relevant signal was A total of 13 RCTs involving 4294 patients were included in the analysis..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether High-Flow Nasal Cannula should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049460/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43049460"
+    },
+    {
+      "title": "ICU Mortality Associated With Clinically Important Upper Gastrointestinal Bleeding: A Multistate Analysis.",
+      "source": "Critical care medicine",
+      "date": "Nov 18 2026",
+      "type": "Recent research article",
+      "summary": "A multistate model was specified with two transient ICU states (bleed-free and post-bleed) and four absorbing states (ICU discharge or death, each with or without bleeding). Follow-up was censored at 90 days. We fit two Cox models for time to death in the ICU regressing on time-dependent bleeding history while adjusting for age, sex, baseline Acute Physiology and Chronic Health Evaluation II score, admission category (medical/surgical/trauma), vasopressor/inotrope use and renal replacement therapy on study day 1 and randomized allocation of pantoprazole or placebo; a second model also adjusted for time-dependent covariates of advanced life support (invasive mechanical ventilation, vasopressor/inotrope use, and renal replacement therapy). Clinically important upper gastrointestinal bleeding developed in 104 patients (2.2%) in the ICU. Median ICU length of stay for those who experienced bleeding was 19 days (interquartile range [IQR], 11-30 d) vs.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "% CI, 1.13-2.15). At any time, patients who experienced bleeding had approximately 1.6 times the hazard of ICU mortality",
+        "comparator": "those without a history of bleeding. Clinically important upper gastrointestinal bleeding as a time-dependent event is a",
+        "outcomes": "A multistate model was specified with two transient ICU states (bleed-free and post-bleed) and four absorbing states (ICU discharge or death, each with or without bleeding). The Aalen-Johansen method was used to estimate transition and state occupancy probabilities and to describe risks of different clinical courses. Follow-up was censored at 90 days. We..."
+      },
+      "keyResults": [
+        "A multistate model was specified with two transient ICU states (bleed-free and post-bleed) and four absorbing states (ICU discharge or death, each with or without bleeding).",
+        "Follow-up was censored at 90 days.",
+        "We fit two Cox models for time to death in the ICU regressing on time-dependent bleeding history while adjusting for age, sex, baseline Acute Physiology and Chronic Health Evaluation II score, admission category (medical/surgical/trauma), vasopressor/inotrope use and renal replacement therapy on study day 1 and randomized allocation of pantoprazole or placebo; a second model also adjusted for time-dependent covariates of advanced life support (invasive mechanical ventilation, vasopressor/inotrope use, and renal replacement therapy).",
+        "Clinically important upper gastrointestinal bleeding developed in 104 patients (2.2%) in the ICU."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether ICU Mortality Associated With Clinically Important Upper Gastrointestinal Bleeding.",
+          "The most clinically relevant signal was A multistate model was specified with two transient ICU states (bleed-free and post-bleed) and four absorbing states (ICU discharge or death, each....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether % CI, 1.13-2.15). At any time, patients who experienced bleeding had approximately 1.6 times the hazard of ICU mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049476/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43049476"
+    },
+    {
+      "title": "Health-care utilization, costs, and quality of life in patients with sepsis: Results from the SAGA trial in the Netherlands.",
+      "source": "Journal of critical care",
+      "date": "Nov 17 2026",
+      "type": "Recent research article",
+      "summary": "Data were obtained from a cluster-randomized trial of patients hospitalized with sepsis of urological, abdominal or unknown origin in the Netherlands. Among 472 patients, 91 (19%) required ICU admission. Mean direct hospitalization costs were €8858 (95% CI: 7988-9855) per patient: €6697 (95% CI: 6185-7251) for general ward-admitted patients and €18,155 (95% CI: 14,856-22,342) for ICU-admitted patients. Over 12 months, mean total costs per patient were €30,889 (95% CI: 22,485-43,105): €25,839 (95% CI: 19,089-35,845) for general ward-admitted patients and €41,769 (95% CI: 23,132-48,943) for ICU-admitted patients. The weighted mean QALY during follow-up was 0.62 (95% CI: 0.51-0.74) compared with 0.65 (95% CI: 0.54-0.75) before sepsis.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients hospitalized with sepsis of urological, abdominal or unknown origin in the Netherlands",
+        "intervention": "(95% CI: 23,132-48,943) for ICU-admitted patients. The weighted mean QALY during follow-up was 0.62 (95% CI: 0.51-0.74)",
+        "comparator": "0.65 (95% CI: 0.54-0.75) before sepsis. SF-36 at 12 months showed the greatest limitations in general health, physical r",
+        "outcomes": "Among 472 patients, 91 (19%) required ICU admission. Mean direct hospitalization costs were €8858 (95% CI: 7988-9855) per patient: €6697 (95% CI: 6185-7251) for general ward-admitted patients and €18,155 (95% CI: 14,856-22,342) for ICU-admitted patients. Over 12 months, mean total costs per patient were €30,889 (95% CI: 22,485-43,105): €25,839 (95% CI:..."
+      },
+      "keyResults": [
+        "Among 472 patients, 91 (19%) required ICU admission.",
+        "Mean direct hospitalization costs were €8858 (95% CI: 7988-9855) per patient: €6697 (95% CI: 6185-7251) for general ward-admitted patients and €18,155 (95% CI: 14,856-22,342) for ICU-admitted patients.",
+        "Over 12 months, mean total costs per patient were €30,889 (95% CI: 22,485-43,105): €25,839 (95% CI: 19,089-35,845) for general ward-admitted patients and €41,769 (95% CI: 23,132-48,943) for ICU-admitted patients.",
+        "The weighted mean QALY during follow-up was 0.62 (95% CI: 0.51-0.74) compared with 0.65 (95% CI: 0.54-0.75) before sepsis."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Health-care utilization, costs, and quality of life in patients with sepsis.",
+          "The most clinically relevant signal was Among 472 patients, 91 (19%) required ICU admission..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether (95% CI: 23,132-48,943) for ICU-admitted patients. The weighted mean QALY during follow-up was 0.62 (95% CI: 0.51-0.74) should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044164/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43044164"
+    }
+  ]
+}
