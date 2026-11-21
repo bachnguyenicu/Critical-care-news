@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 2,
+  "date": "November 21, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 21, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Liberation from Veno-venous Extracorporeal Life Support (VV-EC",
+      "sentences": [
+        "Story 1 is about Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory Distress Syndrome (ARDS): the Liberate VV-ECLS study: an international survey..",
+        "This is a recent research article from Chest.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS.",
+        "Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation.",
+        "Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Mortality and prognostic factors in invasive aspergillosis: a ",
+      "sentences": [
+        "Story 2 is about Mortality and prognostic factors in invasive aspergillosis: a systematic review and individual patient data meta-analysis..",
+        "This is a systematic review / meta-analysis from The Lancet. Infectious diseases.",
+        "The clinical question is best framed as follows: in patients with invasive aspergillosis diagnosed using established criteria, with clearly defined and analysed follow-up periods, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Of the articles screened, 209 studies including 15 357 patients were eligible.",
+        "IPD were obtained from 46 studies, comprising 3880 patients.",
+        "Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - The Radiographic Lung Edema Score in Pediatric Acute Respirato",
+      "sentences": [
+        "Story 3 is about The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation.",
+        "Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87).",
+        "After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory Distress Syndrome (ARDS): the Liberate VV-ECLS study: an international survey.",
+      "source": "Chest",
+      "date": "Nov 19 2026",
+      "type": "Recent research article",
+      "summary": "However, approaches to liberation from extracorporeal support remain poorly defined, with no standardized protocols or validated readiness criteria. Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS. Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation. Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%). Liberation strategies were heterogeneous, with progressive reduction of sweep gas flow being most common (40%).",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS. Most centers were adult-focused, intensivist-led programs with moderate annual volumes. Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation. Readiness for liberation was most determined by improvement in oxygenation under..."
+      },
+      "keyResults": [
+        "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS.",
+        "Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation.",
+        "Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%).",
+        "Liberation strategies were heterogeneous, with progressive reduction of sweep gas flow being most common (40%)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory....",
+          "The most clinically relevant signal was Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057567/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43057567"
+    },
+    {
+      "title": "Mortality and prognostic factors in invasive aspergillosis: a systematic review and individual patient data meta-analysis.",
+      "source": "The Lancet. Infectious diseases",
+      "date": "Nov 19 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Of the articles screened, 209 studies including 15 357 patients were eligible. IPD were obtained from 46 studies, comprising 3880 patients. Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years. ICU mortality was 57·1% (47·5-66·5) and in-hospital mortality was 46·7% (39·4-54·1). By underlying condition, estimated 4-week mortality was highest among patients with ICU admission (42·9%, 30·4-53·2).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "patients with invasive aspergillosis diagnosed using established criteria, with clearly defined and analysed follow-up periods",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Of the articles screened, 209 studies including 15 357 patients were eligible.",
+        "IPD were obtained from 46 studies, comprising 3880 patients.",
+        "Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years.",
+        "ICU mortality was 57·1% (47·5-66·5) and in-hospital mortality was 46·7% (39·4-54·1)."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Mortality and prognostic factors in invasive aspergillosis.",
+          "The most clinically relevant signal was Of the articles screened, 209 studies including 15 357 patients were eligible..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057280/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43057280"
+    },
+    {
+      "title": "The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction.",
+      "source": "Critical care medicine",
+      "date": "Nov 18 2026",
+      "type": "Recent research article",
+      "summary": "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation. Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87). After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95). Structural equation modeling demonstrated that this association was mediated through both pulmonary dysfunction, measured by the oxygenation index (β -0.14; 95% bootstrapped CI, -0.22 to -0.06), and extrapulmonary organ dysfunction, measured by the Pediatric Logistic Organ Dysfunction score (β -0.05; 95% bootstrapped CI, -0.10 to -0.002). Although chest radiographs (CXR) are among the most used imaging modalities in critically ill patients, their interpretation and clinical significance remain incompletely leveraged.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation. Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87). After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day..."
+      },
+      "keyResults": [
+        "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation.",
+        "Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87).",
+        "After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95).",
+        "Structural equation modeling demonstrated that this association was mediated through both pulmonary dysfunction, measured by the oxygenation index (β -0.14; 95% bootstrapped CI, -0.22 to -0.06), and extrapulmonary organ dysfunction, measured by the Pediatric Logistic Organ Dysfunction score (β -0.05; 95% bootstrapped CI, -0.10 to -0.002)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure.",
+          "The most clinically relevant signal was A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049459/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43049459"
+    }
+  ]
+}
