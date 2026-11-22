@@ -1,54 +1,54 @@
 {
   "schemaVersion": 2,
-  "date": "November 21, 2026",
+  "date": "November 22, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 21, 2026.",
+        "Welcome to Critical Care Daily for November 22, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Liberation from Veno-venous Extracorporeal Life Support (VV-EC",
+      "heading": "Story 1 - Preoperative roxadustat in major elective noncardiac surgery: ",
       "sentences": [
-        "Story 1 is about Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory Distress Syndrome (ARDS): the Liberate VV-ECLS study: an international survey..",
-        "This is a recent research article from Chest.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS.",
-        "Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation.",
-        "Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%).",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 2 - Mortality and prognostic factors in invasive aspergillosis: a ",
-      "sentences": [
-        "Story 2 is about Mortality and prognostic factors in invasive aspergillosis: a systematic review and individual patient data meta-analysis..",
-        "This is a systematic review / meta-analysis from The Lancet. Infectious diseases.",
-        "The clinical question is best framed as follows: in patients with invasive aspergillosis diagnosed using established criteria, with clearly defined and analysed follow-up periods, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Of the articles screened, 209 studies including 15 357 patients were eligible.",
-        "IPD were obtained from 46 studies, comprising 3880 patients.",
-        "Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years.",
+        "Story 1 is about Preoperative roxadustat in major elective noncardiac surgery: a phase 2a randomised clinical trial..",
+        "This is a randomized / clinical trial from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative mornin, how should we interpret emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within?",
+        "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12).",
+        "Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10).",
+        "Days alive out of hospital within 30 days was similar between the groups.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - The Radiographic Lung Edema Score in Pediatric Acute Respirato",
+      "heading": "Story 2 - Respiratory Syncytial Virus-Related Pediatric Intensive Care U",
       "sentences": [
-        "Story 3 is about The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction..",
-        "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation.",
-        "Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87).",
-        "After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95).",
+        "Story 2 is about Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children During Their Second RSV Season..",
+        "This is a recent research article from JAMA network open.",
+        "The clinical question is best framed as follows: in children aged 8 to 23 months admitted to the PICU in 30 pediatric hospitals in the 2023 to 2024 and 2024 to 2025 RSV seasons, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included.",
+        "Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions.",
+        "A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Earlier Application of Methylene Blue in Vasoplegic, Adrenergi",
+      "sentences": [
+        "Story 3 is about Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant Patients is Associated with Better Clinical Outcomes. A Retrospective Analysis of 464 Patients..",
+        "This is a recent research article from Shock (Augusta, Ga.).",
+        "The clinical question is best framed as follows: in intensive care unit (ICU) of a tertiary medical center, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU.",
+        "All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission.",
+        "In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
@@ -65,23 +65,83 @@
   ],
   "articles": [
     {
-      "title": "Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory Distress Syndrome (ARDS): the Liberate VV-ECLS study: an international survey.",
-      "source": "Chest",
-      "date": "Nov 19 2026",
-      "type": "Recent research article",
-      "summary": "However, approaches to liberation from extracorporeal support remain poorly defined, with no standardized protocols or validated readiness criteria. Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS. Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation. Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%). Liberation strategies were heterogeneous, with progressive reduction of sweep gas flow being most common (40%).",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "title": "Preoperative roxadustat in major elective noncardiac surgery: a phase 2a randomised clinical trial.",
+      "source": "British journal of anaesthesia",
+      "date": "Nov 20 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "In this phase 2a, single-centre, double-blind, randomised-controlled pilot trial, 150 patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative morning. The co-primary outcomes were preoperative adverse events and postoperative complications meeting standardised endpoint definitions within 30 days. Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12). Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within 30 days was similar between the groups.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS. Most centers were adult-focused, intensivist-led programs with moderate annual volumes. Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation. Readiness for liberation was most determined by improvement in oxygenation under..."
+        "population": "patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative mornin",
+        "intervention": "emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat",
+        "comparator": "21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within",
+        "outcomes": "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12). No serious adverse reactions occurred. Among 143 participants who proceeded to..."
       },
       "keyResults": [
-        "Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS.",
-        "Most respondents (58%) prioritized VV-ECLS liberation before liberation from mechanical ventilation.",
-        "Readiness for liberation was most determined by improvement in oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%), while fewer centers used inspiratory effort indices (34%).",
-        "Liberation strategies were heterogeneous, with progressive reduction of sweep gas flow being most common (40%)."
+        "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12).",
+        "Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10).",
+        "Days alive out of hospital within 30 days was similar between the groups.",
+        "No serious adverse reactions occurred."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
+        "Single-center data may not generalize well to different ICU resources or case-mix."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Preoperative roxadustat in major elective noncardiac surgery.",
+          "The most clinically relevant signal was Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064581/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43064581"
+    },
+    {
+      "title": "Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children During Their Second RSV Season.",
+      "source": "JAMA network open",
+      "date": "Nov 02 2026",
+      "type": "Recent research article",
+      "summary": "All children had an RSV-positive result from a respiratory sample and received respiratory support with high-flow nasal cannula, noninvasive ventilation, or invasive mechanical ventilation. A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included. Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions. A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001). Among children admitted to the PICU for severe RSV, 8.2% met the nirsevimab eligibility criteria and 13.2% had other identified RSV risk conditions.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "children aged 8 to 23 months admitted to the PICU in 30 pediatric hospitals in the 2023 to 2024 and 2024 to 2025 RSV seasons",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Patient demographic characteristics and level of respiratory support received were compared by level of preexisting health conditions."
+      },
+      "keyResults": [
+        "A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included.",
+        "Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions.",
+        "A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001)."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice."
@@ -89,8 +149,8 @@
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory....",
-          "The most clinically relevant signal was Of 765 centers contacted, 340 (44%) responded, with 209 (61%) reporting use of VV-ECLS..",
+          "This study examined whether Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children....",
+          "The most clinically relevant signal was A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included..",
           "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
@@ -115,88 +175,28 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43057567/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056117/",
       "urlLabel": "View on PubMed",
-      "pmid": "43057567"
+      "pmid": "43056117"
     },
     {
-      "title": "Mortality and prognostic factors in invasive aspergillosis: a systematic review and individual patient data meta-analysis.",
-      "source": "The Lancet. Infectious diseases",
-      "date": "Nov 19 2026",
-      "type": "Systematic review / meta-analysis",
-      "summary": "Of the articles screened, 209 studies including 15 357 patients were eligible. IPD were obtained from 46 studies, comprising 3880 patients. Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years. ICU mortality was 57·1% (47·5-66·5) and in-hospital mortality was 46·7% (39·4-54·1). By underlying condition, estimated 4-week mortality was highest among patients with ICU admission (42·9%, 30·4-53·2).",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "pico": {
-        "population": "patients with invasive aspergillosis diagnosed using established criteria, with clearly defined and analysed follow-up periods",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
-      },
-      "keyResults": [
-        "Of the articles screened, 209 studies including 15 357 patients were eligible.",
-        "IPD were obtained from 46 studies, comprising 3880 patients.",
-        "Estimated overall mortality was 26·7% (95% CI 21·0-38·2) at 4 weeks, 32·0% (26·9-42·6) at 6 weeks, 41·7% (34·9-55·1) at 12 weeks, 48·5% (41·4-61·4) at 24 weeks, 53·8% (46·8-64·0) at 1 year, and 57·2% (49·7-68·3) at 2 years.",
-        "ICU mortality was 57·1% (47·5-66·5) and in-hospital mortality was 46·7% (39·4-54·1)."
-      ],
-      "criticalAppraisal": [
-        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
-        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
-      ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Mortality and prognostic factors in invasive aspergillosis.",
-          "The most clinically relevant signal was Of the articles screened, 209 studies including 15 357 patients were eligible..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43057280/",
-      "urlLabel": "View on PubMed",
-      "pmid": "43057280"
-    },
-    {
-      "title": "The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction.",
-      "source": "Critical care medicine",
-      "date": "Nov 18 2026",
+      "title": "Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant Patients is Associated with Better Clinical Outcomes. A Retrospective Analysis of 464 Patients.",
+      "source": "Shock (Augusta, Ga.)",
+      "date": "Nov 20 2026",
       "type": "Recent research article",
-      "summary": "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation. Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87). After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95). Structural equation modeling demonstrated that this association was mediated through both pulmonary dysfunction, measured by the oxygenation index (β -0.14; 95% bootstrapped CI, -0.22 to -0.06), and extrapulmonary organ dysfunction, measured by the Pediatric Logistic Organ Dysfunction score (β -0.05; 95% bootstrapped CI, -0.10 to -0.002). Although chest radiographs (CXR) are among the most used imaging modalities in critically ill patients, their interpretation and clinical significance remain incompletely leveraged.",
+      "summary": "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU. All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission. In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs. 52%, p < 0.001), lower in-hospital mortality (41% vs. 59%, p < 0.001), lower 1-year mortality (46% vs.",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "population": "intensive care unit (ICU) of a tertiary medical center",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation. Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87). After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day..."
+        "outcomes": "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU. All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission. In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs. 52%, p < 0.001), lower in-hospital..."
       },
       "keyResults": [
-        "A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation.",
-        "Among 212 patients, RALE scores demonstrated good inter-rater reliability (intra-class coefficient 0.85; 95% CI, 0.82-0.87).",
-        "After adjustment for ARF etiology and illness severity, higher RALE scores were associated with fewer 28-day ventilator-free days (sub-distribution hazard ratio per 1-sd increase, 0.81; 95% CI, 0.69-0.95).",
-        "Structural equation modeling demonstrated that this association was mediated through both pulmonary dysfunction, measured by the oxygenation index (β -0.14; 95% bootstrapped CI, -0.22 to -0.06), and extrapulmonary organ dysfunction, measured by the Pediatric Logistic Organ Dysfunction score (β -0.05; 95% bootstrapped CI, -0.10 to -0.002)."
+        "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU.",
+        "All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission.",
+        "In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs.",
+        "52%, p < 0.001), lower in-hospital mortality (41% vs."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice.",
@@ -205,8 +205,8 @@
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure.",
-          "The most clinically relevant signal was A baseline RALE score was calculated for each patient from a single CXR obtained within 72 hours of IMV initiation..",
+          "This study examined whether Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant....",
+          "The most clinically relevant signal was 464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
           "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
@@ -231,9 +231,9 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049459/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063354/",
       "urlLabel": "View on PubMed",
-      "pmid": "43049459"
+      "pmid": "43063354"
     }
   ]
 }
