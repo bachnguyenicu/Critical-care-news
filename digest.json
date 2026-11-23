@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "November 22, 2026",
+  "date": "November 23, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 22, 2026.",
+        "Welcome to Critical Care Daily for November 23, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Preoperative roxadustat in major elective noncardiac surgery: ",
+      "heading": "Story 1 - Antimicrobial stewardship and resistance in intensive care uni",
       "sentences": [
-        "Story 1 is about Preoperative roxadustat in major elective noncardiac surgery: a phase 2a randomised clinical trial..",
-        "This is a randomized / clinical trial from British journal of anaesthesia.",
-        "The clinical question is best framed as follows: in patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative mornin, how should we interpret emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within?",
-        "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12).",
-        "Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10).",
-        "Days alive out of hospital within 30 days was similar between the groups.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 2 - Respiratory Syncytial Virus-Related Pediatric Intensive Care U",
-      "sentences": [
-        "Story 2 is about Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children During Their Second RSV Season..",
-        "This is a recent research article from JAMA network open.",
-        "The clinical question is best framed as follows: in children aged 8 to 23 months admitted to the PICU in 30 pediatric hospitals in the 2023 to 2024 and 2024 to 2025 RSV seasons, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included.",
-        "Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions.",
-        "A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001).",
+        "Story 1 is about Antimicrobial stewardship and resistance in intensive care units in the UK: a prospective national audit..",
+        "This is a recent research article from Anaesthesia.",
+        "The clinical question is best framed as follows: in adults (aged ≥ 18 y) admitted to ICUs in the UK and Isle of Man with a point-prevalence survey, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "We studied 2626 patients from 154/292 (52.7%) ICUs.",
+        "Antimicrobial therapy was prescribed in 1592 (60.6%) patients.",
+        "Of 2116 empiric antimicrobial orders, 1592 (75.2%) were compliant with unit-level guidelines.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Earlier Application of Methylene Blue in Vasoplegic, Adrenergi",
+      "heading": "Story 2 - Age-Related Differences in the Organ Donation Process Among Pe",
       "sentences": [
-        "Story 3 is about Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant Patients is Associated with Better Clinical Outcomes. A Retrospective Analysis of 464 Patients..",
-        "This is a recent research article from Shock (Augusta, Ga.).",
-        "The clinical question is best framed as follows: in intensive care unit (ICU) of a tertiary medical center, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU.",
-        "All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission.",
-        "In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs.",
+        "Story 2 is about Age-Related Differences in the Organ Donation Process Among Pediatric Brain-Dead Donors: A Nationwide Study in Japan..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "The time intervals from hospital admission to organ procurement showed marked age-dependent prolongation, with median durations of 28, 19.5, and 13.5 days, respectively (p < 0.01).",
+        "Organ transplantation was achieved in 99% of donors.",
+        "During donor management, respiratory, cardiovascular, renal, and hepatic function were generally maintained or improved until procurement.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Intraoperative peripheral perfusion index and mortality after ",
+      "sentences": [
+        "Story 3 is about Intraoperative peripheral perfusion index and mortality after noncardiac surgery: a retrospective cohort study..",
+        "This is a cohort study from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in adults (≥18 yr) undergoing general anaesthesia for noncardiac surgery, how should we interpret exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min) compared with no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI 1.98-2.40, overall association P<0.001) at th?",
+        "Among 399 842 patients undergoing 540 101 procedures, a total of 7066 (1.3%) deaths occurred within 30 days: 654 (0.5%) among procedures with no exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min).",
+        "Compared with no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI 1.98-2.40, overall association P<0.001) at the 95th percentile of exposure (42.5 PI⋅min), with similar patterns observed across the major surgical specialties.",
+        "For the composite outcome, the corresponding odds ratio was 1.16 (95% CI 1.14-1.18; P<0.001).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,83 +65,23 @@
   ],
   "articles": [
     {
-      "title": "Preoperative roxadustat in major elective noncardiac surgery: a phase 2a randomised clinical trial.",
-      "source": "British journal of anaesthesia",
-      "date": "Nov 20 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "In this phase 2a, single-centre, double-blind, randomised-controlled pilot trial, 150 patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative morning. The co-primary outcomes were preoperative adverse events and postoperative complications meeting standardised endpoint definitions within 30 days. Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12). Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within 30 days was similar between the groups.",
-      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "pico": {
-        "population": "patients undergoing major elective noncardiac surgery were allocated to preoperative roxadustat 100 mg or placebo for three alternate-day doses, with the last dose on the operative mornin",
-        "intervention": "emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat",
-        "comparator": "21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10). Days alive out of hospital within",
-        "outcomes": "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12). No serious adverse reactions occurred. Among 143 participants who proceeded to..."
-      },
-      "keyResults": [
-        "Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse event occurred in 21 of 75 (28%) in the roxadustat group and 20 of 73 (27%) in the placebo group (odds ratio 1.03; 95% CI 0.50-2.12).",
-        "Among 143 participants who proceeded to surgery (52 [36.4%] females; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat compared with 21 of 69 participants (30%) who received placebo (odds ratio 1.03; 95% CI 0.51-2.10).",
-        "Days alive out of hospital within 30 days was similar between the groups.",
-        "No serious adverse reactions occurred."
-      ],
-      "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
-      ],
-      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Preoperative roxadustat in major elective noncardiac surgery.",
-          "The most clinically relevant signal was Among 148 participants (52 [35.1%] females; median age 65 [range 24-84] yr) receiving at least one drug dose, at least one preoperative adverse....",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether emales; median age 65 [range 26-84] yr), ≥1 complication occurred in 23 of 74 participants (31%) who received roxadustat should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064581/",
-      "urlLabel": "View on PubMed",
-      "pmid": "43064581"
-    },
-    {
-      "title": "Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children During Their Second RSV Season.",
-      "source": "JAMA network open",
-      "date": "Nov 02 2026",
+      "title": "Antimicrobial stewardship and resistance in intensive care units in the UK: a prospective national audit.",
+      "source": "Anaesthesia",
+      "date": "Nov 21 2026",
       "type": "Recent research article",
-      "summary": "All children had an RSV-positive result from a respiratory sample and received respiratory support with high-flow nasal cannula, noninvasive ventilation, or invasive mechanical ventilation. A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included. Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions. A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001). Among children admitted to the PICU for severe RSV, 8.2% met the nirsevimab eligibility criteria and 13.2% had other identified RSV risk conditions.",
+      "summary": "Subsequently, we collected longitudinal data on review of therapy and antimicrobial resistance in a subset of patients who had commenced therapy within the previous 3 days. We studied 2626 patients from 154/292 (52.7%) ICUs. Antimicrobial therapy was prescribed in 1592 (60.6%) patients. Of 2116 empiric antimicrobial orders, 1592 (75.2%) were compliant with unit-level guidelines. For non-compliant orders, 253 (12.0% of all empiric orders) were discussed with infection specialists and 69 (3.3%) provided justification for off-guidance therapy, but 202 (9.5%) were prescribed outside guidance without justification or discussion with infection specialists.",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "children aged 8 to 23 months admitted to the PICU in 30 pediatric hospitals in the 2023 to 2024 and 2024 to 2025 RSV seasons",
+        "population": "adults (aged ≥ 18 y) admitted to ICUs in the UK and Isle of Man with a point-prevalence survey",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Patient demographic characteristics and level of respiratory support received were compared by level of preexisting health conditions."
+        "outcomes": "We studied 2626 patients from 154/292 (52.7%) ICUs. Antimicrobial therapy was prescribed in 1592 (60.6%) patients. Of 2116 empiric antimicrobial orders, 1592 (75.2%) were compliant with unit-level guidelines. For non-compliant orders, 253 (12.0% of all empiric orders) were discussed with infection specialists and 69 (3.3%) provided justification for off-..."
       },
       "keyResults": [
-        "A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included.",
-        "Overall, 47 patients (8.2%) met the nirsevimab eligibility criteria, 76 (13.2%) had other identified RSV risk conditions, 96 (16.7%) had other preexisting conditions, and 355 (61.8%) had no preexisting conditions.",
-        "A higher proportion of children who met nirsevimab eligibility criteria required invasive mechanical ventilation vs children with other identified RSV risk conditions, those with other preexisting health conditions, or those with no preexisting health conditions (40.4% [19 of 47] vs 17.1% [13 of 76], 10.4% [10 of 96], 5.9% [21 of 355]; P for trend <.001)."
+        "We studied 2626 patients from 154/292 (52.7%) ICUs.",
+        "Antimicrobial therapy was prescribed in 1592 (60.6%) patients.",
+        "Of 2116 empiric antimicrobial orders, 1592 (75.2%) were compliant with unit-level guidelines.",
+        "For non-compliant orders, 253 (12.0% of all empiric orders) were discussed with infection specialists and 69 (3.3%) provided justification for off-guidance therapy, but 202 (9.5%) were prescribed outside guidance without justification or discussion with infection specialists."
       ],
       "criticalAppraisal": [
         "Early evidence: useful for awareness, not enough alone to change practice."
@@ -149,8 +89,8 @@
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children....",
-          "The most clinically relevant signal was A total of 574 children (median [IQR] age, 1.2 [1.1-1.5] years; 317 males [55.2%]) were included..",
+          "This study examined whether Antimicrobial stewardship and resistance in intensive care units in the UK.",
+          "The most clinically relevant signal was We studied 2626 patients from 154/292 (52.7%) ICUs..",
           "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
           "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
@@ -175,41 +115,40 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056117/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066529/",
       "urlLabel": "View on PubMed",
-      "pmid": "43056117"
+      "pmid": "43066529"
     },
     {
-      "title": "Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant Patients is Associated with Better Clinical Outcomes. A Retrospective Analysis of 464 Patients.",
-      "source": "Shock (Augusta, Ga.)",
-      "date": "Nov 20 2026",
+      "title": "Age-Related Differences in the Organ Donation Process Among Pediatric Brain-Dead Donors: A Nationwide Study in Japan.",
+      "source": "Critical care medicine",
+      "date": "Nov 18 2026",
       "type": "Recent research article",
-      "summary": "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU. All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission. In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs. 52%, p < 0.001), lower in-hospital mortality (41% vs. 59%, p < 0.001), lower 1-year mortality (46% vs.",
+      "summary": "The time intervals from hospital admission to organ procurement showed marked age-dependent prolongation, with median durations of 28, 19.5, and 13.5 days, respectively (p < 0.01). Organ transplantation was achieved in 99% of donors. During donor management, respiratory, cardiovascular, renal, and hepatic function were generally maintained or improved until procurement. To characterize the pediatric organ donation process and age-related differences among brain-dead donors in Japan and evaluate organ-specific transplantation rates and graft survival across age groups. Nationwide retrospective cohort study.",
       "analysis": "Use as an awareness item; read the full article before applying it clinically.",
       "pico": {
-        "population": "intensive care unit (ICU) of a tertiary medical center",
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
         "intervention": "Exposure or intervention stated in the title/objective.",
         "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU. All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission. In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs. 52%, p < 0.001), lower in-hospital..."
+        "outcomes": "A total of 100 pediatric brain-dead organ donors were included. Donors were categorized into three age groups: younger than 6 years (n = 32), 6-14 years (n = 48), and 15-17 years (n = 20). The time intervals from hospital admission to organ procurement showed marked age-dependent prolongation, with median durations of 28, 19.5, and 13.5 days, respectively..."
       },
       "keyResults": [
-        "464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU.",
-        "All patients developed vasoplegia and were treated with MB after a median time of 11.2 hours from admission.",
-        "In the aggregated cohort, earlier MB administration was associated with lower ICU mortality (30% vs.",
-        "52%, p < 0.001), lower in-hospital mortality (41% vs."
+        "The time intervals from hospital admission to organ procurement showed marked age-dependent prolongation, with median durations of 28, 19.5, and 13.5 days, respectively (p < 0.01).",
+        "Organ transplantation was achieved in 99% of donors.",
+        "During donor management, respiratory, cardiovascular, renal, and hepatic function were generally maintained or improved until procurement.",
+        "A total of 100 pediatric brain-dead organ donors were included."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice.",
-        "Single-center data may not generalize well to different ICU resources or case-mix."
+        "Early evidence: useful for awareness, not enough alone to change practice."
       ],
       "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Earlier Application of Methylene Blue in Vasoplegic, Adrenergic Vasopressor-Resistant....",
-          "The most clinically relevant signal was 464 patients were included, 183 (39%) admitted to the general ICU and 281 (61%) to the cardiothoracic ICU..",
-          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "This study examined whether Age-Related Differences in the Organ Donation Process Among Pediatric Brain-Dead Donors.",
+          "The most clinically relevant signal was The time intervals from hospital admission to organ procurement showed marked age-dependent prolongation, with median durations of 28, 19.5, and....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
           "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Single-center data may not generalize well to different ICU resources or case-mix.."
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
         ],
         "vocabulary": [
           {
@@ -231,9 +170,68 @@
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063354/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049463/",
       "urlLabel": "View on PubMed",
-      "pmid": "43063354"
+      "pmid": "43049463"
+    },
+    {
+      "title": "Intraoperative peripheral perfusion index and mortality after noncardiac surgery: a retrospective cohort study.",
+      "source": "British journal of anaesthesia",
+      "date": "Nov 20 2026",
+      "type": "Cohort study",
+      "summary": "The secondary outcome was a 30-day composite of postoperative intensive care unit admission, reoperation, acute kidney injury, or prolonged hospital stay. Among 399 842 patients undergoing 540 101 procedures, a total of 7066 (1.3%) deaths occurred within 30 days: 654 (0.5%) among procedures with no exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min). Compared with no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI 1.98-2.40, overall association P<0.001) at the 95th percentile of exposure (42.5 PI⋅min), with similar patterns observed across the major surgical specialties. For the composite outcome, the corresponding odds ratio was 1.16 (95% CI 1.14-1.18; P<0.001). Intraoperative haemodynamic monitoring primarily targets arterial pressure and flow but might not adequately reflect tissue perfusion.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "adults (≥18 yr) undergoing general anaesthesia for noncardiac surgery",
+        "intervention": "exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min)",
+        "comparator": "no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI 1.98-2.40, overall association P<0.001) at th",
+        "outcomes": "Among 399 842 patients undergoing 540 101 procedures, a total of 7066 (1.3%) deaths occurred within 30 days: 654 (0.5%) among procedures with no exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min). Compared with no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI..."
+      },
+      "keyResults": [
+        "Among 399 842 patients undergoing 540 101 procedures, a total of 7066 (1.3%) deaths occurred within 30 days: 654 (0.5%) among procedures with no exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min).",
+        "Compared with no exposure, the adjusted odds ratio for 30-day mortality was 2.18 (95% CI 1.98-2.40, overall association P<0.001) at the 95th percentile of exposure (42.5 PI⋅min), with similar patterns observed across the major surgical specialties.",
+        "For the composite outcome, the corresponding odds ratio was 1.16 (95% CI 1.14-1.18; P<0.001)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Intraoperative peripheral perfusion index and mortality after noncardiac surgery.",
+          "The most clinically relevant signal was Among 399 842 patients undergoing 540 101 procedures, a total of 7066 (1.3%) deaths occurred within 30 days: 654 (0.5%) among procedures with no....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether exposure, 1185 (0.6%) in the lower half of exposed procedures, and 5227 (2.6%) in the upper half (split at 3.8 PI⋅min) should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064579/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43064579"
     }
   ]
 }
