@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "date": "November 24, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 24, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Subphenotyping and precision medicine approaches to ARDS.",
+      "sentences": [
+        "Story 1 is about Subphenotyping and precision medicine approaches to ARDS..",
+        "This is a recent research article from Intensive care medicine.",
+        "The clinical question is best framed as follows: in patient groups that differ in prognosis and/or treatment response, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response.",
+        "Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology.",
+        "This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Long-Term Cognitive Function Following Haloperidol Vs. Placebo",
+      "sentences": [
+        "Story 2 is about Long-Term Cognitive Function Following Haloperidol Vs. Placebo Treatment in ICU Patients With Delirium..",
+        "This is a recent research article from Critical care medicine.",
+        "The clinical question is best framed as follows: in ICU trial conducted from June 2019 to April 2023, how should we interpret AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function compared with placebo. However, given the extent of missing outcome data and the divergent results of our sensitivity analyses, this e?",
+        "Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48).",
+        "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B.",
+        "Analyses used the intention-to-treat population.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Multidimensional Predictors of Post-Traumatic Stress in Relati",
+      "sentences": [
+        "Story 3 is about Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients..",
+        "This is a recent research article from American journal of respiratory and critical care medicine.",
+        "The clinical question is best framed as follows: in adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms.",
+        "Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety, peritraumatic dissociation, and insomnia), and greater severity in the patients (vasopressor use and end-of-life decisions).",
+        "Lower PCL-5 scores were associated with male sex and specific physician communication behaviours.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Subphenotyping and precision medicine approaches to ARDS.",
+      "source": "Intensive care medicine",
+      "date": "Nov 23 2026",
+      "type": "Recent research article",
+      "summary": "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response. Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology. This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date. In this narrative review, framed by the research questions outlined in the 2023 European Society of Intensive Care Medicine guidelines, we synthesize current approaches to ARDS subphenotyping across complementary domains: clinical (etiology, rapidly improving ARDS), physiological (gas exchange, recruitability, elastance, and ventilatory ratio), morphological (focal versus non-focal radiological patterns), and biological (individual injury biomarkers and the hyperinflammatory and hypoinflammatory subphenotypes). We examine their pathobiological basis, temporal dynamics, and retrospective evidence for heterogeneity of treatment effect, and consider how parsimonious biomarker panels, machine-learning classifiers, and adaptive basket trial designs may support clinical implementation.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patient groups that differ in prognosis and/or treatment response",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response.",
+        "Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology.",
+        "This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date.",
+        "In this narrative review, framed by the research questions outlined in the 2023 European Society of Intensive Care Medicine guidelines, we synthesize current approaches to ARDS subphenotyping across complementary domains: clinical (etiology, rapidly improving ARDS), physiological (gas exchange, recruitability, elastance, and ventilatory ratio), morphological (focal versus non-focal radiological patterns), and biological (individual injury biomarkers and the hyperinflammatory and hypoinflammatory subphenotypes)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Subphenotyping and precision medicine approaches to ARDS.",
+          "The most clinically relevant signal was Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response..",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "heterogeneity",
+            "meaning": "variation between studies or patient groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071126/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43071126"
+    },
+    {
+      "title": "Long-Term Cognitive Function Following Haloperidol Vs. Placebo Treatment in ICU Patients With Delirium.",
+      "source": "Critical care medicine",
+      "date": "Nov 20 2026",
+      "type": "Recent research article",
+      "summary": "Patients in the AID-ICU were randomized to either haloperidol or placebo (0.9% saline) when treated for delirium in the ICU. Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48). To investigate the effects of haloperidol vs. placebo on long-term cognitive function in formerly critically ill patients with ICU delirium, 1 year after randomization in the Agents Intervening against Delirium in the ICU (AID-ICU) randomized clinical trial. Pre-planned 1-year follow-up of the AID-ICU trial conducted from June 2019 to April 2023. Three university-affiliated ICUs in Denmark.",
+      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "pico": {
+        "population": "ICU trial conducted from June 2019 to April 2023",
+        "intervention": "AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function",
+        "comparator": "placebo. However, given the extent of missing outcome data and the divergent results of our sensitivity analyses, this e",
+        "outcomes": "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B. Analyses used the intention-to-treat population. Non-survivors..."
+      },
+      "keyResults": [
+        "Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48).",
+        "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B.",
+        "Analyses used the intention-to-treat population.",
+        "Non-survivors were assigned the lowest possible score on each outcome, reflecting death as a competing outcome."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Long-Term Cognitive Function Following Haloperidol versus Placebo Treatment in ICU Patients....",
+          "The most clinically relevant signal was Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070803/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43070803"
+    },
+    {
+      "title": "Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients.",
+      "source": "American journal of respiratory and critical care medicine",
+      "date": "Nov 23 2026",
+      "type": "Recent research article",
+      "summary": "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms. Relatives of critically ill patients frequently develop post-traumatic stress symptoms. Few studies have evaluated both psychological and ICU-related risk factors. We aimed to identify factors associated with post-traumatic stress symptom severity and probable post-traumatic stress disorder (PTSD) in ICU relatives. In this prospective multicentre cohort study (FAME), we enrolled consecutive adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms. Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety,..."
+      },
+      "keyResults": [
+        "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms.",
+        "Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety, peritraumatic dissociation, and insomnia), and greater severity in the patients (vasopressor use and end-of-life decisions).",
+        "Lower PCL-5 scores were associated with male sex and specific physician communication behaviours."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients.",
+          "The most clinically relevant signal was Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress....",
+          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43070668/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43070668"
+    }
+  ]
+}
