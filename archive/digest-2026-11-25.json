@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 2,
+  "date": "November 25, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 25, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Prehospital Fluid Resuscitation for Patients With Suspected Se",
+      "sentences": [
+        "Story 1 is about Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38, how should we interpret l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality compared with more restrictive usual care. ClinicalTrials.gov Identifier: NCT03068741?",
+        "The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male.",
+        "Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]).",
+        "Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Prehospital Antibiotics for Patients With Suspected Sepsis: Th",
+      "sentences": [
+        "Story 2 is about Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38, how should we interpret patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was?",
+        "The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males.",
+        "Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group.",
+        "The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Association of preoperative vaping-related disorder versus cig",
+      "sentences": [
+        "Story 3 is about Association of preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study..",
+        "This is a cohort study from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in patients with documented preoperative vaping-related disorder and cigarette nicotine dependence, how should we interpret Association of preoperative vaping-related disorder compared with cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study?",
+        "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49).",
+        "Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98).",
+        "Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Nov 24 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Patients were randomized to receive liberal fluids (up to 2 L of normal saline regardless of subsequent SBP) or usual care (fluids only when SBP <90 mm Hg and stopped when SBP ≥100 mm Hg) during prehospital care and until transfer of care in the emergency department. (Patients were additionally randomized to receive ceftriaxone vs placebo; analysis of which is reported separately.). There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival. The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male. Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]). Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
+      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "pico": {
+        "population": "Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38",
+        "intervention": "l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality",
+        "comparator": "more restrictive usual care. ClinicalTrials.gov Identifier: NCT03068741",
+        "outcomes": "The primary outcome was hospital mortality, defined as death prior to hospital discharge up to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival."
+      },
+      "keyResults": [
+        "The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male.",
+        "Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]).",
+        "Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
+        "Among 1686 randomized patients, 1669 were eligible and 1646 were included in the primary outcome analysis (830 in the liberal fluids group and 816 in the usual fluids group)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Prehospital Fluid Resuscitation for Patients With Suspected Sepsis.",
+          "The most clinically relevant signal was The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised controlled trial PITSTOP Antibiotics: prehospital antibiotics for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25627"
+        },
+        {
+          "title": "Randomised controlled trial PITSTOP Fluids: prehospital fluid resuscitation for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25614"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076208/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43076208"
+    },
+    {
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Nov 24 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids; reported separately) during prehospital care in the ambulance. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival. The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males. Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group. The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
+      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "pico": {
+        "population": "Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38",
+        "intervention": "patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality",
+        "comparator": "usual treatment in the emergency department. This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was",
+        "outcomes": "The primary outcome was hospital mortality, defined as death prior to hospital discharge to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival."
+      },
+      "keyResults": [
+        "The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males.",
+        "Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group.",
+        "The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
+        "Among 2091 randomized patients, 2048 were eligible for the primary analysis, with 1026 randomized to receive ceftriaxone and 1022 randomized to receive placebo."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Prehospital Antibiotics for Patients With Suspected Sepsis.",
+          "The most clinically relevant signal was The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised controlled trial PITSTOP Antibiotics: prehospital antibiotics for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25627"
+        },
+        {
+          "title": "Randomised controlled trial PITSTOP Fluids: prehospital fluid resuscitation for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25614"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076168/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43076168"
+    },
+    {
+      "title": "Association of preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study.",
+      "source": "British journal of anaesthesia",
+      "date": "Nov 20 2026",
+      "type": "Cohort study",
+      "summary": "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49). Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98). Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76). Electronic cigarette aerosols may promote airway inflammation, bronchial hyperreactivity, and impaired mucociliary defence, but their perioperative respiratory safety remains uncertain. We examined whether preoperative vaping-related disorder was associated with a higher risk of postoperative respiratory complications than cigarette nicotine dependence.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "patients with documented preoperative vaping-related disorder and cigarette nicotine dependence",
+        "intervention": "Association of preoperative vaping-related disorder",
+        "comparator": "cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study",
+        "outcomes": "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49). Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28),..."
+      },
+      "keyResults": [
+        "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49).",
+        "Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98).",
+        "Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative....",
+          "The most clinically relevant signal was Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Association of preoperative vaping-related disorder should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064584/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43064584"
+    }
+  ]
+}

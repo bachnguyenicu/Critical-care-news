@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "November 24, 2026",
+  "date": "November 25, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 24, 2026.",
+        "Welcome to Critical Care Daily for November 25, 2026.",
         "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Subphenotyping and precision medicine approaches to ARDS.",
+      "heading": "Story 1 - Prehospital Fluid Resuscitation for Patients With Suspected Se",
       "sentences": [
-        "Story 1 is about Subphenotyping and precision medicine approaches to ARDS..",
-        "This is a recent research article from Intensive care medicine.",
-        "The clinical question is best framed as follows: in patient groups that differ in prognosis and/or treatment response, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response.",
-        "Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology.",
-        "This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date.",
-        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
-        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
-      ]
-    },
-    {
-      "heading": "Story 2 - Long-Term Cognitive Function Following Haloperidol Vs. Placebo",
-      "sentences": [
-        "Story 2 is about Long-Term Cognitive Function Following Haloperidol Vs. Placebo Treatment in ICU Patients With Delirium..",
-        "This is a recent research article from Critical care medicine.",
-        "The clinical question is best framed as follows: in ICU trial conducted from June 2019 to April 2023, how should we interpret AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function compared with placebo. However, given the extent of missing outcome data and the divergent results of our sensitivity analyses, this e?",
-        "Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48).",
-        "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B.",
-        "Analyses used the intention-to-treat population.",
+        "Story 1 is about Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38, how should we interpret l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality compared with more restrictive usual care. ClinicalTrials.gov Identifier: NCT03068741?",
+        "The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male.",
+        "Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]).",
+        "Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 3 - Multidimensional Predictors of Post-Traumatic Stress in Relati",
+      "heading": "Story 2 - Prehospital Antibiotics for Patients With Suspected Sepsis: Th",
       "sentences": [
-        "Story 3 is about Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients..",
-        "This is a recent research article from American journal of respiratory and critical care medicine.",
-        "The clinical question is best framed as follows: in adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
-        "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms.",
-        "Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety, peritraumatic dissociation, and insomnia), and greater severity in the patients (vasopressor use and end-of-life decisions).",
-        "Lower PCL-5 scores were associated with male sex and specific physician communication behaviours.",
+        "Story 2 is about Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38, how should we interpret patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was?",
+        "The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males.",
+        "Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group.",
+        "The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "The bedside implication is this: This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - Association of preoperative vaping-related disorder versus cig",
+      "sentences": [
+        "Story 3 is about Association of preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study..",
+        "This is a cohort study from British journal of anaesthesia.",
+        "The clinical question is best framed as follows: in patients with documented preoperative vaping-related disorder and cigarette nicotine dependence, how should we interpret Association of preoperative vaping-related disorder compared with cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study?",
+        "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49).",
+        "Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98).",
+        "Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -65,152 +65,36 @@
   ],
   "articles": [
     {
-      "title": "Subphenotyping and precision medicine approaches to ARDS.",
-      "source": "Intensive care medicine",
-      "date": "Nov 23 2026",
-      "type": "Recent research article",
-      "summary": "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response. Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology. This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date. In this narrative review, framed by the research questions outlined in the 2023 European Society of Intensive Care Medicine guidelines, we synthesize current approaches to ARDS subphenotyping across complementary domains: clinical (etiology, rapidly improving ARDS), physiological (gas exchange, recruitability, elastance, and ventilatory ratio), morphological (focal versus non-focal radiological patterns), and biological (individual injury biomarkers and the hyperinflammatory and hypoinflammatory subphenotypes). We examine their pathobiological basis, temporal dynamics, and retrospective evidence for heterogeneity of treatment effect, and consider how parsimonious biomarker panels, machine-learning classifiers, and adaptive basket trial designs may support clinical implementation.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "patient groups that differ in prognosis and/or treatment response",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
-      },
-      "keyResults": [
-        "Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response.",
-        "Sixty years after its initial description, acute respiratory distress syndrome (ARDS) remains defined by bilateral radiographic opacities and impaired oxygenation rather than by its underlying biology.",
-        "This syndromic definition encompasses considerable clinical and biological heterogeneity, which may contribute to the ineffectiveness of pharmacotherapy trials to date.",
-        "In this narrative review, framed by the research questions outlined in the 2023 European Society of Intensive Care Medicine guidelines, we synthesize current approaches to ARDS subphenotyping across complementary domains: clinical (etiology, rapidly improving ARDS), physiological (gas exchange, recruitability, elastance, and ventilatory ratio), morphological (focal versus non-focal radiological patterns), and biological (individual injury biomarkers and the hyperinflammatory and hypoinflammatory subphenotypes)."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Subphenotyping and precision medicine approaches to ARDS.",
-          "The most clinically relevant signal was Subphenotyping aims to address this heterogeneity by identifying more homogeneous patient groups that differ in prognosis and/or treatment response..",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "heterogeneity",
-            "meaning": "variation between studies or patient groups"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071126/",
-      "urlLabel": "View on PubMed",
-      "pmid": "43071126"
-    },
-    {
-      "title": "Long-Term Cognitive Function Following Haloperidol Vs. Placebo Treatment in ICU Patients With Delirium.",
-      "source": "Critical care medicine",
-      "date": "Nov 20 2026",
-      "type": "Recent research article",
-      "summary": "Patients in the AID-ICU were randomized to either haloperidol or placebo (0.9% saline) when treated for delirium in the ICU. Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48). To investigate the effects of haloperidol vs. placebo on long-term cognitive function in formerly critically ill patients with ICU delirium, 1 year after randomization in the Agents Intervening against Delirium in the ICU (AID-ICU) randomized clinical trial. Pre-planned 1-year follow-up of the AID-ICU trial conducted from June 2019 to April 2023. Three university-affiliated ICUs in Denmark.",
+      "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Nov 24 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Patients were randomized to receive liberal fluids (up to 2 L of normal saline regardless of subsequent SBP) or usual care (fluids only when SBP <90 mm Hg and stopped when SBP ≥100 mm Hg) during prehospital care and until transfer of care in the emergency department. (Patients were additionally randomized to receive ceftriaxone vs placebo; analysis of which is reported separately.). There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival. The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male. Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]). Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
       "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "pico": {
-        "population": "ICU trial conducted from June 2019 to April 2023",
-        "intervention": "AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function",
-        "comparator": "placebo. However, given the extent of missing outcome data and the divergent results of our sensitivity analyses, this e",
-        "outcomes": "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B. Analyses used the intention-to-treat population. Non-survivors..."
+        "population": "Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38",
+        "intervention": "l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality",
+        "comparator": "more restrictive usual care. ClinicalTrials.gov Identifier: NCT03068741",
+        "outcomes": "The primary outcome was hospital mortality, defined as death prior to hospital discharge up to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival."
       },
       "keyResults": [
-        "Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean difference: 2; 95% CI, -3 to 7; p = 0.48).",
-        "The primary outcome was global cognitive function at 1 year, assessed using Repeatable Battery for the Assessment of Neuropsychologic Status (RBANS) Global Index Score Secondary outcomes including domain-specific RBANS scores and executive function, measured by the Trail Making Test A and B.",
-        "Analyses used the intention-to-treat population.",
-        "Non-survivors were assigned the lowest possible score on each outcome, reflecting death as a competing outcome."
+        "The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male.",
+        "Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]).",
+        "Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P = .82).",
+        "Among 1686 randomized patients, 1669 were eligible and 1646 were included in the primary outcome analysis (830 in the liberal fluids group and 816 in the usual fluids group)."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
       ],
       "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Long-Term Cognitive Function Following Haloperidol versus Placebo Treatment in ICU Patients....",
-          "The most clinically relevant signal was Median global cognitive scores were 40 (interquartile range [IQR]: 40-75) in the haloperidol group and 40 (IQR: 40-72) in the placebo group (mean....",
+          "This study examined whether Prehospital Fluid Resuscitation for Patients With Suspected Sepsis.",
+          "The most clinically relevant signal was The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
-        ],
-        "vocabulary": [
-          {
-            "term": "primary outcome",
-            "meaning": "the main outcome the investigators planned to test"
-          },
-          {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
-          },
-          {
-            "term": "applicability",
-            "meaning": "whether the result fits your ICU patients and resources"
-          },
-          {
-            "term": "effect estimate",
-            "meaning": "the numerical size and direction of the treatment or exposure effect"
-          }
-        ],
-        "speakingPrompt": "In one sentence, explain whether AID-ICU treatment with haloperidol for delirium in the ICU was not associated with improved long-term cognitive function should change ICU practice today."
-      },
-      "sourceSignals": [
-        "PubMed"
-      ],
-      "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43070803/",
-      "urlLabel": "View on PubMed",
-      "pmid": "43070803"
-    },
-    {
-      "title": "Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients.",
-      "source": "American journal of respiratory and critical care medicine",
-      "date": "Nov 23 2026",
-      "type": "Recent research article",
-      "summary": "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms. Relatives of critically ill patients frequently develop post-traumatic stress symptoms. Few studies have evaluated both psychological and ICU-related risk factors. We aimed to identify factors associated with post-traumatic stress symptom severity and probable post-traumatic stress disorder (PTSD) in ICU relatives. In this prospective multicentre cohort study (FAME), we enrolled consecutive adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative.",
-      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
-      "pico": {
-        "population": "adults on mechanical ventilation for ≥48 h in 60 ICUs in France (15 December 2022-30 January 2024); for each patient, we enrolled one relative",
-        "intervention": "Exposure or intervention stated in the title/objective.",
-        "comparator": "Comparator or control group stated in the methods/results, if present.",
-        "outcomes": "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms. Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety,..."
-      },
-      "keyResults": [
-        "Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress symptoms.",
-        "Factors associated with higher PCL-5 scores included pre-existing characteristics (social exclusion, living alone, perceived disability, and history of psychological trauma), early symptoms (anxiety, peritraumatic dissociation, and insomnia), and greater severity in the patients (vasopressor use and end-of-life decisions).",
-        "Lower PCL-5 scores were associated with male sex and specific physician communication behaviours."
-      ],
-      "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
-      ],
-      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
-      "englishNotes": {
-        "phrases": [
-          "This study examined whether Multidimensional Predictors of Post-Traumatic Stress in Relatives of Critically Ill Patients.",
-          "The most clinically relevant signal was Of 1346 relatives, 936 (69·5%) completed PCL-5 at 3-month: 106 (11·3%) had probable PTSD and 358 (38·2%) clinically relevant post-traumatic stress....",
-          "The confidence interval suggests whether the confidence interval is narrow enough to support a bedside decision.",
-          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
         ],
         "vocabulary": [
           {
@@ -230,15 +114,154 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether l fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised controlled trial PITSTOP Antibiotics: prehospital antibiotics for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25627"
+        },
+        {
+          "title": "Randomised controlled trial PITSTOP Fluids: prehospital fluid resuscitation for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25614"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076208/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43076208"
+    },
+    {
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Nov 24 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids; reported separately) during prehospital care in the ambulance. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival. The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males. Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group. The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
+      "analysis": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "pico": {
+        "population": "Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38",
+        "intervention": "patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality",
+        "comparator": "usual treatment in the emergency department. This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was",
+        "outcomes": "The primary outcome was hospital mortality, defined as death prior to hospital discharge to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival."
+      },
+      "keyResults": [
+        "The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males.",
+        "Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group.",
+        "The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P = .77).",
+        "Among 2091 randomized patients, 2048 were eligible for the primary analysis, with 1026 randomized to receive ceftriaxone and 1022 randomized to receive placebo."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship, and source control.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Prehospital Antibiotics for Patients With Suspected Sepsis.",
+          "The most clinically relevant signal was The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This may refine antibiotic selection in selected infected patients, but it should be integrated with local microbiology, renal risk, stewardship,....",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether patients with sepsis. To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised controlled trial PITSTOP Antibiotics: prehospital antibiotics for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25627"
+        },
+        {
+          "title": "Randomised controlled trial PITSTOP Fluids: prehospital fluid resuscitation for suspected sepsis JAMA · Added 24 Nov 2026 ↗",
+          "url": "https://doi.org/10.1001/jama.2026.25614"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43076168/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43076168"
+    },
+    {
+      "title": "Association of preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study.",
+      "source": "British journal of anaesthesia",
+      "date": "Nov 20 2026",
+      "type": "Cohort study",
+      "summary": "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49). Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98). Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76). Electronic cigarette aerosols may promote airway inflammation, bronchial hyperreactivity, and impaired mucociliary defence, but their perioperative respiratory safety remains uncertain. We examined whether preoperative vaping-related disorder was associated with a higher risk of postoperative respiratory complications than cigarette nicotine dependence.",
+      "analysis": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "pico": {
+        "population": "patients with documented preoperative vaping-related disorder and cigarette nicotine dependence",
+        "intervention": "Association of preoperative vaping-related disorder",
+        "comparator": "cigarette nicotine dependence with postoperative respiratory complications: a multicentre matched cohort study",
+        "outcomes": "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49). Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28),..."
+      },
+      "keyResults": [
+        "Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette nicotine dependence (10.7% vs 5.1%, relative risk [RR] 2.11, 95% confidence interval [CI] 1.79-2.49).",
+        "Vaping-related disorder was also associated with increased risks of pneumonia (RR 3.20, 95% CI 2.40-4.28), respiratory failure (RR 2.48, 95% CI 1.98-3.10), bronchospasm (RR 1.92, 95% CI, 1.38-2.68), and noninvasive ventilation (RR 2.56, 95% CI 1.64-3.98).",
+        "Vaping-related disorder combined with cigarette nicotine dependence was associated with a higher risk of respiratory complications than cigarette nicotine dependence alone (RR 1.98, 95% CI 1.55-2.53), whereas vaping-related disorder alone showed a larger RR increase than neither diagnosis (RR 3.11, 95% CI 2.56-3.76)."
+      ],
+      "criticalAppraisal": [
+        "Observational evidence: useful for association and prognosis, but residual confounding is likely.",
+        "Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data."
+      ],
+      "practiceImpact": "Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether preoperative vaping-related disorder versus cigarette nicotine dependence with postoperative....",
+          "The most clinically relevant signal was Among 3817 matched pairs, preoperative vaping-related disorder was associated with a higher risk of 30-day respiratory complications than cigarette....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Useful for risk stratification and hypothesis generation, but avoid causal bedside changes unless supported by interventional evidence..",
+          "I would interpret this cautiously because Check confounding by indication, adjustment variables, immortal-time bias, and missing outcome data.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Association of preoperative vaping-related disorder should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43070668/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064584/",
       "urlLabel": "View on PubMed",
-      "pmid": "43070668"
+      "pmid": "43064584"
     }
   ]
 }
