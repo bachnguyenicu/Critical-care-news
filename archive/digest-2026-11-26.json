@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "date": "November 26, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 26, 2026.",
+        "Today we will review 2 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Ringer's lactate versus saline in the fluids in septic shock (",
+      "sentences": [
+        "Story 1 is about Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial..",
+        "This is a recent research article from The Lancet. Respiratory medicine.",
+        "The clinical question is best framed as follows: in adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based rand, how should we interpret Ringer's lactate compared with saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial?",
+        "Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group).",
+        "491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
+        "187 (33·6%) patients died in the Ringer's lactate group 180 (33·0%) died in the saline group (relative risk 1·02 [95% CI 0·86-1·21]; p=0·80).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Telehealth to Support Coordinated Spontaneous Awakening and Br",
+      "sentences": [
+        "Story 2 is about Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial..",
+        "This is a randomized / clinical trial from JAMA.",
+        "The clinical question is best framed as follows: in Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on, how should we interpret ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes compared with standard audit and feedback implementation alone (control). A cluster randomized type 2 hybrid effectiveness-implementat?",
+        "There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female).",
+        "The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%).",
+        "Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial.",
+      "source": "The Lancet. Respiratory medicine",
+      "date": "Nov 24 2026",
+      "type": "Recent research article",
+      "summary": "In this multicentre, blinded, parallel-group, randomised controlled trial, adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based randomisation system to receive Ringer's lactate or 0·9% saline for all bolus and maintenance fluid throughout their intensive care unit (ICU) stay up to day 30, stratified by hospital. We included patients who had a systolic blood pressure lower than 90 mm Hg or a mean arterial pressure of less than 65 mm Hg after 1 L bolus or a serum lactate greater than 4 mmol/L, had a clinically suspected infection, and were within 6 h of emergency department presentation or ICU consultation. We excluded patients who had new raised intracranial pressure, had acute burn injury on more than 10% of the body surface area, were already receiving chronic or acute dialysis at the time of screening, or were admitted to ICU directly from the operating room, post-anaesthetic care unit, or another hospital or health-care facility. Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group). 491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
+      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "pico": {
+        "population": "adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based rand",
+        "intervention": "Ringer's lactate",
+        "comparator": "saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial",
+        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+      },
+      "keyResults": [
+        "Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group).",
+        "491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
+        "187 (33·6%) patients died in the Ringer's lactate group 180 (33·0%) died in the saline group (relative risk 1·02 [95% CI 0·86-1·21]; p=0·80).",
+        "The mean baseline serum lactate was 4·8 mmol/L (SD 3·5) and the mean serum creatinine was 176·5 μmol/L (SD 126·4)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial.",
+          "The most clinically relevant signal was Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "intention-to-treat",
+            "meaning": "analysis according to the original assigned groups"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Ringer's lactate should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Randomised controlled trial FISSH: Ringer’s lactate versus saline in septic shock Lancet Respir Med · Added 25 Nov 2026 ↗",
+          "url": "https://doi.org/10.1016/S2213-2600(26)00347-4"
+        },
+        {
+          "title": "FISSH: Ringer’s lactate versus saline in septic shock",
+          "url": "https://criticalcarereviews.com/meetings/ccr26#FISSH"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078115/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43078115"
+    },
+    {
+      "title": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial.",
+      "source": "JAMA",
+      "date": "Nov 25 2026",
+      "type": "Randomized / clinical trial",
+      "summary": "Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on January 23, 2026. C-SAT/SBT was defined as any day that the SAT and SBT were separately adherent, and the SAT followed the SBT within 2 hours or both occurred before noon, or the patient was extubated. There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female). The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%). Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days).",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on",
+        "intervention": "ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes",
+        "comparator": "standard audit and feedback implementation alone (control). A cluster randomized type 2 hybrid effectiveness-implementat",
+        "outcomes": "Co-primary outcome measures were adherence to C-SAT/SBT and ventilator-free days to day 28. C-SAT/SBT was defined as any day that the SAT and SBT were separately adherent, and the SAT followed the SBT within 2 hours or both occurred before noon, or the patient was extubated. Change in adherence from baseline was compared between groups using a mixed-..."
+      },
+      "keyResults": [
+        "There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female).",
+        "The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%).",
+        "Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days)."
+      ],
+      "criticalAppraisal": [
+        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
+        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive....",
+          "The most clinically relevant signal was There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median....",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082011/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43082011"
+    }
+  ]
+}
