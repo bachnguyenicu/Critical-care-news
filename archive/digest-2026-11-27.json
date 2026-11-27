@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "date": "November 27, 2026",
+  "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
+  "script": [
+    {
+      "heading": "Intro",
+      "sentences": [
+        "Welcome to Critical Care Daily for November 27, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
+        "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
+        "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
+      ]
+    },
+    {
+      "heading": "Story 1 - Resuscitation strategies incorporating peripheral perfusion ta",
+      "sentences": [
+        "Story 1 is about Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes compared with usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa?",
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 2 - Remimazolam versus propofol for sedation in mechanically venti",
+      "sentences": [
+        "Story 2 is about Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in ICU patients, how should we interpret Remimazolam compared with propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials?",
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - The association between normal capillary refill time and 28-da",
+      "sentences": [
+        "Story 3 is about The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in patients from the ANDROMEDA-SHOCK 1 and 2 trials, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Outro",
+      "sentences": [
+        "That wraps up today's journal club style update.",
+        "Before applying any finding, check the full source, the absolute effect size, and your local ICU context.",
+        "For English practice, repeat one academic phrase from each article out loud."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 13 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE). No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days. A mortality reduction was not demonstrated, although clinically important benefit or harm cannot be excluded.",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "pico": {
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes",
+        "comparator": "usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa",
+        "outcomes": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were..."
+      },
+      "keyResults": [
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
+        "No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Resuscitation strategies incorporating peripheral perfusion targets in septic shock.",
+          "The most clinically relevant signal was Five RCTs involving 2180 patients with septic shock were included..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          },
+          {
+            "term": "patient-centered outcome",
+            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Individualising resuscitation Personalised fluid therapy in septic shock ↗ Messina et al. · Ann Intensive Care · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13578956/"
+        },
+        {
+          "title": "Targets, fluids and vasoactives Resuscitation targets, fluids and vasoactives in septic shock ↗ Graham et al. · Clin Chest Med · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12917878/"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025024/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43025024"
+    },
+    {
+      "title": "Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Continuous endpoints were reported using mean differences (MDs), and dichotomous outcomes were analyzed using risk ratios (RRs), with 95% confidence intervals (CIs). Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise. Propofol is widely used for sedation in the intensive care unit (ICU), but its use may be limited by cardiovascular depression, hypertriglyceridemia, and propofol infusion syndrome.",
+      "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "pico": {
+        "population": "ICU patients",
+        "intervention": "Remimazolam",
+        "comparator": "propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials",
+        "outcomes": "Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of..."
+      },
+      "keyResults": [
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise."
+      ],
+      "criticalAppraisal": [
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
+      ],
+      "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether Remimazolam versus propofol for sedation in mechanically ventilated ICU patients.",
+          "The most clinically relevant signal was Six RCTs including 705 patients were analyzed..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Remimazolam should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed"
+      ],
+      "curationLinks": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981695/",
+      "urlLabel": "View on PubMed",
+      "pmid": "42981695"
+    },
+    {
+      "title": "The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation.",
+      "source": "Journal of critical care",
+      "date": "Nov 13 2026",
+      "type": "Recent research article",
+      "summary": "This post-hoc analysis included all randomized patients from the ANDROMEDA-SHOCK 1 and 2 trials. CRT was classified as normal (≤3 s) or abnormal (>3 s). The primary outcome was 28-day mortality, analyzed using Cox proportional hazards regression and reported as hazard ratios (HR) with 95% confidence intervals (CI). Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients from the ANDROMEDA-SHOCK 1 and 2 trials",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L. Patients with..."
+      },
+      "keyResults": [
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
+        "34.3%; HR 0.61, 95% CI 0.50-0.74; p < 0.001) similarly for 90-day mortality (25.9% versus 40.6%; HR 0.61, 95% CI 0.52-0.73; p < 0.001)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether The association between normal capillary refill time and 28-day mortality in septic shock....",
+          "The most clinically relevant signal was Among 1885 patients, 691 (36.7%) had normal baseline CRT..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Individualising resuscitation Personalised fluid therapy in septic shock ↗ Messina et al. · Ann Intensive Care · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13578956/"
+        },
+        {
+          "title": "Targets, fluids and vasoactives Resuscitation targets, fluids and vasoactives in septic shock ↗ Graham et al. · Clin Chest Med · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12917878/"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025026/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43025026"
+    }
+  ]
+}

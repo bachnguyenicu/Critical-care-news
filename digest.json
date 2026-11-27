@@ -1,42 +1,56 @@
 {
   "schemaVersion": 2,
-  "date": "November 26, 2026",
+  "date": "November 27, 2026",
   "subtitle": "Journal-club style ICU update: PICO, key results, appraisal, bedside impact, and medical English.",
   "script": [
     {
       "heading": "Intro",
       "sentences": [
-        "Welcome to Critical Care Daily for November 26, 2026.",
-        "Today we will review 2 recent ICU-relevant publications.",
+        "Welcome to Critical Care Daily for November 27, 2026.",
+        "Today we will review 3 recent ICU-relevant publications.",
         "The format is quick listen first, then PICO, key results, critical appraisal, bedside impact, and medical English notes.",
         "Use this as a morning triage tool, then open the source link for full-text appraisal before changing practice."
       ]
     },
     {
-      "heading": "Story 1 - Ringer's lactate versus saline in the fluids in septic shock (",
+      "heading": "Story 1 - Resuscitation strategies incorporating peripheral perfusion ta",
       "sentences": [
-        "Story 1 is about Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial..",
-        "This is a recent research article from The Lancet. Respiratory medicine.",
-        "The clinical question is best framed as follows: in adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based rand, how should we interpret Ringer's lactate compared with saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial?",
-        "Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group).",
-        "491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
-        "187 (33·6%) patients died in the Ringer's lactate group 180 (33·0%) died in the saline group (relative risk 1·02 [95% CI 0·86-1·21]; p=0·80).",
+        "Story 1 is about Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text., how should we interpret uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes compared with usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa?",
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
-        "The bedside implication is this: This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+        "The bedside implication is this: Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
     {
-      "heading": "Story 2 - Telehealth to Support Coordinated Spontaneous Awakening and Br",
+      "heading": "Story 2 - Remimazolam versus propofol for sedation in mechanically venti",
       "sentences": [
-        "Story 2 is about Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial..",
-        "This is a randomized / clinical trial from JAMA.",
-        "The clinical question is best framed as follows: in Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on, how should we interpret ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes compared with standard audit and feedback implementation alone (control). A cluster randomized type 2 hybrid effectiveness-implementat?",
-        "There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female).",
-        "The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%).",
-        "Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days).",
+        "Story 2 is about Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials..",
+        "This is a systematic review / meta-analysis from Journal of critical care.",
+        "The clinical question is best framed as follows: in ICU patients, how should we interpret Remimazolam compared with propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials?",
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise.",
         "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
         "The bedside implication is this: Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
+        "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
+      ]
+    },
+    {
+      "heading": "Story 3 - The association between normal capillary refill time and 28-da",
+      "sentences": [
+        "Story 3 is about The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation..",
+        "This is a recent research article from Journal of critical care.",
+        "The clinical question is best framed as follows: in patients from the ANDROMEDA-SHOCK 1 and 2 trials, how should we interpret Exposure or intervention stated in the title/objective. compared with Comparator or control group stated in the methods/results, if present.?",
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
+        "For critical appraisal, focus on whether the design supports a causal conclusion and whether the patients resemble your ICU population.",
+        "The bedside implication is this: Use as an awareness item; read the full article before applying it clinically.",
         "Useful English phrase: these findings should be interpreted cautiously because the details of design and applicability matter."
       ]
     },
@@ -51,41 +65,38 @@
   ],
   "articles": [
     {
-      "title": "Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial.",
-      "source": "The Lancet. Respiratory medicine",
-      "date": "Nov 24 2026",
-      "type": "Recent research article",
-      "summary": "In this multicentre, blinded, parallel-group, randomised controlled trial, adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based randomisation system to receive Ringer's lactate or 0·9% saline for all bolus and maintenance fluid throughout their intensive care unit (ICU) stay up to day 30, stratified by hospital. We included patients who had a systolic blood pressure lower than 90 mm Hg or a mean arterial pressure of less than 65 mm Hg after 1 L bolus or a serum lactate greater than 4 mmol/L, had a clinically suspected infection, and were within 6 h of emergency department presentation or ICU consultation. We excluded patients who had new raised intracranial pressure, had acute burn injury on more than 10% of the body surface area, were already receiving chronic or acute dialysis at the time of screening, or were admitted to ICU directly from the operating room, post-anaesthetic care unit, or another hospital or health-care facility. Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group). 491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
-      "analysis": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "title": "Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 13 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE). No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days. A mortality reduction was not demonstrated, although clinically important benefit or harm cannot be excluded.",
+      "analysis": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
       "pico": {
-        "population": "adults (aged ≥16 years) at 30 academic and community hospitals across Canada and Saudi Arabia who were critically ill with septic shock were randomly assigned (1:1) via a web-based rand",
-        "intervention": "Ringer's lactate",
-        "comparator": "saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial",
-        "outcomes": "Main outcomes are those reported in the abstract; prioritize patient-centered outcomes such as mortality, ventilation duration, ICU stay, and adverse events."
+        "population": "Critically ill or ICU-relevant patients described in the abstract; confirm eligibility criteria in the full text.",
+        "intervention": "uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes",
+        "comparator": "usual care. A systematic review and meta-analysis of randomized controlled trials (RCTs) using a random-effects model wa",
+        "outcomes": "Five RCTs involving 2180 patients with septic shock were included. Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE). However, RSIPPT were..."
       },
       "keyResults": [
-        "Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557 patients in the Ringer's lactate group and 546 in the saline group).",
-        "491 (44·5%) were female and 612 (55·5%) were male, the mean baseline APACHE II score was 24·7 (SD 8·8), and patients received a mean of 5844 mL (SD 4761) of study fluid.",
-        "187 (33·6%) patients died in the Ringer's lactate group 180 (33·0%) died in the saline group (relative risk 1·02 [95% CI 0·86-1·21]; p=0·80).",
-        "The mean baseline serum lactate was 4·8 mmol/L (SD 3·5) and the mean serum creatinine was 176·5 μmol/L (SD 126·4)."
+        "Five RCTs involving 2180 patients with septic shock were included.",
+        "Compared with conventional strategies, RSIPPT were not associated with significant differences in 28/30-day mortality (four RCTs; RR 0.92, 95% CI 0.78-1.09; I2 = 10%; moderate CoE) or 90-day mortality (three RCTs; RR 0.94, 95% CI 0.83-1.05; I2 = 0%; low CoE).",
+        "However, RSIPPT were associated with fluid reduction during the first 6-8 h of resuscitation (three RCTs; MD -264.53 mL, 95% CI -425.28 to -103.77; I2 = 1%; low CoE).",
+        "No significant differences were observed in intensive care unit or hospital length of stay, organ dysfunction, vasopressor-free days, ventilator-free days, or renal replacement therapy-free days."
       ],
       "criticalAppraisal": [
-        "Early evidence: useful for awareness, not enough alone to change practice."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
-      "practiceImpact": "This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches your resuscitation patients.",
+      "practiceImpact": "Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU population matches the study.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial.",
-          "The most clinically relevant signal was Between Oct 6, 2018, and Feb 1, 2026, we screened 2457 patients and randomly assigned 1113, with a further ten excluded after randomisation (557....",
+          "This study examined whether Resuscitation strategies incorporating peripheral perfusion targets in septic shock.",
+          "The most clinically relevant signal was Five RCTs involving 2180 patients with septic shock were included..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
-          "For bedside practice, this matters because This is relevant to default ICU fluid choice; focus on absolute mortality difference, kidney outcomes, and whether the enrolled population matches....",
-          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+          "For bedside practice, this matters because Potentially practice-relevant because a patient-centered outcome is reported; check absolute risk difference, adverse events, and whether your ICU....",
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
-          {
-            "term": "intention-to-treat",
-            "meaning": "analysis according to the original assigned groups"
-          },
           {
             "term": "applicability",
             "meaning": "whether the result fits your ICU patients and resources"
@@ -99,7 +110,7 @@
             "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether Ringer's lactate should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether uncertain. We aimed to evaluate whether these strategies reduce 28/30-day mortality and improve other clinical outcomes should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed",
@@ -107,53 +118,57 @@
       ],
       "curationLinks": [
         {
-          "title": "Randomised controlled trial FISSH: Ringer’s lactate versus saline in septic shock Lancet Respir Med · Added 25 Nov 2026 ↗",
-          "url": "https://doi.org/10.1016/S2213-2600(26)00347-4"
+          "title": "Individualising resuscitation Personalised fluid therapy in septic shock ↗ Messina et al. · Ann Intensive Care · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13578956/"
         },
         {
-          "title": "FISSH: Ringer’s lactate versus saline in septic shock",
-          "url": "https://criticalcarereviews.com/meetings/ccr26#FISSH"
+          "title": "Targets, fluids and vasoactives Resuscitation targets, fluids and vasoactives in septic shock ↗ Graham et al. · Clin Chest Med · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12917878/"
         }
       ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43078115/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025024/",
       "urlLabel": "View on PubMed",
-      "pmid": "43078115"
+      "pmid": "43025024"
     },
     {
-      "title": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial.",
-      "source": "JAMA",
-      "date": "Nov 25 2026",
-      "type": "Randomized / clinical trial",
-      "summary": "Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on January 23, 2026. C-SAT/SBT was defined as any day that the SAT and SBT were separately adherent, and the SAT followed the SBT within 2 hours or both occurred before noon, or the patient was extubated. There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female). The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%). Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days).",
+      "title": "Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.",
+      "source": "Journal of critical care",
+      "date": "Nov 04 2026",
+      "type": "Systematic review / meta-analysis",
+      "summary": "Continuous endpoints were reported using mean differences (MDs), and dichotomous outcomes were analyzed using risk ratios (RRs), with 95% confidence intervals (CIs). Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise. Propofol is widely used for sedation in the intensive care unit (ICU), but its use may be limited by cardiovascular depression, hypertriglyceridemia, and propofol infusion syndrome.",
       "analysis": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "pico": {
-        "population": "Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on",
-        "intervention": "ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes",
-        "comparator": "standard audit and feedback implementation alone (control). A cluster randomized type 2 hybrid effectiveness-implementat",
-        "outcomes": "Co-primary outcome measures were adherence to C-SAT/SBT and ventilator-free days to day 28. C-SAT/SBT was defined as any day that the SAT and SBT were separately adherent, and the SAT followed the SBT within 2 hours or both occurred before noon, or the patient was extubated. Change in adherence from baseline was compared between groups using a mixed-..."
+        "population": "ICU patients",
+        "intervention": "Remimazolam",
+        "comparator": "propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials",
+        "outcomes": "Six RCTs including 705 patients were analyzed. No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%). No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of..."
       },
       "keyResults": [
-        "There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female).",
-        "The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44; P < .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%).",
-        "Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45, P = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days)."
+        "Six RCTs including 705 patients were analyzed.",
+        "No statistically significant difference was detected in the percentage of time within the target sedation range (MD, -0.45%; 95% CI, -2.46 to 1.55; p = 0.56; I2 = 0%).",
+        "No significant differences were detected in sedation success rate, 28-day mortality, ICU mortality, ICU length of stay, and duration of mechanical ventilation, or safety outcomes, although several estimates were imprecise."
       ],
       "criticalAppraisal": [
-        "Interventional evidence: check allocation, blinding, protocol adherence, and absolute effect size.",
-        "Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat."
+        "High-yield synthesis: check heterogeneity, included study quality, and whether ICU patients match your setting.",
+        "Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable."
       ],
       "practiceImpact": "Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions.",
       "englishNotes": {
         "phrases": [
-          "This study examined whether Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive....",
-          "The most clinically relevant signal was There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median....",
+          "This study examined whether Remimazolam versus propofol for sedation in mechanically ventilated ICU patients.",
+          "The most clinically relevant signal was Six RCTs including 705 patients were analyzed..",
           "The confidence interval suggests how much uncertainty remains around the effect estimate.",
           "For bedside practice, this matters because Use this for journal club before practice change; decide whether the measured outcome is important enough for bedside decisions..",
-          "I would interpret this cautiously because Check randomization, concealment, blinding, missing data, and whether analysis was intention-to-treat.."
+          "I would interpret this cautiously because Look for heterogeneity, small-study effects, and whether pooled outcomes are clinically comparable.."
         ],
         "vocabulary": [
           {
             "term": "primary outcome",
             "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
           },
           {
             "term": "applicability",
@@ -162,21 +177,86 @@
           {
             "term": "effect estimate",
             "meaning": "the numerical size and direction of the treatment or exposure effect"
-          },
-          {
-            "term": "patient-centered outcome",
-            "meaning": "an outcome patients would directly value, such as survival or functional recovery"
           }
         ],
-        "speakingPrompt": "In one sentence, explain whether ntervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes should change ICU practice today."
+        "speakingPrompt": "In one sentence, explain whether Remimazolam should change ICU practice today."
       },
       "sourceSignals": [
         "PubMed"
       ],
       "curationLinks": [],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43082011/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981695/",
       "urlLabel": "View on PubMed",
-      "pmid": "43082011"
+      "pmid": "42981695"
+    },
+    {
+      "title": "The association between normal capillary refill time and 28-day mortality in septic shock patients subjected to early hemodynamic resuscitation.",
+      "source": "Journal of critical care",
+      "date": "Nov 13 2026",
+      "type": "Recent research article",
+      "summary": "This post-hoc analysis included all randomized patients from the ANDROMEDA-SHOCK 1 and 2 trials. CRT was classified as normal (≤3 s) or abnormal (>3 s). The primary outcome was 28-day mortality, analyzed using Cox proportional hazards regression and reported as hazard ratios (HR) with 95% confidence intervals (CI). Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+      "analysis": "Use as an awareness item; read the full article before applying it clinically.",
+      "pico": {
+        "population": "patients from the ANDROMEDA-SHOCK 1 and 2 trials",
+        "intervention": "Exposure or intervention stated in the title/objective.",
+        "comparator": "Comparator or control group stated in the methods/results, if present.",
+        "outcomes": "Among 1885 patients, 691 (36.7%) had normal baseline CRT. Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L. Patients with..."
+      },
+      "keyResults": [
+        "Among 1885 patients, 691 (36.7%) had normal baseline CRT.",
+        "Despite normal CRT, many had abnormal hemodynamic features: 335 (48.5%) had heart rate > 100/min, 258 (37.3%) systolic arterial pressure < 100 mmHg, 152 (22.0%) mean arterial pressure < 65 mmHg, 157 (22.7%) diastolic arterial pressure < 50 mmHg, and 683 (98.8%) lactate >2 mmol/L.",
+        "Patients with normal baseline CRT had significantly lower 28-day mortality than those with abnormal CRT (21.1% vs.",
+        "34.3%; HR 0.61, 95% CI 0.50-0.74; p < 0.001) similarly for 90-day mortality (25.9% versus 40.6%; HR 0.61, 95% CI 0.52-0.73; p < 0.001)."
+      ],
+      "criticalAppraisal": [
+        "Early evidence: useful for awareness, not enough alone to change practice."
+      ],
+      "practiceImpact": "Use as an awareness item; read the full article before applying it clinically.",
+      "englishNotes": {
+        "phrases": [
+          "This study examined whether The association between normal capillary refill time and 28-day mortality in septic shock....",
+          "The most clinically relevant signal was Among 1885 patients, 691 (36.7%) had normal baseline CRT..",
+          "The confidence interval suggests how much uncertainty remains around the effect estimate.",
+          "For bedside practice, this matters because Use as an awareness item; read the full article before applying it clinically..",
+          "I would interpret this cautiously because Early evidence: useful for awareness, not enough alone to change practice.."
+        ],
+        "vocabulary": [
+          {
+            "term": "primary outcome",
+            "meaning": "the main outcome the investigators planned to test"
+          },
+          {
+            "term": "confidence interval",
+            "meaning": "a range showing statistical uncertainty around an estimate"
+          },
+          {
+            "term": "applicability",
+            "meaning": "whether the result fits your ICU patients and resources"
+          },
+          {
+            "term": "effect estimate",
+            "meaning": "the numerical size and direction of the treatment or exposure effect"
+          }
+        ],
+        "speakingPrompt": "In one sentence, explain whether Exposure or intervention stated in the title/objective. should change ICU practice today."
+      },
+      "sourceSignals": [
+        "PubMed",
+        "Critical Care Reviews"
+      ],
+      "curationLinks": [
+        {
+          "title": "Individualising resuscitation Personalised fluid therapy in septic shock ↗ Messina et al. · Ann Intensive Care · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13578956/"
+        },
+        {
+          "title": "Targets, fluids and vasoactives Resuscitation targets, fluids and vasoactives in septic shock ↗ Graham et al. · Clin Chest Med · 2026 · Free full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12917878/"
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025026/",
+      "urlLabel": "View on PubMed",
+      "pmid": "43025026"
     }
   ]
 }
